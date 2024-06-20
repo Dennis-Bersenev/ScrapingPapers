@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "b930688cffe12e5aa750a2573fee2bffb90cc4a8",
+        "title": "Highly Multiplexing, Throughput and Efficient Single-Cell Protein Analysis with Digital Microfluidics.",
+        "abstract": "Proteins as crucial components of cells are responsible for the majority of cellular processes. Sensitive and efficient protein detection enables a more accurate and comprehensive investigation of cellular phenotypes and life activities. Here, a protein sequencing method with high multiplexing, high throughput, high cell utilization, and integration based on digital microfluidics (DMF-Protein-seq) is proposed, which transforms protein information into DNA sequencing readout via DNA-tagged antibodies and labels single cells with unique cell barcodes. In a 184-electrode DMF-Protein-seq system, \u22481800 cells are simultaneously detected per experimental run. The digital microfluidics device harnessing low-adsorbed hydrophobic surface and contaminants-isolated reaction space supports high cell utilization (>90%) and high mapping reads (>90%) with the input cells ranging from 140 to 2000. This system leverages split&pool strategy on the DMF chip for the first time to overcome DMF platform restriction in cell analysis throughput and replace the traditionally tedious bench-top combinatorial barcoding. With the benefits of high efficiency and sensitivity in protein analysis, the system offers great potential for cell classification and drug monitoring based on protein expression at the single-cell level."
+    }
+}

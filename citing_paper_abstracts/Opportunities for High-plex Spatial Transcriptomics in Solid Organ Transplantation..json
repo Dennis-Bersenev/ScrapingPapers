@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "091591c6a6f7620dcb7ec0a93ee17b1a19b7b747",
+        "title": "Opportunities for High-plex Spatial Transcriptomics in Solid Organ Transplantation.",
+        "abstract": "The last 5 y have seen the development and widespread adoption of high-plex spatial transcriptomic technology. This technique detects and quantifies mRNA transcripts in situ, meaning that transcriptomic signatures can be sampled from specific cells, structures, lesions, or anatomical regions while conserving the physical relationships that exist within complex tissues. These methods now frequently implement next-generation sequencing, enabling the simultaneous measurement of many targets, up to and including the whole mRNA transcriptome. To date, spatial transcriptomics has been foremost used in the fields of neuroscience and oncology, but there is potential for its use in transplantation sciences. Transplantation has a clear dependence on biopsies for diagnosis, monitoring, and research. Transplant patients represent a unique cohort with multiple organs of interest, clinical courses, demographics, and immunosuppressive regimens. Obtaining high complexity data on the disease processes underlying rejection, tolerance, infection, malignancy, and injury could identify new opportunities for therapeutic intervention and biomarker identification. In this review, we discuss currently available spatial transcriptomic technologies and how they can be applied to transplantation."
+    }
+}

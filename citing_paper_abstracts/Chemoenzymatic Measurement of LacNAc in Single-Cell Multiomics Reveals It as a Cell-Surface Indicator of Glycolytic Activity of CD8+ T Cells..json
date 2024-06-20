@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7414df74826fb1c20ddb3c111b81edd428741931",
+        "title": "Chemoenzymatic Measurement of LacNAc in Single-Cell Multiomics Reveals It as a Cell-Surface Indicator of Glycolytic Activity of CD8+ T Cells.",
+        "abstract": "Despite the rich information about the physiological state of a cell encoded in the dynamic changes of cell-surface glycans, chemical methods to capture specific glycan epitopes at the single-cell level are quite limited. Here, we report a chemoenzymatic method for the single-cell detection of N-acetyllactosamine (LacNAc) by labeling LacNAc with a specific DNA barcode. The chemoenzymatic labeling does not alter the transcriptional status of immune cells and is compatible with multiple scRNA-seq platforms. Integrated analysis of LacNAc and the transcriptome of T cells at the single-cell level reveals that the amount of cell-surface LacNAc is significantly upregulated in activated CD8+ T cells but maintained at basal levels in resting CD8+ T cells (i.e., naive and central memory T cells). Further analysis confirms that LacNAc levels are positively correlated with the glycolytic activity of CD8+ T cells during differentiation. Taken together, our study demonstrates the feasibility of the chemoenzymatic detection of cell-surface glycan in single-cell RNA sequencing-based multiomics with TCR sequence and cell-surface epitope information (i.e., scTCR and CITE-seq), and provides a new way to characterize the biological role of glycan in diverse physiological states."
+    }
+}

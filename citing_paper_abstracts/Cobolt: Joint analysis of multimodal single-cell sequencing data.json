@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c6d0b2d579254b8e8cb16e36370116172afcd673",
+        "title": "Cobolt: Joint analysis of multimodal single-cell sequencing data",
+        "abstract": "A growing number of single-cell sequencing platforms enable joint profiling of multiple omics from the same cells. We present Cobolt, a novel method that not only allows for analyzing the data from joint-modality platforms, but provides a coherent framework for the integration of multiple datasets measured on different modalities. We demonstrate its performance on multi-modality data of gene expression and chromatin accessibility and illustrate the integration abilities of Cobolt by jointly analyzing this multi-modality data with single-cell RNA-seq and ATAC-seq datasets."
+    }
+}

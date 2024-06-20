@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c8e02807d9a06ebd1e4584513667763d6d0e20b4",
+        "title": "SARS-CoV-2 mutations in MHC-I-restricted epitopes evade CD8+ T cell responses",
+        "abstract": "SARS-CoV-2 mutations in MHC-I epitopes identified by deep viral sequencing evade CTL responses through decreased peptide-MHC-I binding. CD8+ T cell immunity to SARS-CoV-2 has been implicated in COVID-19 severity and virus control. Here, we identified nonsynonymous mutations in MHC-I-restricted CD8+ T cell epitopes after deep sequencing of 747 SARS-CoV-2 virus isolates. Mutant peptides exhibited diminished or abrogated MHC-I binding in a cell-free in vitro assay. Reduced MHC-I binding of mutant peptides was associated with decreased proliferation, IFN-\u03b3 production and cytotoxic activity of CD8+ T cells isolated from HLA-matched COVID-19 patients. Single cell RNA sequencing of ex vivo expanded, tetramer-sorted CD8+ T cells from COVID-19 patients further revealed qualitative differences in the transcriptional response to mutant peptides. Our findings highlight the capacity of SARS-CoV-2 to subvert CD8+ T cell surveillance through point mutations in MHC-I-restricted viral epitopes."
+    }
+}

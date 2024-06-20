@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fa07fe133713ba9250375d78d5fd6d29edfd5da7",
+        "title": "Single-cell RNA sequencing for the study of lupus nephritis",
+        "abstract": "Single-cell RNA sequencing (scRNA-seq) has recently undergone rapid advances in the development of this technology, leading to high throughput and accelerating discovery in many biological systems and diseases. The single-cell resolution of the technique allows for the investigation of heterogeneity in cell populations, and the pinpointing of pathological populations contributing to disease. Here we review the development of scRNA-seq technology and the analysis that has evolved with the ever-increasing throughput. Finally, we highlight recent applications of scRNA-seq to understand the molecular pathogenesis of lupus and lupus nephritis."
+    }
+}

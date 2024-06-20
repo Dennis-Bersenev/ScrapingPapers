@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "8d02424070e17ea798813b61429017100b26a0b7",
+        "title": "Bioinformatics approaches to analyzing CRISPR screen data: from dropout screens to single-cell CRISPR screens",
+        "abstract": "Background: Pooled CRISPR screen is a promising tool in drug targets or essential genes identification with the utilization of three different systems including CRISPR knockout (CRISPRko), CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa). Aside from continuous improvements in technology, more and more bioinformatics methods have been developed to analyze the data obtained by CRISPR screens which facilitate better understanding of physiological effects. Results: Here, we provide an overview on the application of CRISPR screens and bioinformatics approaches to analyzing different types of CRISPR screen data. We also discuss mechanisms and underlying challenges for the analysis of dropout screens, sorting-based screens and single-cell screens. Conclusion: Different analysis approaches should be chosen based on the design of screens. This review will help community to better design novel algorithms and provide suggestions for wet-lab researchers to choose from different analysis methods."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "cd4daac2f0b59fe5bbe4d63b43d1647b10043a30",
+        "title": "Neutralizing IFNL3 Autoantibodies in Severe COVID-19 Identified Using Molecular Indexing of Proteins by Self-Assembly",
+        "abstract": "Unbiased antibody profiling can identify the targets of an immune reaction. A number of likely pathogenic autoreactive antibodies have been associated with life-threatening SARS-CoV-2 infection; yet, many additional autoantibodies likely remain unknown. Here we present Molecular Indexing of Proteins by Self Assembly (MIPSA), a technique that produces ORFeome-scale libraries of proteins covalently coupled to uniquely identifying DNA barcodes for analysis by sequencing. We used MIPSA to profile circulating autoantibodies from 55 patients with severe COVID-19 against 11,076 DNA-barcoded proteins of the human ORFeome library. MIPSA identified previously known autoreactivities, and also detected undescribed neutralizing interferon lambda 3 (IFN-\u03bb3) autoantibodies. At-risk individuals with anti-IFN-\u03bb3 antibodies may benefit from interferon supplementation therapies, such as those currently undergoing clinical evaluation. One-Sentence Summary Molecular Indexing of Proteins by Self Assembly (MIPSA) identifies neutralizing IFNL3 autoantibodies in patients with severe COVID-19. Graphical Abstract"
+    }
+}

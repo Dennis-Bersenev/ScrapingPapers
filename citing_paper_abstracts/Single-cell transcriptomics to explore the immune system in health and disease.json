@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "271bd73ebed27650505123380f821d57ce510f52",
+        "title": "Single-cell transcriptomics to explore the immune system in health and disease",
+        "abstract": "The immune system varies in cell types, states, and locations. The complex networks, interactions, and responses of immune cells produce diverse cellular ecosystems composed of multiple cell types, accompanied by genetic diversity in antigen receptors. Within this ecosystem, innate and adaptive immune cells maintain and protect tissue function, integrity, and homeostasis upon changes in functional demands and diverse insults. Characterizing this inherent complexity requires studies at single-cell resolution. Recent advances such as massively parallel single-cell RNA sequencing and sophisticated computational methods are catalyzing a revolution in our understanding of immunology. Here we provide an overview of the state of single-cell genomics methods and an outlook on the use of single-cell techniques to decipher the adaptive and innate components of immunity."
+    }
+}

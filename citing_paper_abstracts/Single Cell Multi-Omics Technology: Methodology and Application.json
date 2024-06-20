@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "cc077df5b82dd8418bc30c7eab3e77ad1a95d31b",
+        "title": "Single Cell Multi-Omics Technology: Methodology and Application",
+        "abstract": "In the era of precision medicine, multi-omics approaches enable the integration of data from diverse omics platforms, providing multi-faceted insight into the interrelation of these omics layers on disease processes. Single cell sequencing technology can dissect the genotypic and phenotypic heterogeneity of bulk tissue and promises to deepen our understanding of the underlying mechanisms governing both health and disease. Through modification and combination of single cell assays available for transcriptome, genome, epigenome, and proteome profiling, single cell multi-omics approaches have been developed to simultaneously and comprehensively study not only the unique genotypic and phenotypic characteristics of single cells, but also the combined regulatory mechanisms evident only at single cell resolution. In this review, we summarize the state-of-the-art single cell multi-omics methods and discuss their applications, challenges, and future directions."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fc5507b9c350d304fc0dedc4dfe9a0e8196bf8ab",
+        "title": "CASB: A concanavalin A-based sample barcoding strategy for single-cell sequencing",
+        "abstract": "Sample multiplexing facilitates single cell sequencing by reducing costs, revealing subtle difference between similar samples, and identifying artifacts such as cell doublets. However, universal and cost-effective strategies are rather limited. Here, we reported a Concanavalin A-based Sample Barcoding strategy (CASB), which could be followed by both single-cell mRNA and ATAC (assay for transposase accessible chromatin) sequencing techniques. The method involves minimal sample processing, thereby preserving intact transcriptomic or epigenomic patterns. We demonstrated its high labeling efficiency, high accuracy in assigning cells/nuclei to samples regardless of cell type and genetic background, as well as high sensitivity in detecting doublets by two applications: 1) CASB followed by scRNA-seq to track the transcriptomic dynamics of a cancer cell line perturbed by multiple drugs, which revealed compound-specific heterogeneous response; 2) CASB together with both snATAC-seq and scRNA-seq to illustrate the IFN-\u03b3-mediated dynamic changes on epigenome and transcriptome profile, which identified the transcription factor underlying heterogeneous IFN-\u03b3 response."
+    }
+}

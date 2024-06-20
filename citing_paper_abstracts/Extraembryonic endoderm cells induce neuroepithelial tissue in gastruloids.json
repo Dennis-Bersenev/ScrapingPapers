@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9608ade74f562a91b90d9ded281a795fda486302",
+        "title": "Extraembryonic endoderm cells induce neuroepithelial tissue in gastruloids",
+        "abstract": "Stem-cell derived in vitro systems, such as organoids or embryoids, hold great potential for modeling in vivo biology and engineering living systems with novel functions. To unlock that potential, we need new ways to elicit higher-level organization. Here we show that adding extraembryonic endoderm (XEN) cells to mouse gastruloids leads to the formation of neural epithelia. By single-cell RNA-seq, imaging and differentiation experiments, we demonstrate the neural characteristics and spatial patterning of the epithelial tissue. We further show that the XEN cells differentiate reciprocally to a visceral endoderm-like state. Finally, we demonstrate that local inhibition of WNT signaling and production of a basement membrane by the XEN cells underlie the formation of the neuroepithelial tissue. In summary, we establish \u201cXEN Enhanced Gastruloids\u201d (XEGs) to explore heterotypic cellular interactions as a means to achieve complex, tissue-level organization in vitro."
+    }
+}

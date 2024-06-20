@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "bdf75cb08c31ffdee950a22ab8e59b3b34d76f4a",
+        "title": "Predicting Cross-Reactivity and Antigen Specificity of T Cell Receptors",
+        "abstract": "Adaptive immune recognition is mediated by specific interactions between heterodimeric T cell receptors (TCRs) and their cognate peptide-MHC (pMHC) ligands, and the methods to accurately predict TCR:pMHC interaction would have profound clinical, therapeutic and pharmaceutical applications. Herein, we review recent developments in predicting cross-reactivity and antigen specificity of TCR recognition. We discuss current experimental and computational approaches to investigate cross-reactivity and antigen-specificity of TCRs and highlight how integrating kinetic, biophysical and structural features may offer valuable insights in modeling immunogenicity. We further underscore the close inter-relationship of these two interconnected notions and the need to investigate each in the light of the other for a better understanding of T cell responsiveness for the effective clinical applications."
+    }
+}

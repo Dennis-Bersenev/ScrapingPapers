@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "2e3430a375eb5755c86e480c3b76c466e18f581e",
+        "title": "Spatial Transcriptional Mapping of the Human Nephrogenic Program",
+        "abstract": "Congenital abnormalities of the kidney and urinary tract are amongst the most common birth defects affecting 3% of newborns. The human kidney develops over a 30-week period in which a nephron progenitor pool gives rise to around a million nephrons. To establish a framework for human nephrogenesis, we spatially resolved a stereotypical process by which equipotent nephron progenitors generate a nephron anlagen, then applied data-driven approaches to construct three-dimensional protein maps on anatomical models of the nephrogenic program. Single cell RNA sequencing identified novel progenitor states which were spatially mapped to the nephron anatomy enabling the generation of functional gene-networks predicting interactions within and between nephron cell-types. Network mining identified known developmental disease genes and predicts new targets of interest. The spatially resolved nephrogenic program made available through the Human Nephrogenesis Atlas (https://sckidney.flatironinstitute.org/) will facilitate an understanding of kidney development and disease, and enhance efforts to generate new kidney structures."
+    }
+}

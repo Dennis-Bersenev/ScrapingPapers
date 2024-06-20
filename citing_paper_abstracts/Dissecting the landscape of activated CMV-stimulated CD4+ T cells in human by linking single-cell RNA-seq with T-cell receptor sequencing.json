@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a5c34252733cbf479498ab1c5292e21a160ecbc6",
+        "title": "Dissecting the landscape of activated CMV-stimulated CD4+ T cells in human by linking single-cell RNA-seq with T-cell receptor sequencing",
+        "abstract": "CD4 T cell is crucial in CMV infection, but its role is still unclear during this process. Here, we present a single-cell RNA-seq together with T cell receptor (TCR) sequencing to screen the heterogenicity and potential function of CMV pp65 reactivated CD4+ T cell subsets from human peripheral blood, and unveil their potential interactions. Notably, Treg composed the major part of these reactivated cells. Treg gene expression data revealed multiple transcripts of both inflammatory and inhibitory functions. Additionally, we describe the detailed phenotypes of CMV-reactivated effector-memory (Tem), cytotoxic T (CTL), and na\u00efve T cells at the single-cell resolution, and implied the direct derivation of CTL from na\u00efve CD4+ T cells. By analyzing the TCR repertoire, we identified a clonality in stimulated Tem and CTLs, and a tight relationship of Tem and CTL showing a large share in TCR. This study provides clues for understanding the function of CD4+ T cells subsets and unveils their interaction in CMV infection, and may promote the development of CMV immunotherapy."
+    }
+}

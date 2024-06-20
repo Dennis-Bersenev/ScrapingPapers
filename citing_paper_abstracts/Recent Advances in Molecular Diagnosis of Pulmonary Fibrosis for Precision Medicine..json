@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "020b7f533e573c24e912250d108a6d110681ff9b",
+        "title": "Recent Advances in Molecular Diagnosis of Pulmonary Fibrosis for Precision Medicine.",
+        "abstract": "Pulmonary fibrosis is a serious, progressive lung disease characterized by scarring and stiffening lung tissues, affecting the respiratory system and leading to organ failure. It is a complex disease consisting of alveolar damage, chronic inflammation, and a varying degree of lung fibrosis. Significant challenges with pulmonary fibrosis include the lack of effective means to diagnose the disease at early stages, identify patients at higher risks of progress, and assess disease progression and treatment response. Precision medicine powered by accurate molecular profiling and phenotyping could significantly improve our understanding of the disease's heterogeneity, potential biomarkers for diagnosis and prognosis, and molecular targets for treatment development. This Review discusses various translational model systems, including organoids and lung-on-a-chip systems, biomarkers in single cells and extracellular vesicles, and functional pharmacodynamic markers. We also highlight emerging sensing technologies for molecular characterization of pulmonary fibrosis and biomarker detection."
+    }
+}

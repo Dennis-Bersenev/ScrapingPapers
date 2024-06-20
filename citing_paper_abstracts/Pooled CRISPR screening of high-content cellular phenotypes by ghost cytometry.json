@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "cd8ac615b08563ea5b1e9d694f5409f45ceeaeb1",
+        "title": "Pooled CRISPR screening of high-content cellular phenotypes by ghost cytometry",
+        "abstract": "Fast enrichment of cells based on morphological information remains a challenge, limiting genome-wide perturbation screening for diverse high-content phenotypes of cells. Here we show that multi-modal ghost cytometry-based cell sorting is applicable to fast pooled CRISPR screening for both fluorescence and label-free high-content phenotypes of millions of cells. By employing the high-content cell sorter in the fluorescence mode, we enabled the genome-wide CRISPR screening of genes that affect NF-\u03baB nuclear translocation. Furthermore, by employing the multi-parametric, label-free mode, we performed the large-scale screening to identify a gene involved in macrophage polarization. Especially the label-free platform can enrich target phenotypes without invasive staining, preserving untouched cells for downstream assays and unlocking the potential to screen for the cellular phenotypes even when suitable markers are lacking. One-Sentence Summary Machine vision-based cell sorter enabled genome-wide perturbation screens for high-content cell phenotypes even without labeling"
+    }
+}

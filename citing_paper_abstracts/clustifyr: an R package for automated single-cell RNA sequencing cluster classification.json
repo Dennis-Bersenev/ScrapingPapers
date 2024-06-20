@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "8367031651cb30bf5780569fc68bafb5b4cd8c76",
+        "title": "clustifyr: an R package for automated single-cell RNA sequencing cluster classification",
+        "abstract": "Background In single-cell RNA sequencing (scRNA-seq) analysis, assignment of likely cell types remains a time-consuming, error-prone, and biased process. Current packages for identity assignment use limited types of reference data, and often have rigid data structure requirements. As such, a more flexible tool, capable of handling multiple types of reference data and data structures, would be beneficial. Findings To address difficulties in cluster identity assignment, we developed the clustifyr R package. The package leverages external datasets, including gene expression profiles from scRNA-seq, bulk RNA-seq, microarray expression data, and/or signature gene lists, to assign likely cell types. We benchmark various parameters of a correlation-based approach, and also implement a variety of gene list enrichment methods. By providing tools for exploratory data analysis, we demonstrate the feasibility of a simple and effective data-driven approach for cell type assignment in scRNA-seq cell clusters. Conclusions clustifyr is a lightweight and effective cell type assignment tool developed for compatibility with various scRNA-seq analysis workflows. clustifyr is publicly available at https://github.com/rnabioco/clustifyr"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "12b9a2c7f37f06c435d834b940a648a07c0ef643",
+        "title": "Single-Cell Signature Explorer for comprehensive visualization of single cell signatures across scRNA-seq datasets",
+        "abstract": "The momentum of scRNA-seq data sets prompts for simple and powerful tools exploring their meaningful signatures. Here we present Single-Cell_Signature_Explorer (https://sites.google.com/site/fredsoftwares/products/single-cell-signature-explorer), the first method for high throughput scoring at single cell level of any gene set-based signature and visualization across t-SNE. By scanning data sets for single or combined signatures, it quantitatively and qualitatively maps any multi-gene feature, exemplified here with signatures of cell lineages, biological hallmarks and metabolic pathways in large scRNAseq datasets of human PBMC, lung cancer and adult testis."
+    }
+}

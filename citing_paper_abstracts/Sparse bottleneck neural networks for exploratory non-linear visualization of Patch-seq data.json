@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "112d13c2eadfe0ccbd4bb8ea00259f1a082b4766",
+        "title": "Sparse bottleneck neural networks for exploratory non-linear visualization of Patch-seq data",
+        "abstract": "Patch-seq, a recently developed experimental technique, allows neuroscientists to obtain transcriptomic and electrophysiological information from the same neurons. Efficiently analyzing and visualizing such paired multivariate data in order to extract biologically meaningful interpretations has, however, remained a challenge. Here, we use sparse deep neural networks with and without a two-dimensional bottleneck to predict electrophysiological features from the transcriptomic ones using a group lasso penalty, yielding concise and biologically interpretable two-dimensional visualizations. In two large example data sets, this visualization reveals known neural classes and their marker genes without biological prior knowledge. We also demonstrate that our method is applicable to other kinds of multimodal data, such as paired transcriptomic and proteomic measurements provided by CITE-seq."
+    }
+}

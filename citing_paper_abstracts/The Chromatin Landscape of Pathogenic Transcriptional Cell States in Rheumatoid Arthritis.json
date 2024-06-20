@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9b9e42852ef9a632cb8f5188b9f748a0fc888b8d",
+        "title": "The Chromatin Landscape of Pathogenic Transcriptional Cell States in Rheumatoid Arthritis",
+        "abstract": "Synovial tissue inflammation is the hallmark of rheumatoid arthritis (RA). Recent work has identified prominent pathogenic cell states in inflamed RA synovial tissue, such as T peripheral helper cells; however, the epigenetic regulation of these states has yet to be defined. We measured genome-wide open chromatin at single cell resolution from 30 synovial tissue samples, including 12 samples with transcriptional data in multimodal experiments. We identified 24 chromatin classes and predicted their associated transcription factors, including a CD8+ GZMK+ class associated with EOMES and a lining fibroblast class associated with AP-1. By integrating an RA tissue transcriptional atlas, we found that the chromatin classes represented \u2018superstates\u2019 corresponding to multiple transcriptional cell states. Finally, we demonstrated the utility of this RA tissue chromatin atlas through the associations between disease phenotypes and chromatin class abundance as well as the nomination of classes mediating the effects of putatively causal RA genetic variants."
+    }
+}

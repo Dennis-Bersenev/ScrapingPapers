@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "02b126681b52d2b9a55c17b26ba3253ed29cbebb",
+        "title": "Identifying Informative Gene Modules Across Modalities of Single Cell Genomics",
+        "abstract": "Two fundamental aims that emerge when analyzing single-cell RNA-seq data are that of identifying which genes vary in an informative manner and determining how these genes organize into modules. Here we propose a general approach to these problems that operates directly on a given metric of cell-cell similarity, allowing for its integration with any method (linear or non linear) for identifying the primary axes of transcriptional variation between cells. Additionally, we show that when using multimodal data, our procedure can be used to identify genes whose expression reflects alternative notions of similarity between cells, such as physical proximity in a tissue or clonal relatedness in a cell lineage tree. In this manner, we demonstrate that while our method, called Hotspot, is capable of identifying genes that reflect nuanced transcriptional variability between T helper cells, it can also identify spatially-dependent patterns of gene expression in the cerebellum as well as developmentally-heritable expression signatures during embryogenesis."
+    }
+}

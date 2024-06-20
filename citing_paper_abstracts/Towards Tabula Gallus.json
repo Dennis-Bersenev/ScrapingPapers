@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "23045b926017fef13a405b04d0eb387ffb5092e8",
+        "title": "Towards Tabula Gallus",
+        "abstract": "The Tabula Gallus is a proposed project that aims to create a map of every cell type in the chicken body and chick embryos. Chickens (Gallus gallus) are one of the most recognized model animals that recapitulate the development and physiology of mammals. The Tabula Gallus will generate a compendium of single-cell transcriptome data from Gallus gallus, characterize each cell type, and provide tools for the study of the biology of this species, similar to other ongoing cell atlas projects (Tabula Muris and Tabula Sapiens/Human Cell Atlas for mice and humans, respectively). The Tabula Gallus will potentially become an international collaboration between many researchers. This project will be useful for the basic scientific study of Gallus gallus and other birds (e.g., cell biology, molecular biology, developmental biology, neuroscience, physiology, oncology, virology, behavior, ecology, and evolution). It will eventually be beneficial for a better understanding of human health and diseases."
+    }
+}

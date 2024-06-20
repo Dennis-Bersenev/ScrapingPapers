@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "8dc03172adb326b25cbaf9ac2760ef4c2fb0e5bb",
+        "title": "Deciphering Innate Immune Cell-Tumor Microenvironment Crosstalk at a Single-Cell Level",
+        "abstract": "The tumor microenvironment encompasses various innate immune cells which regulate tumor progression. Exploiting innate immune cells is a new frontier of cancer immunotherapy. However, the classical surface markers for cell-type classification cannot always well-conclude the phenotype, which will further hinge our understanding. The innate immune cells include dendritic cells, monocytes/macrophages, natural killer cells, and innate lymphoid cells. They play important roles in tumor growth and survival, in some cases promoting cancer, in other cases negating cancer. The precise characterization of innate immune cells at the single-cell level will boost the potential of cancer immunotherapy. With the development of single-cell RNA sequencing technology, the transcriptome of each cell in the tumor microenvironment can be dissected at a single-cell level, which paves a way for a better understanding of the cell type and its functions. Here, we summarize the subtypes and functions of innate immune cells in the tumor microenvironment based on recent literature on single-cell technology. We provide updates on recent achievements and prospects for how to exploit novel functions of tumor-associated innate immune cells and target them for cancer immunotherapy."
+    }
+}

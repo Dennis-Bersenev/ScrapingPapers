@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "2bef51ddd017bad5410f2c67dee6ae658339f8d2",
+        "title": "MarkerCapsule: Explainable Single Cell Typing using Capsule Networks",
+        "abstract": "Many single cell typing methods require manual annotation which casts problems with respect to resolution of (sub-)types, manpower resources and bias towards existing human knowledge. The integration of heterogeneous data and biologically meaningful interpretation of results are further current key challenges. We introduce MarkerCapsule, which leverages the landmark advantages of capsule networks achieved in their original applications in single cell typing. Thereby, the small amount of labeled data required and the naturally arising, biologically meaningful interpretation of cell types in terms of characteristic gene activity patterns are exemplary strengths, beyond outperforming the state of the art in terms of basic typing accuracy. MarkerCapsule is available at: https://github.com/sumantaray/MarkerCapsule."
+    }
+}

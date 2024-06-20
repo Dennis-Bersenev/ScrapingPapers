@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c3d1426106411b5f54c67c289efccfa9827d0d5d",
+        "title": "Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research",
+        "abstract": "Single-cell RNA sequencing (scRNA-seq) revolutionised our understanding of disease biology and presented the promise of transforming translational research. We developed Besca, a toolkit that streamlines scRNA-seq analyses according to current best practices. A standard workflow covers quality control, filtering, and clustering. Two complementary Besca modules, utilizing hierarchical cell signatures or supervised machine learning, automate cell annotation and provide harmonised nomenclatures across studies. Subsequently, Besca enables estimation of cell type proportions in bulk transcriptomics studies. Using multiple heterogeneous scRNA-seq datasets we show how Besca aids acceleration, interoperability, reusability, and interpretability of scRNA-seq data analysis, crucial aspects in translational research and beyond."
+    }
+}

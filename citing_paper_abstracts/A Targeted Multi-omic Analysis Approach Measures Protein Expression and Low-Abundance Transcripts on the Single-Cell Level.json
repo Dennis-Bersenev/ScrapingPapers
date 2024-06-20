@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "2bdc46c158a65132bf44237a58aebd20d9c59159",
+        "title": "A Targeted Multi-omic Analysis Approach Measures Protein Expression and Low-Abundance Transcripts on the Single-Cell Level",
+        "abstract": "High throughput single-cell RNA sequencing (sc-RNAseq) has become a frequently used tool to assess immune cell function and heterogeneity. Recently, the combined measurement of RNA and protein expression by sequencing was developed, which is commonly known as CITE-Seq. Acquisition of protein expression data along with transcriptome data resolves some of the limitations inherent to only assessing transcript, but also nearly doubles the sequencing read depth required per single cell. Furthermore, there is still a paucity of analysis tools to visualize combined transcript-protein datasets. Here, we describe a novel targeted transcriptomics approach that combines analysis of over 400 genes with simultaneous measurement of over 40 proteins on more than 25,000 cells. This targeted approach requires only about 1/10 of the read depth compared to a whole transcriptome approach while retaining high sensitivity for low abundance transcripts. To analyze these multi-omic transcript-protein datasets, we adapted One-SENSE for intuitive visualization of the relationship of proteins and transcripts on a single-cell level."
+    }
+}

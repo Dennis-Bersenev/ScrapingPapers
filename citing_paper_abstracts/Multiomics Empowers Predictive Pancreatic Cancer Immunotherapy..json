@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fb74c5d83d10f2e10cd6685e18d84c4586504b10",
+        "title": "Multiomics Empowers Predictive Pancreatic Cancer Immunotherapy.",
+        "abstract": "Advances in cancer immunotherapy, particularly immune checkpoint inhibitors, have dramatically improved the prognosis for patients with metastatic melanoma and other previously incurable cancers. However, patients with pancreatic ductal adenocarcinoma (PDAC) generally do not respond to these therapies. PDAC is exceptionally difficult to treat because of its often late stage at diagnosis, modest mutation burden, and notoriously complex and immunosuppressive tumor microenvironment. Simultaneously interrogating features of cancer, immune, and other cellular components of the PDAC tumor microenvironment is therefore crucial for identifying biomarkers of immunotherapeutic resistance and response. Notably, single-cell and multiomics technologies, along with the analytical tools for interpreting corresponding data, are facilitating discoveries of the systems-level cellular and molecular interactions contributing to the overall resistance of PDAC to immunotherapy. Thus, in this review, we will explore how multiomics and single-cell analyses provide the unprecedented opportunity to identify biomarkers of resistance and response to successfully sensitize PDAC to immunotherapy."
+    }
+}

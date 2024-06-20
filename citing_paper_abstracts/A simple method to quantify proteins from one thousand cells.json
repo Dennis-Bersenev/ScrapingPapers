@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "6c50c30fdd8323886e3da969343f0f82fbbe30b3",
+        "title": "A simple method to quantify proteins from one thousand cells",
+        "abstract": "Recent developments in single-cell transcriptomics have created an urgent need for similar approaches to map the proteome in samples from a minimal number of cells. We optimized multiple steps in the mass spectrometry protocol to develop such a method, MinPut, with improved sensitivity to quantify proteins from as few as 1,000 mammalian cells. Min-Put uses chemical peptide labeling and does not require specific equipment, antibodies, or other materials. MinPut quantifies >2,500 proteins with high reproducibility. We established and validated the method by comparing mouse embryonic stem cells and in vitro differentiated motor neurons. MinPut correctly identifies differentially expressed proteins with small fold-changes, and a dynamic range in abundance similar to that of standard methods. Protein abundance measurements obtained with MinPut compare well to corresponding transcript abundance and to measurements using standard inputs. Therefore, MinPut offers a robust and accurate method to acquire proteomics data from minimal input samples."
+    }
+}

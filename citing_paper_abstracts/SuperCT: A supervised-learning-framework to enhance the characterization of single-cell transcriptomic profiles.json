@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "5cafe2e690af3794f730c225690fea4a164d59b5",
+        "title": "SuperCT: A supervised-learning-framework to enhance the characterization of single-cell transcriptomic profiles",
+        "abstract": "Characterization of individual cell types is fundamental to the study of multicellular samples such as tumor tissues. Single-cell RNAseq techniques, which allow high-throughput expression profiling of individual cells, have significantly advanced our ability of this task. Currently, most of the scRNA-seq data analyses are commenced with unsupervised clustering of cells followed by visualization of clusters in a low-dimensional space. Clusters are often assigned to different cell types based on canonical markers. However, the efficiency of characterizing the known cell types in this way is low and limited by the investigator[s] knowledge. In this study, we present a technical framework of training the expandable supervised-classifier in order to reveal the single-cell identities based on their RNA expression profiles. Using multiple scRNA-seq datasets we demonstrate the superior accuracy, robustness, compatibility and expandability of this new solution compared to the traditional methods. We use two examples of model upgrade to demonstrate how the projected evolution of the cell-type classifier is realized."
+    }
+}

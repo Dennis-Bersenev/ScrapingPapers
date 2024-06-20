@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ed8e39a05af9a8ea95e9a129335cb794f07f616f",
+        "title": "Applications of Single-Cell Sequencing Technology to the Enteric Nervous System",
+        "abstract": "With recent technical advances and diminishing sequencing costs, single-cell sequencing modalities have become commonplace. These tools permit analysis of RNA expression, DNA sequence, chromatin structure, and cell surface antigens at single-cell resolution. Simultaneous measurement of numerous parameters can resolve populations including rare cells, thus revealing cellular diversity within organs and permitting lineage reconstruction in developing tissues. Application of these methods to the enteric nervous system has yielded a wealth of data and biological insights. We review recent papers applying single-cell sequencing tools to the nascent neural crest and to the developing and mature enteric nervous system. These studies have shown significant diversity of enteric neurons and glia, suggested paradigms for neuronal specification, and revealed signaling pathways active during development. As technology evolves and multiome techniques combining two or more of transcriptomic, genomic, epigenetic, and proteomic data become prominent, we anticipate these modalities will become commonplace in ENS research and may find a role in diagnostic testing and personalized therapeutics."
+    }
+}

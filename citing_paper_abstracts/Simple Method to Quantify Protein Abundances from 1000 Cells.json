@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "361b957deda67cfe496a9d5a3abc8546915864d6",
+        "title": "Simple Method to Quantify Protein Abundances from 1000 Cells",
+        "abstract": "The rise of single-cell transcriptomics has created an urgent need for similar approaches that use a minimal number of cells to quantify expression levels of proteins. We integrated and optimized multiple recent developments to establish a proteomics workflow to quantify proteins from as few as 1000 mammalian stem cells. The method uses chemical peptide labeling, does not require specific equipment other than cell lysis tools, and quantifies >2500 proteins with high reproducibility. We validated the method by comparing mouse embryonic stem cells and in vitro differentiated motor neurons. We identify differentially expressed proteins with small fold changes and a dynamic range in abundance similar to that of standard methods. Protein abundance measurements obtained with our protocol compared well to corresponding transcript abundance and to measurements using standard inputs. The protocol is also applicable to other systems, such as fluorescence-activated cell sorting (FACS)-purified cells from the tunicate Ciona. Therefore, we offer a straightforward and accurate method to acquire proteomics data from minimal input samples."
+    }
+}

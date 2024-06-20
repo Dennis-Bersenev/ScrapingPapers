@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "546f72177a4e03e4538f58f13ce96c8ac15cfcce",
+        "title": "A dynamic atlas of immunocyte migration from the gut",
+        "abstract": "Dysbiosis in the gut microbiota impacts several systemic diseases. One possible mechanism is the migration of perturbed intestinal immunocytes to extra-intestinal tissues. Combining the Kaede photoconvertible mouse model and single-cell genomics, we generated a detailed map of migratory trajectories from the colon, at baseline and during intestinal and extra-intestinal inflammation. All colonic lineages emigrated from the colon in an S1P-dependent manner, dominated by B lymphocytes with a large continuous circulation of follicular B cells, which carried a gut-imprinted transcriptomic signature. T cell emigration was more selective, with distinct groups of ROR\u03b3+ or IEL-like CD160+ cells in the spleen. Gut inflammation curtailed emigration, except for DCs disseminating to lymph nodes. Colon emigrating cells distributed differentially to tumor, skin inflammation, or arthritic synovium, the former dominated by myeloid cells in a chemokine-dependent manner. These results thus reveal specific cellular trails originating in the gut, influenced by microbiota, which can shape peripheral immunity."
+    }
+}

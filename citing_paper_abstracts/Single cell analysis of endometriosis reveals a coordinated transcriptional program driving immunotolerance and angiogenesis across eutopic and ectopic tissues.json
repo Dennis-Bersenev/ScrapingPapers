@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "6d3cacb60051002cf9e1c2a189f165b9383cb6fa",
+        "title": "Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues",
+        "abstract": "Endometriosis is characterized by growth of endometrial-like tissue outside of the uterus affecting many women in their reproductive age, causing years of pelvic pain and potential infertility. Its pathophysiology remains largely unknown, limiting diagnosis and treatment. We characterized peritoneal and ovarian lesions at single-cell transcriptome resolution and compared to matched eutopic endometrium, control endometrium, and organoids derived from these tissues, generating data on over 100,000 cells across 12 individuals. We spatially localized many of the cell types using imaging mass cytometry. We identify a perivascular mural cell unique to the peritoneal lesions with dual roles in angiogenesis promotion and immune cell trafficking. We define an immunotolerant peritoneal niche, fundamental differences in eutopic endometrium and between lesions microenvironments, and a novel progenitor-like epithelial cell subpopulation. Altogether, this study provides a holistic view of the endometriosis microenvironment representing the first comprehensive cell atlas of the disease, essential information for advancing therapeutics and diagnostics."
+    }
+}

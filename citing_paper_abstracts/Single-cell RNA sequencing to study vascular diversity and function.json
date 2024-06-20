@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7fea0beaa5a1884aeb86fa479e35e10a71cd9a3d",
+        "title": "Single-cell RNA sequencing to study vascular diversity and function",
+        "abstract": "Purpose of review Single-cell RNA sequencing (scRNA-seq) can capture the transcriptional profile of thousands of individual cells concurrently from complex tissues and with remarkable resolution. Either with the goal of seeking information about distinct cell subtypes or responses to a stimulus, the approach has provided robust information and promoted impressive advances in cardiovascular research. The goal of this review is to highlight strategies and approaches to leverage this technology and bypass potential caveats related to evaluation of the vascular cells. Recent findings As the most recent technological development, details associated with experimental strategies, analysis, and interpretation of scRNA-seq data are still being discussed and scrutinized by investigators across the vascular field. Compilation of this information is valuable for those using the technology but particularly important to those about to start utilizing scRNA-seq to seek transcriptome information of vascular cells. Summary As our field progresses to catalog transcriptomes from distinct vascular beds, it is undeniable that scRNA-seq technology is here to stay. Sharing approaches to improve the quality of cell dissociation procedures, analysis, and a consensus of best practices is critical as information from this powerful experimental platform continues to emerge."
+    }
+}

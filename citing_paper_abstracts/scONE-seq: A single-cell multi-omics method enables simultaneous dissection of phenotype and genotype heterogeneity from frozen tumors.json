@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e8b85b14b8fe9d344a11949d2f9c080c6b5c9e21",
+        "title": "scONE-seq: A single-cell multi-omics method enables simultaneous dissection of phenotype and genotype heterogeneity from frozen tumors",
+        "abstract": "Single-cell multi-omics can provide a unique perspective on tumor cellular heterogeneity. Most previous single-cell whole-genome RNA sequencing (scWGS-RNA-seq) methods demonstrate utility with intact cells from fresh samples. Among them, many are not applicable to frozen samples that cannot produce intact single-cell suspensions. We have developed scONE-seq, a versatile scWGS-RNA-seq method that amplifies single-cell DNA and RNA without separating them from each other and hence is compatible with frozen biobanked samples. We benchmarked scONE-seq against existing methods using fresh and frozen samples to demonstrate its performance in various aspects. We identified a unique transcriptionally normal-like tumor clone by analyzing a 2-year frozen astrocytoma sample, demonstrating that performing single-cell multi-omics interrogation on biobanked tissue by scONE-seq could enable previously unidentified discoveries in tumor biology."
+    }
+}

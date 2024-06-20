@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "59b803e0b5750ccd053c2c075220f126d03d89b1",
+        "title": "Atypical B cells are a normal component of immune responses to vaccination and infection in humans",
+        "abstract": "The full diversity of the circulating human B cell compartment is unknown. Flow cytometry analysis suggests that in addition to na\u00efve and memory B cells, there exists a population of CD11c+, CD27\u2212 CD21\u2212 \u201catypical\u201d B cells, that are associated with chronic or recurrent infection and autoimmunity. We used single cell RNA-seq approaches to examine the diversity of both antigen-specific B cells and total B cells in healthy subjects and individuals naturally-exposed to recurrent malaria infections. This analysis revealed two B cell lineages: a classical lineage of activated and resting memory B cells, and an atypical-like lineage. Surprisingly, the atypical lineage was common in both malaria exposed individuals and non-exposed healthy controls. Using barcoded antibodies in conjunction with our transcriptomic data, we found that atypical lineage cells in healthy individuals lack many atypical B markers and thus represent an undercounted cryptic population. We further determined using antigen specific probes that atypical cells can be induced by primary vaccination in humans and can be recalled upon boosting. Collectively these data suggest that atypical cells are not necessarily pathogenic but can be a normal component of B responses to antigen."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "50b00f5121a6acefb20e386897dcb662ee572eb5",
+        "title": "Single Cell Analysis of Blood Mononuclear Cells Stimulated Through Either LPS or Anti-CD3 and Anti-CD28",
+        "abstract": "Immune cell activation assays have been widely used for immune monitoring and for understanding disease mechanisms. However, these assays are typically limited in scope. A holistic study of circulating immune cell responses to different activators is lacking. Here we developed a cost-effective high-throughput multiplexed single-cell RNA-seq combined with epitope tagging (CITE-seq) to determine how classic activators of T cells (anti-CD3 coupled with anti-CD28) or monocytes (LPS) alter the cell composition and transcriptional profiles of peripheral blood mononuclear cells (PBMCs) from healthy human donors. Anti-CD3/CD28 treatment activated all classes of lymphocytes either directly (T cells) or indirectly (B and NK cells) but reduced monocyte numbers. Activated T and NK cells expressed senescence and effector molecules, whereas activated B cells transcriptionally resembled autoimmune disease- or age-associated B cells (e.g., CD11c, T-bet). In contrast, LPS specifically targeted monocytes and induced two main states: early activation characterized by the expression of chemoattractants and a later pro-inflammatory state characterized by expression of effector molecules. These data provide a foundation for future immune activation studies with single cell technologies (https://czi-pbmc-cite-seq.jax.org/)."
+    }
+}

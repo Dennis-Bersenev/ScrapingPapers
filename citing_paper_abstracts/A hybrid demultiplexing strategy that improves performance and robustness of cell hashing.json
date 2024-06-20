@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "5c40535c9050ce3c82ac47b66f526ad6e897a633",
+        "title": "A hybrid demultiplexing strategy that improves performance and robustness of cell hashing",
+        "abstract": "Abstract Cell hashing, a nucleotide barcode-based method that allows users to pool multiple samples and demultiplex in downstream analysis, has gained widespread popularity in single-cell sequencing due to its compatibility, simplicity, and cost-effectiveness. Despite these advantages, the performance of this method remains unsatisfactory under certain circumstances, especially in experiments that have imbalanced sample sizes or use many hashtag antibodies. Here, we introduce a hybrid demultiplexing strategy that increases accuracy and cell recovery in multi-sample single-cell experiments. This approach correlates the results of cell hashing and genetic variant clustering, enabling precise and efficient cell identity determination without additional experimental costs or efforts. In addition, we developed HTOreader, a demultiplexing tool for cell hashing that improves the accuracy of cut-off calling by avoiding the dominance of negative signals in experiments with many hashtags or imbalanced sample sizes. When compared to existing methods using real-world datasets, this hybrid approach and HTOreader consistently generate reliable results with increased accuracy and cell recovery."
+    }
+}

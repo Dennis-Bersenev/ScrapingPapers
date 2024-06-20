@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "4b68e7431dc2ccab6d012b3a5f5da86eff71d078",
+        "title": "Single cell RNA-seq by mostly-natural sequencing by synthesis",
+        "abstract": "Massively parallel single cell RNA-seq (scRNA-seq) for diverse applications, from cell atlases to functional screens, is increasingly limited by sequencing costs, and large-scale low-cost sequencing can open many additional applications, including patient diagnostics and drug screens. Here, we adapted and systematically benchmarked a newly developed, mostly-natural sequencing by synthesis method for scRNA-seq. We demonstrate successful application in four scRNA-seq case studies of different technical and biological types, including 5\u2019 and 3\u2019 scRNA-seq, human peripheral blood mononuclear cells from a single individual and in multiplex, as well as Perturb-Seq. Our data show comparable results to existing technology, including compatibility with state-of-the-art scRNA-seq libraries independent of the sequencing technology used \u2013 thus providing an enhanced cost-effective path for large scale scRNA-seq."
+    }
+}

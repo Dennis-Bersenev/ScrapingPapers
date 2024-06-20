@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fc45597cf045209db0e6ebb9446cb858257d39f8",
+        "title": "Single-Cell Genomics: Catalyst for Cell Fate Engineering",
+        "abstract": "As we near a complete catalog of mammalian cell types, the capability to engineer specific cell types on demand would transform biomedical research and regenerative medicine. However, the current pace of discovering new cell types far outstrips our ability to engineer them. One attractive strategy for cellular engineering is direct reprogramming, where induction of specific transcription factor (TF) cocktails orchestrates cell state transitions. Here, we review the foundational studies of TF-mediated reprogramming in the context of a general framework for cell fate engineering, which consists of: discovering new reprogramming cocktails, assessing engineered cells, and revealing molecular mechanisms. Traditional bulk reprogramming methods established a strong foundation for TF-mediated reprogramming, but were limited by their small scale and difficulty resolving cellular heterogeneity. Recently, single-cell technologies have overcome these challenges to rapidly accelerate progress in cell fate engineering. In the next decade, we anticipate that these tools will enable unprecedented control of cell state."
+    }
+}

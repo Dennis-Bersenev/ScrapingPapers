@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "cab24dd9025bd5d6951402136ce8495cc4debf6f",
+        "title": "In situ tools for chromatin structural epigenomics",
+        "abstract": "Technological progress over the past 15\u2009years has fueled an explosion in genome\u2010wide chromatin profiling tools that take advantage of low\u2010cost short\u2010read sequencing technologies to map particular chromatin features. Here, we survey the recent development of epigenomic tools that provide precise positions of chromatin proteins genome\u2010wide in intact cells or nuclei. Some profiling tools are based on tethering Micrococcal Nuclease to chromatin proteins of interest in situ, whereas others similarly tether Tn5 transposase to integrate DNA sequencing adapters (tagmentation) and so eliminate the need for library preparation. These in situ cleavage and tagmentation tools have gained in popularity over the past few years, with many protocol enhancements and adaptations for single\u2010cell and spatial chromatin profiling. The application of experimental and computational tools to address problems in gene regulation, eukaryotic development, and human disease are helping to define the emerging field of chromatin structural epigenomics."
+    }
+}

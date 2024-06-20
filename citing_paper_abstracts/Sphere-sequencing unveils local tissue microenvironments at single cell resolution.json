@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "82ad8e92e1078477defc9754fa568dba3c4ed24b",
+        "title": "Sphere-sequencing unveils local tissue microenvironments at single cell resolution",
+        "abstract": "The spatial organization of cells within tissues is tightly linked to their biological function. Yet, methods to probe the entire transcriptome of multiple native tissue microenvironments at single cell resolution are lacking. Here, we introduce spheresequencing, a method that enables the transcriptomic characterization of single cells within spatially distinct tissue niches. Sphere-sequencing of the mouse metastatic liver revealed previously uncharacterized zonated genes and ligand-receptor interactions enriched in different hepatic microenvironments and the metastatic niche."
+    }
+}

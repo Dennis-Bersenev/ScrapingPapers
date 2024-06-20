@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "37a0ca4508e47358fee44b54a1d0cd31100107cd",
+        "title": "CITEseq analysis of non-small-cell lung cancer lesions reveals an axis of immune cell activation associated with tumor antigen load and TP53 mutations",
+        "abstract": "Immunotherapy is becoming a mainstay in the treatment of NSCLC. While tumor mutational burden (TMB) has been shown to correlate with response to immunotherapy, little is known about the relation of the baseline immune response with the tumor genotype. Here, we profiled 35 early stage NSCLC lesions using multiscale single cell sequencing. Unsupervised clustering identified in a subset of patients a key cellular module consisting of PDCD1+ CXCL13+ activated T cells, IgG+ plasma cells, and SPP1+ macrophages, referred to as the lung cancer activation module (LCAMhi). Transcriptional data from two NSCLC cohorts confirmed a subset of patients with LCAMhi enrichment, which was independent of overall immune cell content. The LCAMhi module strongly correlated with TMB, expression of cancer testis antigens, and with TP53 mutations in smokers and non-smokers. These data establish LCAM as a key mode of immune cell activation associated with high tumor antigen load and driver mutations."
+    }
+}

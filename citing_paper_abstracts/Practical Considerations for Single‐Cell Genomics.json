@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d500cdbef62eb2b135b09289f81a04f2c484e520",
+        "title": "Practical Considerations for Single\u2010Cell Genomics",
+        "abstract": "The single\u2010cell revolution in the field of genomics is in full bloom, with clever new molecular biology tricks appearing regularly that allow researchers to explore new modalities or scale up their projects to millions of cells and beyond. Techniques abound to measure RNA expression, DNA alterations, protein abundance, chromatin accessibility, and more, all with single\u2010cell resolution and often in combination. Despite such a rapidly changing technology landscape, there are several fundamental principles that are applicable to the majority of experimental workflows to help users avoid pitfalls and exploit the advantages of the chosen platform. In this overview article, we describe a variety of popular single\u2010cell genomics technologies and address some common questions pertaining to study design, sample preparation, quality control, and sequencing strategy. As the majority of relevant publications currently revolve around single\u2010cell RNA\u2010seq, we will prioritize this genomics modality in our discussion. \u00a9 2022 Wiley Periodicals LLC."
+    }
+}

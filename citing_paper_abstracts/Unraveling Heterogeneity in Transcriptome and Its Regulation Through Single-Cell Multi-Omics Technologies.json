@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c52ae883344ba9311b2fd44924c08a912027a158",
+        "title": "Unraveling Heterogeneity in Transcriptome and Its Regulation Through Single-Cell Multi-Omics Technologies",
+        "abstract": "Cellular heterogeneity plays a pivotal role in tissue homeostasis and the disease development of multicellular organisms. To deconstruct the heterogeneity, a multitude of single-cell toolkits measuring various cellular contents, including genome, transcriptome, epigenome, and proteome, have been developed. More recently, multi-omics single-cell techniques enable the capture of molecular footprints with a higher resolution by simultaneously profiling various cellular contents within an individual cell. Integrative analysis of multi-omics datasets unravels the relationships between cellular modalities, builds sophisticated regulatory networks, and provides a holistic view of the cell state. In this review, we summarize the major developments in the single-cell field and review the current state-of-the-art single-cell multi-omic techniques and the bioinformatic tools for integrative analysis."
+    }
+}

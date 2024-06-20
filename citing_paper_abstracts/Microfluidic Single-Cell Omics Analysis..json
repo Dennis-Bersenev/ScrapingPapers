@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7b6e42ded36416bab1e2d0362bdad885e5c9333a",
+        "title": "Microfluidic Single-Cell Omics Analysis.",
+        "abstract": "The commonly existed cellular heterogeneity plays a critical role in biological processes such as embryonic development, cell differentiation, and disease progress. Single-cell omics-based heterogeneous study has great significance for identifying different cell populations, discovering new cell types, revealing informative cell features, and uncovering significant interrelationships between cells. Recently, microfluidics has evolved to be a powerful technology for single-cell omics analysis due to its merits of throughput, sensitivity, and accuracy. Herein, the recent advances of microfluidic single-cell omics analysis, including different microfluidic platform designs, lysis strategies, and omics analysis techniques, are reviewed. Representative applications of microfluidic single-cell omics analysis in complex biological studies are then summarized. Finally, a few perspectives on the future challenges and development trends of microfluidic-assisted single-cell omics analysis are discussed."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d1dceb299d3e7b3e53b5d0c1d3ce122a894109a9",
+        "title": "Harnessing the Potential of Multiomics Studies for Precision Medicine in Infectious Disease",
+        "abstract": "Abstract The field of infectious diseases currently takes a reactive approach and treats infections as they present in patients. Although certain populations are known to be at greater risk of developing infection (eg, immunocompromised), we lack a systems approach to define the true risk of future infection for a patient. Guided by impressive gains in \u201comics\u201d technologies, future strategies to infectious diseases should take a precision approach to infection through identification of patients at intermediate and high-risk of infection and deploy targeted preventative measures (ie, prophylaxis). The advances of high-throughput immune profiling by multiomics approaches (ie, transcriptomics, epigenomics, metabolomics, proteomics) hold the promise to identify patients at increased risk of infection and enable risk-stratifying approaches to be applied in the clinic. Integration of patient-specific data using machine learning improves the effectiveness of prediction, providing the necessary technologies needed to propel the field of infectious diseases medicine into the era of personalized medicine."
+    }
+}

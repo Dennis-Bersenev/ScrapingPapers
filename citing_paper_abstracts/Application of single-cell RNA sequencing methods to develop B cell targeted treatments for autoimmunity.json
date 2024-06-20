@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9ff596f86b2545c2cc4600841d003bf4679344cf",
+        "title": "Application of single-cell RNA sequencing methods to develop B cell targeted treatments for autoimmunity",
+        "abstract": "The COVID-19 pandemic coincided with several transformative advances in single-cell analysis. These new methods along with decades of research and trials with antibody therapeutics and RNA based technologies allowed for highly effective vaccines and treatments to be produced at astonishing speeds. While these tools were initially focused on models of infection, they also show promise in an autoimmune setting. Self-reactive B cells play important roles as antigen-presenting cells and cytokine and autoantibody producers for many autoimmune diseases. Yet, current therapies to target autoreactive B cells deplete all B cells irrespective of their pathogenicity. Development of self-reactive B cell targeting therapies that would spare non-pathogenic B cells are needed to treat disease while allowing effective immune responses to other ailments. Single-cell RNA sequencing (scRNA-seq) approaches will aid in identification of the pathogenic self-reactive B cells operative in autoimmunity and help with development of more favorable precision targeted therapies."
+    }
+}

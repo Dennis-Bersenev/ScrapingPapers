@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "4b5659ea2de3954e960ca5a688015f74ed3314c5",
+        "title": "Immune heterogeneity in cardiovascular diseases from a single-cell perspective",
+        "abstract": "A variety of immune cell subsets occupy different niches in the cardiovascular system, causing changes in the structure and function of the heart and vascular system, and driving the progress of cardiovascular diseases (CVDs). The immune cells infiltrating the injury site are highly diverse and integrate into a broad dynamic immune network that controls the dynamic changes of CVDs. Due to technical limitations, the effects and molecular mechanisms of these dynamic immune networks on CVDs have not been fully revealed. With recent advances in single-cell technologies such as single-cell RNA sequencing, systematic interrogation of the immune cell subsets is feasible and will provide insights into the way we understand the integrative behavior of immune populations. We no longer lightly ignore the role of individual cells, especially certain highly heterogeneous or rare subpopulations. We summarize the phenotypic diversity of immune cell subsets and their significance in three CVDs of atherosclerosis, myocardial ischemia and heart failure. We believe that such a review could enhance our understanding of how immune heterogeneity drives the progression of CVDs, help to elucidate the regulatory roles of immune cell subsets in disease, and thus guide the development of new immunotherapies."
+    }
+}

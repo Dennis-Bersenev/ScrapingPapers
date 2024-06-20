@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "da6db7fe03407a9746134c42e33217555e41a71c",
+        "title": "Application of multi-omics in single cells 1",
+        "abstract": "In recent years, single cell assays have made exciting progresses, overcoming the issue of heterogeneity associated with bulk populations. The fast-developing sequencing methods now enable unbiased, high-throughput and highresolution view of the heterogeneity from individual cell within a population, in terms of its fate decisions, identity and function. The cell\u2019s state is regulated at different levels, such as DNA, RNA and protein, by complex interplay of intrinsic molecules existing in the organism and extrinsic stimuli such as local environment. Comprehensive profiling of single cell requires a simultaneously dissection from different levels (multi-omics) to avoid incomplete information generated from single cell. In this short review, we first examine the whole genome amplification methods, and then survey the features of the single cell approaches for genome, epigenome, transcriptome, proteome and metabolome profiling. Finally, we briefly analyze advantages of multi-omics measurement from single cells as compared to separate measurement of each molecular type, and discuss opportunities and challenges of combining single cell multiomics information on resolving phenotype variants."
+    }
+}

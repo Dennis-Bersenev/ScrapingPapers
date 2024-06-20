@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "529cdf58dbce4683e8e5bc5ff5a97e8da8459f59",
+        "title": "Pooled screening of CAR T cells identifies non-native signaling domains for next-generation immunotherapies",
+        "abstract": "Chimeric antigen receptors (CARs) repurpose natural signaling components to retarget T cells to refractory cancers, but have shown limited efficacy against solid tumors. Here, we introduce \u2018CAR Pooling\u2019, a multiplexed approach to rapidly identify CAR designs with clinical potential. Forty CARs with diverse immune costimulatory domains were assessed in pooled assays for their ability to stimulate critical T cell effector functions during repetitive stimulation that mimics long-term tumor antigen exposure. Several non-native domains from the TNF receptor family exhibited enhanced proliferation (CD40) or cytotoxicity (BAFF-R and TACI) relative to clinical benchmarks, and fell into distinct states of memory, cytotoxicity, and metabolism. BAFF-R CAR T cells were enriched for a highly cytotoxic and NK-cell-like innate phenotype previously associated with positive clinical outcomes. \u2018CAR Pooling\u2019 enables efficient exploration of how CAR design affects cell activity and can be applied to optimize receptors across a range of applications and cell types."
+    }
+}

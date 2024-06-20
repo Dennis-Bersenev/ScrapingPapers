@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ed2a26734f4bcb8a4f7c560b5b3b26d274b0f138",
+        "title": "Sample demultiplexing, multiplet detection, experiment planning and novel cell type verification in single cell sequencing",
+        "abstract": "Identifying and removing multiplets from downstream analysis is essential to improve the scalability and reliability of single cell RNA sequencing (scRNA-seq). High multiplet rates create artificial cell types in the dataset. Sample barcoding, including the cell hashing technology and the MULTI-seq technology, enables analytical identification of a fraction of multiplets in a scRNA-seq dataset. We propose a Gaussian-mixture-model-based multiplet identification method, GMM-Demux. GMM-Demux accurately identifies and removes the sample-barcoding-detectable multiplets and estimates the percentage of sample-barcoding-undetectable multiplets in the remaining dataset. GMM-Demux describes the droplet formation process with an augmented binomial probabilistic model, and uses the model to authenticate cell types discovered from a scRNA-seq dataset. We conducted two cell-hashing experiments, collected a public cell-hashing dataset, and generated a simulated cellhashing dataset. We compared the classification result of GMM-Demux against a state-of-the-art heuristic-based classifier. We show that GMM-Demux is more accurate, more stable, reduces the error rate by up to 69\u00d7, and is capable of reliably recognizing 9 multiplet-induced fake cell types and 8 real cell types in a PBMC scRNA-seq dataset."
+    }
+}

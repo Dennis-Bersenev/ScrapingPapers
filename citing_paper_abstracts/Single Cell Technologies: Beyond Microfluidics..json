@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "0efb888639f7a071022ce06f50752857d586ff37",
+        "title": "Single Cell Technologies: Beyond Microfluidics.",
+        "abstract": "Single-cell RNA-sequencing (scRNA-seq) has been widely adopted in recent years due to standardized protocols and automation, reliability, and standardized bioinformatic pipelines. The most widely adopted platform is the 10\u00d7 Genomics solution. Although powerful, this system is limited by its high cost, moderate throughput, and the inability to customize due to fixed kit components. This study will cover new approaches that do not rely on microfluidics and thus have low entry costs, are highly customizable, and are within the reach of any laboratory possessing molecular biology expertise."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "6af664fd27983eebd71bca37654f6efa8e766ef9",
+        "title": "High-content CRISPR screening in tumor immunology",
+        "abstract": "CRISPR screening is a powerful tool that links specific genetic alterations to corresponding phenotypes, thus allowing for high-throughput identification of novel gene functions. Pooled CRISPR screens have enabled discovery of innate and adaptive immune response regulators in the setting of viral infection and cancer. Emerging methods couple pooled CRISPR screens with parallel high-content readouts at the transcriptomic, epigenetic, proteomic, and optical levels. These approaches are illuminating cancer immune evasion mechanisms as well as nominating novel targets that augment T cell activation, increase T cell infiltration into tumors, and promote enhanced T cell cytotoxicity. This review details recent methodological advances in high-content CRISPR screens and highlights the impact this technology is having on tumor immunology."
+    }
+}

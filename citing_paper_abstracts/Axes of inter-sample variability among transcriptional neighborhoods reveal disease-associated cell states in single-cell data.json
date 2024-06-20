@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fda87aa21463f92a16ecd493be995c67cffec755",
+        "title": "Axes of inter-sample variability among transcriptional neighborhoods reveal disease-associated cell states in single-cell data",
+        "abstract": "As single-cell datasets grow in sample size, there is a critical need to characterize cell states that vary across samples and associate with sample attributes like clinical phenotypes. Current statistical approaches typically map cells to cell-type clusters and examine sample differences through that lens alone. Here we present covarying neighborhood analysis (CNA), an unbiased method to identify cell populations of interest with greater flexibility and granularity. CNA characterizes dominant axes of variation across samples by identifying groups of very small regions in transcriptional space\u2014termed neighborhoods\u2014that covary in abundance across samples, suggesting shared function or regulation. CNA can then rigorously test for associations between any sample-level attribute and the abundances of these covarying neighborhood groups. We show in simulation that CNA enables more powerful and accurate identification of disease-associated cell states than a cluster-based approach. When applied to published datasets, CNA captures a Notch activation signature in rheumatoid arthritis, redefines monocyte populations expanded in sepsis, and identifies a previously undiscovered T-cell population associated with progression to active tuberculosis."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ac47e6f88d448f4eb10ebda65459f795e99ed363",
+        "title": "Antibody binding reports spatial heterogeneities in cell membrane organization",
+        "abstract": "The spatial organization of cell membrane glycoproteins and glycolipids is critical for mediating the binding of ligands, receptors, and macromolecules on the plasma membrane. However, we currently do not have the methods to quantify the spatial heterogeneities of macromolecular crowding on live cell surfaces. In this work, we combine experiment and simulation to report crowding heterogeneities on reconstituted membranes and live cell membranes with nanometer spatial resolution. By quantifying the effective binding affinity of IgG monoclonal antibodies to engineered antigen sensors, we discovered sharp gradients in crowding within a few nanometers of the crowded membrane surface. Our measurements on human cancer cells support the hypothesis that raft-like membrane domains exclude bulky membrane proteins and glycoproteins. Our facile and high-throughput method to quantify spatial crowding heterogeneities on live cell membranes may facilitate monoclonal antibody design and provide a mechanistic understanding of plasma membrane biophysical organization."
+    }
+}

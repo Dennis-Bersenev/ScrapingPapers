@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "118c0d1fd2186be29eff704a9678d823870f8190",
+        "title": "Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin",
+        "abstract": "Cell differentiation and function are regulated across multiple layers of gene regulation, including the modulation of gene expression by changes in chromatin accessibility. However, differentiation is an asynchronous process precluding a temporal understanding of the regulatory events leading to cell fate commitment. Here, we developed SHARE-seq, a highly scalable approach for measurement of chromatin accessibility and gene expression within the same single cell. Using 34,774 joint profiles from mouse skin, we develop a computational strategy to identify cis-regulatory interactions and define Domains of Regulatory Chromatin (DORCs), which significantly overlap with super-enhancers. We show that during lineage commitment, chromatin accessibility at DORCs precedes gene expression, suggesting changes in chromatin accessibility may prime cells for lineage commitment. We therefore develop a computational strategy (chromatin potential) to quantify chromatin lineage-priming and predict cell fate outcomes. Together, SHARE-seq provides an extensible platform to study regulatory circuitry across diverse cells within tissues."
+    }
+}

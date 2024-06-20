@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "aed926d10854d4901813603be38d1a5d23f62477",
+        "title": "Single-cell sequencing and its applications in bladder cancer",
+        "abstract": "Abstract Bladder cancer is the most common malignant tumour of the urinary system that is characterised by significant intra-tumoural heterogeneity. While large-scale sequencing projects have provided a preliminary understanding of tumour heterogeneity, these findings are based on the average signals obtained from the pooled populations of diverse cells. Recent advances in single-cell sequencing (SCS) technologies have been critical in this regard, opening up new ways of understanding the nuanced tumour biology by identifying distinct cellular subpopulations, dissecting the tumour microenvironment, and characterizing cellular genomic mutations. By integrating these novel insights, SCS technologies are expected to make powerful and meaningful changes to the current diagnosis and treatment of bladder cancer through the identification and usage of novel biomarkers as well as targeted therapeutics. SCS can discriminate complex heterogeneity in a large population of tumour cells and determine the key molecular properties that influence clinical outcomes. Here, we review the advances in single-cell technologies and discuss their applications in cancer research and clinical practice, with a specific focus on bladder cancer."
+    }
+}

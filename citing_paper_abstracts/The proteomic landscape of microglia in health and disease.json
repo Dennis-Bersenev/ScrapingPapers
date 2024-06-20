@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e3752e5e3453fd6592061c7ce2e1f7c29dafb4c0",
+        "title": "The proteomic landscape of microglia in health and disease",
+        "abstract": "Microglia are the resident immune cells of the central nervous system (CNS) and as such play crucial roles in regulating brain homeostasis. Their presence in neurodegenerative diseases is known, with neurodegeneration-associated risk genes heavily expressed in microglia, highlighting their importance in contributing to disease pathogenesis. Transcriptomics studies have uncovered the heterogeneous landscape of microglia in health and disease, identifying important disease-associated signatures such as DAM, and insight into both the regional and temporal diversity of microglia phenotypes. Quantitative mass spectrometry methods are ever increasing in the field of neurodegeneration, utilised as ways to identify disease biomarkers and to gain deeper understanding of disease pathology. Proteins are the main mechanistic indicators of cellular function, yet discordance between transcript and proteomic findings has highlighted the need for in-depth proteomic phenotypic and functional analysis to fully understand disease kinetics at the cellular and molecular level. This review details the current progress of using proteomics to define microglia biology, the relationship between gene and protein expression in microglia, and the future of proteomics and emerging methods aiming to resolve heterogeneous cell landscapes."
+    }
+}

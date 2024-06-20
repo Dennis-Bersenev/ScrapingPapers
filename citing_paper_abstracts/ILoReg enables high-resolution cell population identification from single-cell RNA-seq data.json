@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "76e6c70ba24c5dd28c525443d22cc40ce2519f72",
+        "title": "ILoReg enables high-resolution cell population identification from single-cell RNA-seq data",
+        "abstract": "Single-cell RNA-seq allows researchers to identify cell populations based on unsupervised clustering of the transcriptome. However, subpopulations can have only subtle transcriptomic differences and the high dimensionality of the data makes their identification challenging. We introduce ILoReg (https://github.com/elolab/iloreg), an R package implementing a new cell population identification method that achieves high differentiation resolution through a probabilistic feature extraction step that is applied before clustering and visualization."
+    }
+}

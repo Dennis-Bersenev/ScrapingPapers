@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c7a475175e5b2d5ad6ea55cf674cf1721e98899c",
+        "title": "Targeted Single-Cell RNA and DNA Sequencing With Fluorescence-Activated Droplet Merger.",
+        "abstract": "Analyzing every cell in a diverse sample provides insight into population-level heterogeneity, but abundant cell types dominate the analysis and rarer populations are scarcely represented in the data. To focus on specific cell types, the current paradigm is to physically isolate subsets of interest prior to analysis; however, it remains difficult to isolate and then single-cell sequence such populations because of compounding losses. Here, we describe an alternative approach that selectively merges cells with reagents to achieve enzymatic reactions without having to physically isolate cells. We apply this technique to perform single-cell transcriptome and genome sequencing of specific cell subsets. Our method for analyzing heterogeneous populations obviates the need for pre- or post-enrichment and simplifies single-cell workflows, making it useful for other applications in single-cell biology, combinatorial chemical synthesis, and drug screening."
+    }
+}

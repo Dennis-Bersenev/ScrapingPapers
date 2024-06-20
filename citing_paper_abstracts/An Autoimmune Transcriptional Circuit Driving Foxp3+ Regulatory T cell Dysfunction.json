@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "14073de5a6868c851c8d29c8a031d5e9074f21f2",
+        "title": "An Autoimmune Transcriptional Circuit Driving Foxp3+ Regulatory T cell Dysfunction",
+        "abstract": "Autoimmune diseases, among the most common disorders of young adults, are mediated by genetic and environmental factors. While CD4+Foxp3+ regulatory T cells (Tregs) play a central role in preventing autoimmunity, the molecular mechanism underlying their dysfunction is unknown. Here, we performed comprehensive transcriptomic and epigenomic profiling of Tregs in the autoimmune disease multiple sclerosis (MS) to identify central transcriptional programs regulating human autoimmunity. We discovered that upregulation of a primate-specific short PRDM1 isoform (PRDM1-S) induces SGK1 independent from evolutionally conserved long PRDM1, leading to destabilization of Foxp3 and Treg dysfunction. This aberrant PRDM1-S/SGK1 axis is shared among other autoimmune diseases. Furthermore, by chromatin landscape profiling in MS Tregs we identified a PRDM1-S specific cis-regulatory element associated with enriched binding of AP- 1/IRF transcription factors. Our study identifies evolutionally emerged PRDM1-S and epigenetic priming of AP-1/IRF as key drivers of pathogenic Treg programs leading to human autoimmune disease."
+    }
+}

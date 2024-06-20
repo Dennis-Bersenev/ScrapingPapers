@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "243f718013f32667911045b4484ee057369e5d95",
+        "title": "scmFormer Integrates Large\u2010Scale Single\u2010Cell Proteomics and Transcriptomics Data by Multi\u2010Task Transformer",
+        "abstract": "Transformer\u2010based models have revolutionized single cell RNA\u2010seq (scRNA\u2010seq) data analysis. However, their applicability is challenged by the complexity and scale of single\u2010cell multi\u2010omics data. Here a novel single\u2010cell multi\u2010modal/multi\u2010task transformer (scmFormer) is proposed to fill up the existing blank of integrating single\u2010cell proteomics with other omics data. Through systematic benchmarking, it is demonstrated that scmFormer excels in integrating large\u2010scale single\u2010cell multimodal data and heterogeneous multi\u2010batch paired multi\u2010omics data, while preserving shared information across batchs and distinct biological information. scmFormer achieves 54.5% higher average F1 score compared to the second method in transferring cell\u2010type labels from single\u2010cell transcriptomics to proteomics data. Using COVID\u201019 datasets, it is presented that scmFormer successfully integrates over 1.48 million cells on a personal computer. Moreover, it is also proved that scmFormer performs better than existing methods on generating the unmeasured modality and is well\u2010suited for spatial multi\u2010omic data. Thus, scmFormer is a powerful and comprehensive tool for analyzing single\u2010cell multi\u2010omics data."
+    }
+}

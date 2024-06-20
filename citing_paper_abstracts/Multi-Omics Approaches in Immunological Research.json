@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "749b69b8d61e83c90781f53e143dfdd3083efc81",
+        "title": "Multi-Omics Approaches in Immunological Research",
+        "abstract": "The immune system plays a vital role in health and disease, and is regulated through a complex interactive network of many different immune cells and mediators. To understand the complexity of the immune system, we propose to apply a multi-omics approach in immunological research. This review provides a complete overview of available methodological approaches for the different omics data layers relevant for immunological research, including genetics, epigenetics, transcriptomics, proteomics, metabolomics, and cellomics. Thereafter, we describe the various methods for data analysis as well as how to integrate different layers of omics data. Finally, we discuss the possible applications of multi-omics studies and opportunities they provide for understanding the complex regulatory networks as well as immune variation in various immune-related diseases."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7c1d86823efb0a492a112b6bc7f30224fc031b3c",
+        "title": "The Impact of Single-Cell Genomics on Adipose Tissue Research",
+        "abstract": "Adipose tissue is an important regulator of whole-body metabolism and energy homeostasis. The unprecedented growth of obesity and metabolic disease worldwide has required paralleled advancements in research on this dynamic endocrine organ system. Single-cell RNA sequencing (scRNA-seq), a highly meticulous methodology used to dissect tissue heterogeneity through the transcriptional characterization of individual cells, is responsible for facilitating critical advancements in this area. The unique investigative capabilities achieved by the combination of nanotechnology, molecular biology, and informatics are expanding our understanding of adipose tissue\u2019s composition and compartmentalized functional specialization, which underlie physiologic and pathogenic states, including adaptive thermogenesis, adipose tissue aging, and obesity. In this review, we will summarize the use of scRNA-seq and single-nuclei RNA-seq (snRNA-seq) in adipocyte biology and their applications to obesity and diabetes research in the hopes of increasing awareness of the capabilities of this technology and acting as a catalyst for its expanded use in further investigation."
+    }
+}

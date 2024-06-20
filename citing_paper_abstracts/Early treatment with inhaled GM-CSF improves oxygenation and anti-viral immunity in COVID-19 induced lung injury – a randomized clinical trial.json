@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "2d1636b3e46b649717e243b2962733728309b4b7",
+        "title": "Early treatment with inhaled GM-CSF improves oxygenation and anti-viral immunity in COVID-19 induced lung injury \u2013 a randomized clinical trial",
+        "abstract": "\n Granulocyte-macrophage colony-stimulating factor (GM-CSF) instructs monocytes to differentiate into alveolar macrophages (AM) that preserve lung homeostasis. By comparing AM development in mouse and human, we discovered that COVID-19 patients showed marked defects in GM-CSF-dependent AM instruction. The multi-center, open-label, randomized, controlled SARPAC-trial evaluated the efficacy and safety of 5 days of inhalation of rhu-GM-CSF (sargramostim, Leukine\u00ae) in 81 non-ventilated patients with COVID-19 and hypoxemic respiratory failure identified by PaO2/FiO2 ratio < 350mmHg. At day 6, more patients in the sargramostim group experienced at least 25% improvement in oxygenation compared with the standard of care group. Higher numbers of circulating class-switched B cells and effector virus-specific CD8 lymphocytes were found in the sargramostim group. Treatment adverse events, including signs of cytokine storm, were not different between active and control group. This proof-of-concept study demonstrates the feasibility and safety of inhaled GM-CSF in restoring alveolar gas exchange, while simultaneously boosting anti-COVID-19 immunity. ClinicalTrials.gov (NCT04326920)."
+    }
+}

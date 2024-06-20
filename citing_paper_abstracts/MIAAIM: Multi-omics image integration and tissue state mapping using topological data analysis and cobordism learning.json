@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "93c7d506fe0169a0a37da89a4c7fe84f04ba43f6",
+        "title": "MIAAIM: Multi-omics image integration and tissue state mapping using topological data analysis and cobordism learning",
+        "abstract": "High-parameter tissue imaging enables detailed molecular analysis of single cells in their spatial environment. However, the comprehensive characterization and mapping of tissue states through multimodal imaging across different physiological and pathological conditions requires data integration across multiple imaging systems. Here, we introduce MIAAIM (Multi-omics Image Alignment and Analysis by Information Manifolds) a modular, reproducible computational framework for aligning data across bioimaging technologies, modeling continuities in tissue states, and translating multimodal measures across tissue types. We demonstrate MIAAIM\u2019s workflows across diverse imaging platforms, including histological stains, imaging mass cytometry, and mass spectrometry imaging, to link cellular phenotypic states with molecular microenvironments in clinical biopsies from multiple tissue types with high cellular complexity. MIAAIM provides a robust foundation for the development of computational methods to integrate multimodal, high-parameter tissue imaging data and enable downstream computational and statistical interrogation of tissue states."
+    }
+}

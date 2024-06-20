@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "3f29542388653b49afee3086a8942e205440c6df",
+        "title": "The Unmixing Problem: A Guide to Applying Single\u2010Cell RNA Sequencing to Bone",
+        "abstract": "Bone is composed of a complex mixture of many dynamic cell types. Flow cytometry and in vivo lineage tracing have offered early progress toward deconvoluting this heterogeneous mixture of cells into functionally well\u2010defined populations suitable for further studies. Single\u2010cell sequencing is poised as a key complementary technique to better understand the cellular basis of bone metabolism and development. However, single\u2010cell sequencing approaches still have important limitations, including transcriptional effects of cell isolation and sparse sampling of the transcriptome, that must be considered during experimental design and analysis to harness the power of this approach. Accounting for these limitations requires a deep knowledge of the tissue under study. Therefore, with the emergence of accessible tools for conducting and analyzing single\u2010cell RNA sequencing (scRNA\u2010seq) experiments, bone biologists will be ideal leaders in the application of scRNA\u2010seq to the skeleton. Here we provide an overview of the steps involved with a single\u2010cell sequencing analysis of bone, focusing on practical considerations needed for a successful study. \u00a9 2019 American Society for Bone and Mineral Research."
+    }
+}

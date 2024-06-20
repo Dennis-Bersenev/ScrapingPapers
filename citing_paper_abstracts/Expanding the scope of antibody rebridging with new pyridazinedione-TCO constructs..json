@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7b76813626391542486e58e5977955dc3cb0e90d",
+        "title": "Expanding the scope of antibody rebridging with new pyridazinedione-TCO constructs.",
+        "abstract": "Disulfide rebridging methods have recently emerged as a route to hinge region-specific antibody modification, and there exist numerous examples of successful rebridging chemistry applied to clinically relevant human IgG1 antibodies. Here, dibromopyridazinedione disulfide rebridging is adapted to fast trans-cyclooctene/tetrazine (TCO/Tz) bioorthogonal ligations and extended beyond therapeutic human IgG1 antibodies for the first time to include mouse and rat monoclonal antibodies integral to multiplexed analytical diagnostics. In spite of a common architecture, only a subset of antibody host species and IgG isotype subclasses can be rebridged, highlighting the intricate relationship between hinge region sequence, structure, biological activity, and the conjugation chemistry of IgG antibodies."
+    }
+}

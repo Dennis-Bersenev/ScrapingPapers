@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9a5a2aab2c1b7cbac5133ffc7cbd1614fd7e266c",
+        "title": "Multiplexing Methods for Simultaneous Large\u2010Scale Transcriptomic Profiling of Samples at Single\u2010Cell Resolution",
+        "abstract": "Barcoding technology has greatly improved the throughput of cells and genes detected in single\u2010cell RNA sequencing (scRNA\u2010seq) studies. Recently, increasing studies have paid more attention to the use of this technology to increase the throughput of samples, as it has greatly reduced the processing time, technical batch effects, and library preparation costs, and lowered the per\u2010sample cost. In this review, the various DNA\u2010based barcoding methods for sample multiplexing are focused on, specifically, on the four major barcoding strategies. A detailed comparison of the barcoding methods is also presented, focusing on aspects such as sample/cell throughput and gene detection, and guidelines for choosing the most appropriate barcoding technique according to the personalized requirements are developed. Finally, the critical applications of sample multiplexing and technical challenges in combinatorial labeling, barcoding in vivo, and multimodal tagging at the spatially resolved resolution, as well as, the future prospects of multiplexed scRNA\u2010seq, for example, prioritizing and predicting the severity of coronavirus disease 2019 (COVID\u201019) in patients of different gender and age are highlighted."
+    }
+}

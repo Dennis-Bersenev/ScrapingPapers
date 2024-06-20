@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "de0a0ba2a650f1c090fe19acccf4d4ddfe98d3d2",
+        "title": "Glutamatergic dysfunction precedes neuron loss in cerebral organoids with MAPT mutation",
+        "abstract": "Frontotemporal dementia (FTD) due to MAPT mutation causes pathological accumulation of tau and glutamatergic cortical neuronal death by unknown mechanisms. We used human induced pluripotent stem cell (iPSC)-derived cerebral organoids expressing tau-V337M and isogenic corrected controls to discover early alterations due to the mutation that precede neurodegeneration. At 2 months, mutant organoids show upregulated expression of MAPT, and glutamatergic signaling pathways and regulators including the RNA-binding protein ELAVL4. Over the following 4 months, mutant organoids accumulate splicing changes, disruption of autophagy function and build-up of tau and P-tau S396. By 6 months, tau-V337M organoids show specific loss of glutamatergic neurons of layers affected in patients. Mutant neurons are susceptible to glutamate toxicity which was rescued pharmacologically by treatment with the PIKFYVE kinase inhibitor apilimod. Our results demonstrate a sequence of events that precede cell death, revealing molecular pathways associated with glutamate signaling as potential targets for therapeutic intervention in FTD."
+    }
+}

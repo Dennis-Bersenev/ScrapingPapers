@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "478773fda7817236af6392ac94f4b5b22e57d9c4",
+        "title": "Quantitative genetic analysis deciphers the impact of cis and trans regulation on cell-to-cell variability in protein expression levels",
+        "abstract": "Identifying the factors that shape protein expression variability in complex multi-cellular organisms has primarily focused on promoter architecture and regulation of single-cell expression in cis. However, this targeted approach has to date been unable to identify major regulators of cell-to-cell gene expression variability in humans. To address this, we have combined single-cell protein expression measurements in the human immune system using flow cytometry with a quantitative genetics analysis. For the majority of proteins whose variability in expression has a heritable component, we find that genetic variants act in trans, with notably fewer variants acting in cis. Furthermore, we highlight using Mendelian Randomization that these variability-Quantitative Trait Loci might be driven by the cis regulation of upstream genes. This indicates that natural selection may balance the impact of gene regulation in cis with downstream impacts on expression variability in trans."
+    }
+}

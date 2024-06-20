@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "5159d51a4e27a85dd311029d082c27e16435fe3b",
+        "title": "Comparative analysis of commercially available single-cell RNA sequencing platforms for their performance in complex human tissues",
+        "abstract": "The past five years have witnessed a tremendous growth of single-cell RNA-seq methodologies. Currently, there are three major commercial platforms for single-cell RNA-seq: Fluidigm C1, Clontech iCell8 (formerly Wafergen) and 10x Genomics Chromium. Here, we provide a systematic comparison of the throughput, sensitivity, cost and other performance statistics for these three platforms using single cells from primary human islets. The primary human islets represent a complex biological system where multiple cell types coexist, with varying cellular abundance, diverse transcriptomic profiles and differing total RNA contents. We apply standard pipelines optimized for each system to derive gene expression matrices. We further evaluate the performance of each system by benchmarking single-cell data with bulk RNA-seq data from sorted cell fractions. Our analyses can be generalized to a variety of complex biological systems and serve as a guide to newcomers to the field of single-cell RNA-seq when selecting platforms."
+    }
+}
