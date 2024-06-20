@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "5f8106cbb25cfde2d510e80d843a85317a2a5189",
+        "title": "Future of Digital Assays to Resolve Clinical Heterogeneity of Single Extracellular Vesicles.",
+        "abstract": "Extracellular vesicles (EVs) are complex lipid membrane vehicles with variable expressions of molecular cargo, composed of diverse subpopulations that participate in the intercellular signaling of biological responses in disease. EV-based liquid biopsies demonstrate invaluable clinical potential for overhauling current practices of disease management. Yet, EV heterogeneity is a major needle-in-a-haystack challenge to translate their use into clinical practice. In this review, existing digital assays will be discussed to analyze EVs at a single vesicle resolution, and future opportunities to optimize the throughput, multiplexing, and sensitivity of current digital EV assays will be highlighted. Furthermore, this review will outline the challenges and opportunities that impact the clinical translation of single EV technologies for disease diagnostics and treatment monitoring."
+    }
+}

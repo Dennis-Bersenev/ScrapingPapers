@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "67f15179615bfd69f961655105a8fd048a46537c",
+        "title": "Single-cell multi-omic analysis of thymocyte development reveals drivers of CD4/CD8 lineage commitment",
+        "abstract": "The development of CD4 and CD8 T cells in the thymus is critical to adaptive immunity and is widely studied as a model of lineage commitment. Recognition of self-MHCI/II by the T cell antigen receptor (TCR) determines the lineage choice, but how distinct TCR signals drive transcriptional programs of lineage commitment remains largely unknown. We applied CITE-seq to measure RNA and surface proteins in thymocytes from wild-type and lineage-restricted mice to generate a comprehensive timeline of cell state for each lineage. These analyses revealed a sequential process whereby all thymocytes initiate CD4 lineage differentiation during an initial wave of TCR signaling, followed by a second TCR signaling wave that coincides with CD8 lineage specification. CITE-seq and pharmaceutical inhibition experiments implicate a TCR/calcineurin/NFAT/GATA3 axis in driving the CD4 fate. Overall, our data suggest that multiple redundant mechanisms contribute to the accuracy and efficiency of the lineage choice."
+    }
+}

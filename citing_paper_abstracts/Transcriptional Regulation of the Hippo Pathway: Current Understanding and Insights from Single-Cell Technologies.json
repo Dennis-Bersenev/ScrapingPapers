@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a4d39ceaff50d584555b61a94b4b28c9a5fb313c",
+        "title": "Transcriptional Regulation of the Hippo Pathway: Current Understanding and Insights from Single-Cell Technologies",
+        "abstract": "The Hippo pathway regulates tissue homeostasis in normal development and drives oncogenic processes. In this review, we extensively discuss how YAP/TAZ/TEAD cooperate with other master transcription factors and epigenetic cofactors to orchestrate a broad spectrum of transcriptional responses. Even though these responses are often context- and lineage-specific, we do not have a good understanding of how such precise and specific transcriptional control is achieved\u2014whether they are driven by differences in TEAD paralogs, or recruitment of cofactors to tissue-specific enhancers. We believe that emerging single-cell technologies would enable a granular understanding of how the Hippo pathway influences cell fate and drives oncogenic processes, ultimately allowing us to design better pharmacological agents against TEADs and identify robust pharmacodynamics markers of Hippo pathway inhibition."
+    }
+}

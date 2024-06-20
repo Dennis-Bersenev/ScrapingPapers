@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ffb18dad970608411dd0d0ffb705346a46328b5e",
+        "title": "RNA velocity and protein acceleration from single-cell multiomics experiments",
+        "abstract": "The simultaneous quantification of protein and RNA makes possible the inference of past, present and future cell states from single experimental snapshots. To enable such temporal analysis from multimodal single-cell experiments, we introduce an extension of the RNA velocity method that leverages estimates of unprocessed transcript and protein abundances to extrapolate cell states. We apply the model to four datasets and demonstrate consistency among landscapes and phase portraits."
+    }
+}

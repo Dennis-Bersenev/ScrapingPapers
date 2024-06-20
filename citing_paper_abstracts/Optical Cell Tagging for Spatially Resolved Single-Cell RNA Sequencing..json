@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9894aadf1c4075092c0aadf763964bb64663f1eb",
+        "title": "Optical Cell Tagging for Spatially Resolved Single-Cell RNA Sequencing.",
+        "abstract": "Single-cell RNA sequencing (scRNA-seq) has emerged as a powerful tool for profiling gene expression of distinct cell populations at the single-cell level. However, the information of the positions of cells within the multicellular samples is missing in scRNA-seq datasets. To overcome this limitation, we herein develop OpTAG (optical cell tagging) as a new chemical platform for attaching functional tags onto cell surfaces in a spatially resolved manner. With OpTAG, we establish OpTAG-seq, which enables spatially resolved scRNA-seq. We apply OpTAG-seq to investigate the spatially defined transcriptional program in migrating cancer cells and identified a list of genes that are potential regulators for cancer cell migration and invasion. OpTAG-seq provides a convenient method for mapping cellular heterogeneity with spatial information within multicellular biological systems."
+    }
+}

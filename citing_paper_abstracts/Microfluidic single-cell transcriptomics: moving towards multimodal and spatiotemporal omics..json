@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "813b9689a5dd3a0ad22bc54f6d3954b0252536e2",
+        "title": "Microfluidic single-cell transcriptomics: moving towards multimodal and spatiotemporal omics.",
+        "abstract": "Cells are the basic units of life with vast heterogeneity. Single-cell transcriptomics unveils cell-to-cell gene expression variabilities, discovers novel cell types, and uncovers the critical roles of cellular heterogeneity in biological processes. The recent advances in microfluidic technologies have greatly accelerated the development of single-cell transcriptomics with regard to throughput, sensitivity, cost, and automation. In this article, we review state-of-the-art microfluidic single-cell transcriptomics, with a focus on the methodologies. We first summarize six typical microfluidic platforms for isolation and transcriptomic analysis of single cells. Then the on-going trend of microfluidic transcriptomics towards multimodal omics, which integrates transcriptomics with other omics to provide more comprehensive pictures of gene expression networks, is discussed. We also highlight single-cell spatial transcriptomics and single-cell temporal transcriptomics that provide unprecedented spatiotemporal resolution to reveal transcriptomic dynamics in space and time, respectively. The emerging applications of microfluidic single-cell transcriptomics are also discussed. Finally, we discuss the current challenges to be tackled and provide perspectives on the future development of microfluidic single-cell transcriptomics."
+    }
+}

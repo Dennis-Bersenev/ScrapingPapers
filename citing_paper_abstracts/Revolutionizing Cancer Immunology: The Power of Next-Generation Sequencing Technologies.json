@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "577aad100ab2a39dbaa7b08841cee9edb16bdd0e",
+        "title": "Revolutionizing Cancer Immunology: The Power of Next-Generation Sequencing Technologies",
+        "abstract": "It has long been appreciated that tumors are diverse, varying in mutational status, composition of cellular infiltrate, and organizational architecture. For the most part, the information embedded in this diversity has gone untapped due to the limited resolution and dimensionality of assays for analyzing nucleic acid expression in cells. The advent of high-throughput, next-generation sequencing (NGS) technologies that measure nucleic acids, particularly at the single-cell level, is fueling the characterization of the many components that comprise the tumor microenvironment (TME), with a strong focus on immune composition. Understanding the immune and nonimmune components of the TME, how they interact, and how this shapes their functional properties requires the development of novel computational methods and, eventually, the application of systems-based approaches. The continued development and application of NGS technologies holds great promise for accelerating discovery in the cancer immunology field."
+    }
+}

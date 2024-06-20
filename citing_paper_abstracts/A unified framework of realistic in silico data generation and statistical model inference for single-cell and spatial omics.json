@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "0a3ebeaafcef96372f54b58d7374e0cfa67805c6",
+        "title": "A unified framework of realistic in silico data generation and statistical model inference for single-cell and spatial omics",
+        "abstract": "In the single-cell and spatial omics field, computational challenges include method benchmarking, data interpretation, and in silico data generation. To address these challenges, we propose an all-in-one statistical simulator, scDesign3, to generate realistic single-cell and spatial omics data, including various cell states, experimental designs, and feature modalities, by learning interpretable parameters from real datasets. Furthermore, using a unified probabilistic model for single-cell and spatial omics data, scDesign3 can infer biologically meaningful parameters, assess the goodness-of-fit of inferred cell clusters, trajectories, and spatial locations, and generate in silico negative and positive controls for benchmarking computational tools."
+    }
+}

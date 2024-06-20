@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c5e4e4a24fe2597b5b651953cfda606e092999d7",
+        "title": "Peripheral priming induces plastic transcriptomic and proteomic responses in circulating neutrophils required for pathogen containment",
+        "abstract": "Neutrophils rapidly respond to inflammation and infection, but to which degree their functional trajectories after mobilization from the bone marrow are shaped within the circulation remains vague. Experimental limitations have so far hampered neutrophil research in human disease. Here, using innovative fixation and single-cell\u2013based toolsets, we profile human and murine neutrophil transcriptomes and proteomes during steady state and bacterial infection. We find that peripheral priming of circulating neutrophils leads to dynamic shifts dominated by conserved up-regulation of antimicrobial genes across neutrophil substates, facilitating pathogen containment. We show the TLR4/NF-\u03baB signaling\u2013dependent up-regulation of canonical neutrophil activation markers like CD177/NB-1 during acute inflammation, resulting in functional shifts in vivo. Blocking de novo RNA synthesis in circulating neutrophils abrogates these plastic shifts and prevents the adaptation of antibacterial neutrophil programs by up-regulation of distinct effector molecules upon infection. These data underline transcriptional plasticity as a relevant mechanism of functional neutrophil reprogramming during acute infection to foster bacterial containment within the circulation."
+    }
+}

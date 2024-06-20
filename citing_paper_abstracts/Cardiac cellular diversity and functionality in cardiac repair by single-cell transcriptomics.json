@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "741a80b104d4b5345d17f5af3879fbdbd5091094",
+        "title": "Cardiac cellular diversity and functionality in cardiac repair by single-cell transcriptomics",
+        "abstract": "Cardiac repair after myocardial infarction (MI) is orchestrated by multiple intrinsic mechanisms in the heart. Identifying cardiac cell heterogeneity and its effect on processes that mediate the ischemic myocardium repair may be key to developing novel therapeutics for preventing heart failure. With the rapid advancement of single-cell transcriptomics, recent studies have uncovered novel cardiac cell populations, dynamics of cell type composition, and molecular signatures of MI-associated cells at the single-cell level. In this review, we summarized the main findings during cardiac repair by applying single-cell transcriptomics, including endogenous myocardial regeneration, myocardial fibrosis, angiogenesis, and the immune microenvironment. Finally, we also discussed the integrative analysis of spatial multi-omics transcriptomics and single-cell transcriptomics. This review provided a basis for future studies to further advance the mechanism and development of therapeutic approaches for cardiac repair."
+    }
+}

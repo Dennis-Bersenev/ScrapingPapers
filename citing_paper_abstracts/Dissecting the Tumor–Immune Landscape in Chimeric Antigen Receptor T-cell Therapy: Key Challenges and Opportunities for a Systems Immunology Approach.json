@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ea81420e33fcdfe5d21859e5cb6c81984995c0dd",
+        "title": "Dissecting the Tumor\u2013Immune Landscape in Chimeric Antigen Receptor T-cell Therapy: Key Challenges and Opportunities for a Systems Immunology Approach",
+        "abstract": "The adoptive transfer of genetically engineered chimeric antigen receptor (CAR) T cells has opened a new frontier in cancer therapy. Unlike the paradigm of targeted therapies, the efficacy of CAR T-cell therapy depends not only on the choice of target but also on a complex interplay of tumor, immune, and stromal cell communication. This presents both challenges and opportunities from a discovery standpoint. Whereas cancer consortia have traditionally focused on the genomic, transcriptomic, epigenomic, and proteomic landscape of cancer cells, there is an increasing need to expand studies to analyze the interactions between tumor, immune, and stromal cell populations in their relevant anatomical and functional compartments. Here, we focus on the promising application of systems biology to address key challenges in CAR T-cell therapy, from understanding the mechanisms of therapeutic resistance in hematologic and solid tumors to addressing important clinical challenges in biomarker discovery and therapeutic toxicity. We propose a systems biology view of key clinical objectives in CAR T-cell therapy and suggest a path forward for a biomedical discovery process that leverages modern technological approaches in systems biology."
+    }
+}

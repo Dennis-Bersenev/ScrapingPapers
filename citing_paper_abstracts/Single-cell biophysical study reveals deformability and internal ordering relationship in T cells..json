@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e7a35e62c917f37f898cdeee558536f945f73963",
+        "title": "Single-cell biophysical study reveals deformability and internal ordering relationship in T cells.",
+        "abstract": "Deformability and internal ordering are key features related to cell function, particularly critical for cells that routinely undergo large deformations, like T cells during extravasation and migration. In the measurement of cell deformability, a considerable variability is typically obtained, masking the identification of possible interrelationships between deformability, internal ordering and cell function. We report the development of a single-cell methodology that combines measurements of living-cell deformability, using micropipette aspiration, and three-dimensional confocal analysis of the nucleus and cytoskeleton. We show that this single-cell approach can serve as a powerful tool to identify appropriate parameters that characterize deformability within a population of cells, not readably discernable in population-averaged data. By applying this single-cell methodology to mouse CD4+ T cells, our results demonstrate that the relative size of the nucleus, better than other geometrical or cytoskeletal features, effectively determines the overall deformability of the cells within the population."
+    }
+}

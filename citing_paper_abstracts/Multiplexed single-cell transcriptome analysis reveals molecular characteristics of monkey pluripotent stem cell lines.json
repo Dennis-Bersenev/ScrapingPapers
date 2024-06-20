@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "759a3355ced7b55e8427e8f8cdf235f9c52a4e15",
+        "title": "Multiplexed single-cell transcriptome analysis reveals molecular characteristics of monkey pluripotent stem cell lines",
+        "abstract": "Efforts have been made to establish various human pluripotent stem cell lines. However, such methods have not yet been duplicated in non-human primate cells. Here, we introduce a multiplexed single-cell sequencing technique to profile the molecular features of monkey pluripotent stem cells in published culture conditions. The results demonstrate suboptimized maintenance of pluripotency and show that the selected signaling pathways for resetting human stem cells can also be interpreted for establishing monkey cell lines. Overall, this work legitimates the translation of novel human cell line culture conditions to monkey cells and provides guidance for exploring chemical cocktails for monkey stem cell line derivation."
+    }
+}

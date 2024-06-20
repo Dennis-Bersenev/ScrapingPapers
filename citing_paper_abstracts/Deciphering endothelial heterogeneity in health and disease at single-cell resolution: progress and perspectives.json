@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e6c0565b1ae39d725d384f76c7093775ba870361",
+        "title": "Deciphering endothelial heterogeneity in health and disease at single-cell resolution: progress and perspectives",
+        "abstract": "Abstract Endothelial cells (ECs) constitute the inner lining of vascular beds in mammals and are crucial for homeostatic regulation of blood vessel physiology, but also play a key role in pathogenesis of many diseases, thereby representing realistic therapeutic targets. However, it has become evident that ECs are heterogeneous, encompassing several subtypes with distinct functions, which makes EC targeting and modulation in diseases challenging. The rise of the new single-cell era has led to an emergence of studies aimed at interrogating transcriptome diversity along the vascular tree, and has revolutionized our understanding of EC heterogeneity from both a physiological and pathophysiological context. Here, we discuss recent landmark studies aimed at teasing apart the heterogeneous nature of ECs. We cover driving (epi)genetic, transcriptomic, and metabolic forces underlying EC heterogeneity in health and disease, as well as current strategies used to combat disease-enriched EC phenotypes, and propose strategies to transcend largely descriptive heterogeneity towards prioritization and functional validation of therapeutically targetable drivers of EC diversity. Lastly, we provide an overview of the most recent advances and hurdles in single EC OMICs."
+    }
+}

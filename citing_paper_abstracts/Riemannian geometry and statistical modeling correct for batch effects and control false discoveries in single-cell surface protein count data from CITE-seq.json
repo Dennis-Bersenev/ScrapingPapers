@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "b2a5b9d02ff32e0da7996bdc9bf53f34cd0ebc71",
+        "title": "Riemannian geometry and statistical modeling correct for batch effects and control false discoveries in single-cell surface protein count data from CITE-seq",
+        "abstract": "Recent advances in next generation sequencing-based single-cell technologies have allowed high-throughput quantitative detection of cell-surface proteins along with the transcriptome in individual cells, extending our understanding of the heterogeneity of cell populations in diverse tissues that are in different diseased states or under different experimental conditions. Count data of surface proteins from the cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq) technology pose new computational challenges, and there is currently a dearth of rigorous mathematical tools for analyzing the data. This work utilizes concepts and ideas from Riemannian geometry to remove batch effects between samples and develops a statistical framework for distinguishing positive signals from background noise. The strengths of these approaches are demonstrated on two independent CITE-seq data sets in mouse and human. Python source code implementing the algorithms is available at https://github.com/jssong-lab/SAGACITE."
+    }
+}

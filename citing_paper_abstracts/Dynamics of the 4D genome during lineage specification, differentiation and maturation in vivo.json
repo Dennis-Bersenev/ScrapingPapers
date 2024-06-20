@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "2aeb6e1070ba7513a902b5e594f5fd3710467d68",
+        "title": "Dynamics of the 4D genome during lineage specification, differentiation and maturation in vivo",
+        "abstract": "Mammalian gene expression patterns are controlled by regulatory elements, which interact within Topologically Associating Domains (TADs). The relationship between activation of regulatory elements, formation of structural chromatin interactions and gene expression during development is unclear. We developed Tiled-C, a low-input Chromosome Conformation Capture (3C) approach, to study chromatin architecture at high spatial and temporal resolution through in vivo mouse erythroid differentiation. Integrated analysis of matched chromatin accessibility and single-cell expression data shows that regulatory elements gradually become accessible within pre-existing TADs during early differentiation. This is followed by structural re-organization within the TAD and formation of specific contacts between enhancers and promoters. In contrast to previous reports, our high-resolution data show that these enhancer-promoter interactions are not established prior to gene expression, but formed gradually during differentiation, concomitant with progressive upregulation of gene activity. Together, these results provide new insight into the close, interdependent relationship between chromatin architecture and gene regulation during development."
+    }
+}

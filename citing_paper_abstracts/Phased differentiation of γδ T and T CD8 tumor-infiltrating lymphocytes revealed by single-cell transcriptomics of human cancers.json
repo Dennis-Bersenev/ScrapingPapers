@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e908a0f1daef825e23982c427ccff3b04863cd76",
+        "title": "Phased differentiation of \u03b3\u03b4 T and T CD8 tumor-infiltrating lymphocytes revealed by single-cell transcriptomics of human cancers",
+        "abstract": "ABSTRACT \u03b3\u03b4 T lymphocytes diverge from conventional T CD8 lymphocytes for ontogeny, homing, and antigen specificity, but whether their differentiation in tumors also deviates was unknown. Using innovative analyses of our original and ~150 published single-cell RNA sequencing datasets validated by phenotyping of human tumors and murine models, here we present the first high-resolution view of human \u03b3\u03b4 T cell differentiation in cancer. While \u03b3\u03b4 T lymphocytes prominently encompass TCRV\u03b39 cells more differentiated than T CD8 in healthy donor\u2019s blood, a different scenario is unveiled in tumors. Solid tumors and lymphomas are infiltrated by a majority of TCRV\u03b3non9 \u03b3\u03b4 T cells which are quantitatively correlated and remarkably aligned with T CD8 for differentiation, exhaustion, gene expression profile, and response to immune checkpoint therapy. This cancer-wide association is critical for developing cancer immunotherapies."
+    }
+}

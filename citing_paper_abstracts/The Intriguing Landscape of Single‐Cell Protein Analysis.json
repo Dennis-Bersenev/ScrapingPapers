@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "4a127bd12f1d8c768edd91e90f9be71e57314612",
+        "title": "The Intriguing Landscape of Single\u2010Cell Protein Analysis",
+        "abstract": "Profiling protein expression at single\u2010cell resolution is essential for fundamental biological research (such as cell differentiation and tumor microenvironmental examination) and clinical precision medicine where only a limited number of primary cells are permitted. With the recent advances in engineering, chemistry, and biology, single\u2010cell protein analysis methods are developed rapidly, which enable high\u2010throughput and multiplexed protein measurements in thousands of individual cells. In combination with single cell RNA sequencing and mass spectrometry, single\u2010cell multi\u2010omics analysis can simultaneously measure multiple modalities including mRNAs, proteins, and metabolites in single cells, and obtain a more comprehensive exploration of cellular signaling processes, such as DNA modifications, chromatin accessibility, protein abundance, and gene perturbation. Here, the recent progress and applications of single\u2010cell protein analysis technologies in the last decade are summarized. Current limitations, challenges, and possible future directions in this field are also discussed."
+    }
+}

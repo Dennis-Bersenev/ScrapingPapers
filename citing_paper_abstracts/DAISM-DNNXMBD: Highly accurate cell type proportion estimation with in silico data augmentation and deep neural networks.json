@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "185a6f884841626f589fb0c9a5c728d68ef47088",
+        "title": "DAISM-DNNXMBD: Highly accurate cell type proportion estimation with in silico data augmentation and deep neural networks",
+        "abstract": "Understanding the immune cell abundance of cancer and other disease-related tissues has an important role in guiding disease treatments. Computational cell type proportion estimation methods have been previously developed to derive such information from bulk RNA sequencing (RNA-seq) data. Unfortunately, our results show that the performance of these methods can be seriously plagued by the mismatch between training data and real-world data. To tackle this issue, we propose the DAISM-DNNXMBD1 pipeline that trains a deep neural network (DNN) with dataset-specific training data populated from a small number of calibrated samples using DAISM, a novel Data Augmentation method with an In Silico Mixing strategy. The evaluation results demonstrate that the DAISM-DNN pipeline outperforms other existing methods consistently and substantially for all the cell types under evaluation on real-world datasets."
+    }
+}

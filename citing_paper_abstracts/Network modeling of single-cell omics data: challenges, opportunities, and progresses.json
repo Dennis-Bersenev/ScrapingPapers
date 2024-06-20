@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "f34b3123c91587062984ba9290faa17f81da831d",
+        "title": "Network modeling of single-cell omics data: challenges, opportunities, and progresses",
+        "abstract": "Abstract Single-cell multi-omics technologies are rapidly evolving, prompting both methodological advances and biological discoveries at an unprecedented speed. Gene regulatory network modeling has been used as a powerful approach to elucidate the complex molecular interactions underlying biological processes and systems, yet its application in single-cell omics data modeling has been met with unique challenges and opportunities. In this review, we discuss these challenges and opportunities, and offer an overview of the recent development of network modeling approaches designed to capture dynamic networks, within-cell networks, and cell\u2013cell interaction or communication networks. Finally, we outline the remaining gaps in single-cell gene network modeling and the outlooks of the field moving forward."
+    }
+}

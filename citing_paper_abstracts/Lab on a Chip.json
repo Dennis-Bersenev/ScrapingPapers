@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e8e4376f02131c36980ae4089d9ef38af8db7c3e",
+        "title": "Lab on a Chip",
+        "abstract": "Microlasers integrated with biological systems have received tremendous attention for their intense light intensity and narrow linewidth recently, serving as a powerful tool for studying complex dynamics and interactions in scattered biological micro-environments. However, manipulation of microlasers with controllable motions and versatile functions remains elusive. Herein, we introduce the concept of motor-like microlasers formed by magnetic-doped liquid crystal droplets, in which the direction and velocity could be controlled by altering internal magnetic nanoparticles or external magnetic fields. Both translational and rotatory motions of the lasing resonator could be continually changed in real-time. Lasing-encoded motors carrying different functions and lasing wavelengths were also achieved. Finally, we demonstrate the potential of motor-like microlasers by functioning as a localized stimulation emission light source to stimulate or illuminate living cells, providing a novel approach for switching on/off light emissions and subcellular imaging. Laser emitting micromotors offer a facile system for precise manipulation of microlasers in biological fluids, providing new insight into the development of programmable on-chip laser devices and laser-emitting intelligent systems."
+    }
+}

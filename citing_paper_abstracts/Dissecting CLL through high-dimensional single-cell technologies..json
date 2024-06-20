@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "cd24616d328f8a36e70e2e750475eab5827fe194",
+        "title": "Dissecting CLL through high-dimensional single-cell technologies.",
+        "abstract": "We now have the potential to undertake detailed analysis of the inner workings of thousands of cancer cells, one cell at a time, through the emergence of a range of techniques that probe the genome, transcriptome, and proteome combined with the development of bioinformatics pipelines that enable their interpretation. This provides an unprecedented opportunity to better understand the heterogeneity of chronic lymphocytic leukemia and how mutations, activation states, and protein expression at the single-cell level have an impact on disease course, response to treatment, and outcomes. Herein, we review the emerging application of these new techniques to chronic lymphocytic leukemia and examine the insights already attained through this transformative technology."
+    }
+}

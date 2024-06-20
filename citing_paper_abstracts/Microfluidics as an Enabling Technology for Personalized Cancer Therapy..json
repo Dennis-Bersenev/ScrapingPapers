@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "6a7d5382bb16830edc0c7f04b4432df8b32b2197",
+        "title": "Microfluidics as an Enabling Technology for Personalized Cancer Therapy.",
+        "abstract": "Tailoring patient-specific treatments for cancer is necessary in order to achieve optimal results but requires new diagnostic approaches at affordable prices. Microfluidics has immense potential to provide solutions for this, as it enables the processing of samples that are not available in large quantities (e.g., cells from patient biopsies), is cost efficient, provides a high level of automation, and allows the set-up of complex models for cancer studies. In this review, individual solutions in the fields of genetics, circulating tumor cell monitoring, biomarker analysis, phenotypic drug sensitivity tests, and systems providing controlled environments for disease modeling are discussed. An overview on how these early stage achievements can be combined or developed further is showcased, and the required translational steps before microfluidics becomes a routine tool for clinical applications are critically discussed."
+    }
+}

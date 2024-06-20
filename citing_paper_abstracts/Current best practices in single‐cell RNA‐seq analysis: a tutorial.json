@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d197473a348efadb23a6bb52de3476fdfdfe7dec",
+        "title": "Current best practices in single\u2010cell RNA\u2010seq analysis: a tutorial",
+        "abstract": "Single\u2010cell RNA\u2010seq has enabled gene expression to be studied at an unprecedented resolution. The promise of this technology is attracting a growing user base for single\u2010cell analysis methods. As more analysis tools are becoming available, it is becoming increasingly difficult to navigate this landscape and produce an up\u2010to\u2010date workflow to analyse one's data. Here, we detail the steps of a typical single\u2010cell RNA\u2010seq analysis, including pre\u2010processing (quality control, normalization, data correction, feature selection, and dimensionality reduction) and cell\u2010 and gene\u2010level downstream analysis. We formulate current best\u2010practice recommendations for these steps based on independent comparison studies. We have integrated these best\u2010practice recommendations into a workflow, which we apply to a public dataset to further illustrate how these steps work in practice. Our documented case study can be found at https://www.github.com/theislab/single-cell-tutorial. This review will serve as a workflow tutorial for new entrants into the field, and help established users update their analysis pipelines."
+    }
+}

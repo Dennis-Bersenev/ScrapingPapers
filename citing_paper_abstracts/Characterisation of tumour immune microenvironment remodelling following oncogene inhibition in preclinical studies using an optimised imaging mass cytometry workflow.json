@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "63368440f02b21838008c79a4284c50a56371a35",
+        "title": "Characterisation of tumour immune microenvironment remodelling following oncogene inhibition in preclinical studies using an optimised imaging mass cytometry workflow",
+        "abstract": "\n Mouse models are critical in pre-clinical studies of cancer therapy, allowing dissection of mechanisms through chemical and genetic manipulations that are not feasible in the clinical setting. In studies of the tumour microenvironment (TME), novel highly multiplexed imaging methods can provide a rich source of information. However, the application of such technologies in mouse tissues is still in its infancy. Here we present a workflow for studying the TME using imaging mass cytometry with a panel of 27 antibodies on frozen mouse tissues. We optimised and validated image segmentation strategies and automated the process in a Nextflow-based pipeline (imcyto) that is scalable and portable, allowing for parallelised segmentation of large multi-image datasets. Incorporating user-specific plugins, imcyto can be flexibly tailored to a wide range of segmentation needs. With these methods we interrogated the dramatic remodelling of the TME induced by a KRAS G12C inhibitor in an immune competent mouse orthotopic lung cancer model, showcasing their potential as key discovery tools to enhance understanding of the interplay between tumour, stroma, and immune cells in the spatial context of the tissue."
+    }
+}

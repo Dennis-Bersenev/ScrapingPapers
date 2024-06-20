@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c073b23b9e16d09b5be96d9e17b26e0ba9a79d33",
+        "title": "Lineage tracing of T cell differentiation from T-iPSC by 2D feeder-free culture and 3D organoid culture",
+        "abstract": "Introduction T cells induced from induced pluripotent stem cells(iPSCs) derived from antigen-specific T cells (T-iPS-T cells) are an attractive tool for T cell immunotherapy. The induction of cytotoxic T-iPS-T cells is well established in feeder-free condition for the aim of off-the-shelf production, however, the induction of helper T-iPS-T cells remains challenging. Methods We analyzed T-iPS-T cells matured in 3D organoid culture at different steps in the culture process at the single-cell level. T-iPS-T cell datasets were merged with an available human thymocyte dataset based in single-cell RNA sequencing (scRNA-seq). Particularly, we searched for genes crucial for generation CD4+ T-iPS-T cells by comparing T-iPS-T cells established in 2D feeder-free or 3D organoid culture. Results The scRNA-seq data indicated that T-iPS-T cells are similar to T cells transitioning to human thymocytes, with SELENOW, GIMAP4, 7, SATB1, SALMF1, IL7R, SYTL2, S100A11, STAT1, IFITM1, LZTFL1 and SOX4 identified as candidate genes for the 2D feeder-free induction of CD4+ T-iPS-T cells. Discussion This study provides single cell transcriptome datasets of iPS-T cells and leads to further analysis for CD4+ T cell generation from T-iPSCs."
+    }
+}

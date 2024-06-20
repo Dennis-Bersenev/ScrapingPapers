@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "941bee1136acd7fad126f6392b8802aa4aa0daa5",
+        "title": "Mosaic loss of Chromosome Y in aged human microglia",
+        "abstract": "Mosaic loss of chromosome Y (LOY) is a particularly common acquired structural mutation in the leukocytes of aging men and it has been shown to correlate with several age-related diseases including Alzheimer\u2019s disease (AD). To derive the molecular basis of LOY in brain cells, we create an integrated resource by aggregating data from 21 single-cell and single-nuclei RNA brain studies, yielding 763,410 cells to investigate the presence and cell-type specific burden of LOY. We created robust quantification metrics for assessing LOY, which were validated using a multi-modal dataset. Using this new resource and LOY-quantification approach, we found that LOY frequencies differed widely between CNS cell-types and individual donors. Among five common neural cell types, microglia were most affected by LOY (7.79%, n=41,949), while LOY in neurons was rare (0.48%, n=220,010). Differential gene expression analysis in microglia found 188 autosomal genes, 6 X-linked genes, and 11 pseudoautosomal genes, pointing to broad dysregulation in lipoprotein metabolism, inflammatory response, and antigen processing that coincides with loss of Y. To our knowledge, we provide the first evidence of LOY in the microglia, and highlight its potential roles in aging and the pathogenesis of neurodegenerative disorders such as AD."
+    }
+}

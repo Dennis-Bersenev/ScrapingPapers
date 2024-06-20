@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c8837ac6f6ce806086503fab677cea637a489423",
+        "title": "SISUA: Semi-Supervised Generative Autoencoder for Single Cell Data",
+        "abstract": "Single-cell transcriptomics offers a tool to study the diversity of cell phenotypes through snapshots of the abundance of mRNA in individual cells. Often there is additional information available besides the single cell gene expression counts, such as bulk transcriptome data from the same tissue, or quantification of surface protein levels from the same cells. In this study, we propose models based on the Bayesian generative approach, where protein quantification available as CITE-seq counts from the same cells are used to constrain the learning process, thus forming a semi-supervised model. The generative model is based on the deep variational autoencoder (VAE) neural network architecture."
+    }
+}

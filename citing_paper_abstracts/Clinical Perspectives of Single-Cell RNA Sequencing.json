@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "3be99f66fc2ec2c80993820eae975b793f264a6f",
+        "title": "Clinical Perspectives of Single-Cell RNA Sequencing",
+        "abstract": "The ability of single-cell genomics to resolve cellular heterogeneity is highly appreciated in cancer and is being exploited for precision medicine. In the recent decade, we have witnessed the incorporation of cancer genomics into the clinical decision-making process for molecular-targeted therapies. Compared with conventional genomics, which primarily focuses on the specific and sensitive detection of the molecular targets, single-cell genomics addresses intratumoral heterogeneity and the microenvironmental components impacting the treatment response and resistance. As an exploratory tool, single-cell genomics provides an unprecedented opportunity to improve the diagnosis, monitoring, and treatment of cancer. The results obtained upon employing bulk cancer genomics indicate that single-cell genomics is at an early stage with respect to exploration of clinical relevance and requires further innovations to become a widely utilized technology in the clinic."
+    }
+}

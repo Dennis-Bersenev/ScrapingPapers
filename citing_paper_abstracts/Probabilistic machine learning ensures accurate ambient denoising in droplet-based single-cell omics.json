@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "0f7c26e2b012ed3f8236191f31c0428ab68cae0e",
+        "title": "Probabilistic machine learning ensures accurate ambient denoising in droplet-based single-cell omics",
+        "abstract": "Droplet-based single-cell omics, including single-cell RNA sequencing (scRNAseq), single-cell CRISPR perturbations (e.g., CROP-seq), and single-cell protein and transcriptomic profiling (CITE-seq) hold great promise for comprehensive cell profiling and genetic screening at the single-cell resolution. However, these technologies suffer from substantial noise, among which ambient signals present in the cell suspension may be the predominant source. Current models to address this issue are highly technology-specific and relatively scRNAseq-centric. while a universal model to describe the noise across these technologies may reveal this common source, improving the denoising accuracy. To this end, we explicitly examined these unexpected signals in multiple datasets across droplet-based technologies, summarised a predictable pattern, and developed single-cell Ambient Remover (scAR) \u2013 a hypothesis-driven machine learning model to predict and remove ambient signals (including mRNA counts, protein counts, and sgRNA counts) at the molecular level. We benchmarked scAR on three technologies \u2013 single-cell CRISPR screens, CITE-seq, and scRNAseq along with the state-of-the-art single-technology-specific approaches. scAR showed high denoising accuracy for each type of dataset."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "42320a52b7400f72b1dd1ed62cba701de85cebee",
+        "title": "Integrated measurement of intracellular proteins and transcripts in single cells.",
+        "abstract": "Biological function arises from the interplay of proteins, transcripts, and metabolites. An ongoing revolution in miniaturization technologies has created tools to analyze any one of these species in single cells, thus resolving the heterogeneity of tissues previously invisible to bulk measurements. An emerging frontier is single cell multi-omics, which is the measurement of multiple classes of analytes from single cells. Here, we combine bead-based transcriptomics with microchip-based proteomics to measure intracellular proteins and transcripts from single cells and defined small numbers of cells. The transcripts and proteins are independently measured by sequencing and fluorescent immunoassays respectively, to preserve their optimal measurement modes, and linked by encoding the physical address locations of the cells into digital sequencing space using spatially patterned DNA barcodes. We resolve cell-type-specific protein and transcript signatures and present a path forward to scaling the platform to high-throughput."
+    }
+}

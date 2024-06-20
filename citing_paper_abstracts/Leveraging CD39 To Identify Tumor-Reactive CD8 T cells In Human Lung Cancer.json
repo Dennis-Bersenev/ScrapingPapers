@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "1f6c8b0bed0da47921c359c9301aeab30a80f516",
+        "title": "Leveraging CD39 To Identify Tumor-Reactive CD8 T cells In Human Lung Cancer",
+        "abstract": "CD39 has emerged as a marker of tumor-reactive CD8 T cells. Using single-cell CITE/RNA/TCRseq, we show that CD39+ CD8 T cells in human lung cancers demonstrate transcriptional and proteomic features of exhaustion, tumor reactivity, and clonal expansion. Flow cytometry of 440 lung cancer specimens revealed that CD39 level on CD8 T cells is only weakly correlated with tumoral features, such as histology, driver mutation, PD-L1 and tumor mutation burden. CD8 T cells reactive against EGFR driver mutations preferentially expressed CD39, suggesting that CD39 can be leveraged to identify neoantigen-reactive CD8 T cells. PD-1 axis blockade, but not cytotoxic chemotherapy, increased intratumoral CD39+ CD8 T cells. CD39 correlated with PD-1 expression on CD8 T cells and high pre-treatment/early-on-treatment levels were associated with improved clinical outcomes from immune checkpoint blockade. This extensive and comprehensive profiling of the clinical, pathological and molecular features highlights the utility of CD39 as a proxy for tumor-reactive CD8 T cells in human lung cancer."
+    }
+}

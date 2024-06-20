@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "bd158c031c4140eee517dca9e81d3aba3c6cb746",
+        "title": "Unifying comprehensive genomics and transcriptomics in individual cells to illuminate oncogenic and drug resistance mechanisms",
+        "abstract": "Discovering transcriptional variation in the absence of underlying genomic contributions hinders understanding of molecular mechanisms of disease. To assess this coordination in individual cells, we leveraged a new workflow, ResolveOME, exploiting the attributes of primary template-directed amplification (PTA) to enable accurate, complete-genome assessment of single-nucleotide variation in conjunction with full-transcript RNA-seq. In cultured AML cells resistant to the FLT3 inhibitor quizartinib, we uncovered a FLT3 missense mutation and matched transcript upregulation of AXL signal transduction and enhancer factor modulation driving resistance. In primary breast cancer cells, we detected oncogenic PIK3CA N345K mutations and heterogeneous classes of chromosomal loss and were empowered to interpret these genotypes with the crucial knowledge of cell identity and state derived from the transcriptome. The study reinforces the plasticity of the genome in conjunction with expected transcriptional modulation, leading to combinatorial alterations that affect cellular evolution that can be identified through application of this workflow to individual cells."
+    }
+}

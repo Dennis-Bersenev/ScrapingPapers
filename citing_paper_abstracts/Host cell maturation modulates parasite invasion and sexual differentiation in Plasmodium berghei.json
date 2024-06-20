@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "618f633aa98ff5213878334702bd97a23286bfff",
+        "title": "Host cell maturation modulates parasite invasion and sexual differentiation in Plasmodium berghei",
+        "abstract": "Malaria remains a global health problem causing more than 400,000 deaths annually. Plasmodium parasites, the causative agents of malaria, replicate asexually in red blood cells (RBCs) of their vertebrate host, while a subset differentiates into sexual stages (gametocytes) for mosquito transmission. Parasite replication and gametocyte maturation in the erythropoietic niches of the bone marrow and spleen contribute to pathogenesis and drive transmission, but the mechanisms underlying this organ enrichment remain unknown. Here, we performed a comprehensive analysis of rodent P. berghei infection by flow cytometry and single-cell RNA sequencing. We identified CD71 as a host receptor for reticulocyte invasion and found that parasites metabolically adapt to the host cell environment. Transcriptional analysis and functional assays further revealed a nutrient-dependent tropism for gametocyte formation in reticulocytes. Together, we provide a thorough characterization of host-parasite interactions in erythropoietic niches and define host cell maturation state as the key driver of parasite adaptation."
+    }
+}

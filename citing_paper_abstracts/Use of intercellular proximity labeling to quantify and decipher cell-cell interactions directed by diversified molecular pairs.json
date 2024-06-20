@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c6ea74d00e9c4264d419ec7f6e8cfa64a6fbeda4",
+        "title": "Use of intercellular proximity labeling to quantify and decipher cell-cell interactions directed by diversified molecular pairs",
+        "abstract": "FucoID is an intercellular proximity labeling technique for studying cell-cell interactions (CCIs) via fucosyltransferase (FT)\u2013meditated fucosyl-biotinylation, which has been applied to probe antigen-specific dendritic cell (DC)\u2013T cell interactions. In this system, bait cells of interest with cell surface\u2013anchored FT are used to capture the interacting prey cells by transferring a biotin-modified substrate to prey cells. Here, we leveraged FucoID to study CCIs directed by different molecular pairs, e.g., programmed cell death protein-1(PD-1)/programmed cell death protein-ligand-1 (PD-L1), and identify unknown or little studied CCIs, e.g., the interaction of DCs and B cells. To expand the application of FucoID to complex systems, we also synthesized site-specific antibody-based FT conjugate, which substantially improves the ability of FucoID to probe molecular signatures of specific CCI when cells of interest (bait cells) cannot be purified, e.g., in clinical samples. Collectively, these studies demonstrate the general applicability of FucoID to study unknown CCIs in complex systems at a molecular resolution."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "00946f80e86b0463f99000292508c80bfd43da97",
+        "title": "scJoint: transfer learning for data integration of single-cell RNA-seq and ATAC-seq",
+        "abstract": "Single-cell multi-omics data continues to grow at an unprecedented pace, and while integrating different modalities holds the promise for better characterization of cell identities, it remains a significant computational challenge. In particular, extreme sparsity is a hallmark in many modalities such as scATAC-seq data and often limits their power in cell type identification. Here we present scJoint, a transfer learning method to integrate heterogeneous collections of scRNA-seq and scATAC-seq data. scJoint uses a neural network to simultaneously train labeled and unlabeled data and embed cells from both modalities in a common lower dimensional space, enabling label transfer and joint visualization in an integrative framework. We demonstrate scJoint consistently provides meaningful joint visualizations and achieves significantly higher label transfer accuracy than existing methods using a complex cell atlas data and a biologically varying multi-modal data. This suggests scJoint is effective in overcoming the heterogeneity in different modalities towards a more comprehensive understanding of cellular phenotypes."
+    }
+}

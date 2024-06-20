@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "190cae77328960dc1c2dc6db9aabc248954b727d",
+        "title": "CITEViz: interactively classify cell populations in CITE-Seq via a flow cytometry-like gating workflow using R-Shiny",
+        "abstract": null
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d84ad40182fddcf4d07ada5b5baa6a9015ae22de",
+        "title": "Exploring dimension-reduced embeddings with Sleepwalk",
+        "abstract": "Dimension-reduction methods, such as t-SNE or UMAP, are widely used when exploring high-dimensional data describing many entities, e.g., RNA-seq data for many single cells. However, dimension reduction is commonly prone to introducing artefacts, and we hence need means to see where a dimension-reduced embedding is a faithful representation of the local neighbourhood and where it is not. We present Sleepwalk, a simple but powerful tool that allows the user to interactively explore an embedding, using colour to depict original or any other distances from all points to the cell under the mouse cursor. We show how this approach not only highlights distortions, but also reveals otherwise hidden characteristics of the data, and how Sleep-walk\u2019s comparative modes help integrate multi-sample data and understand differences between embedding and preprocessing methods. Sleepwalk is a versatile and intuitive tool that unlocks the full power of dimension reduction and will be of value not only in single-cell RNA-seq but also in any other area with matrix-shaped big data."
+    }
+}

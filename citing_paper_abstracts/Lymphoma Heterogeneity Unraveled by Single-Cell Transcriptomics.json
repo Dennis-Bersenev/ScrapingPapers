@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e941139b6e47367e4e9cf2c1a0b2a396e01c8df3",
+        "title": "Lymphoma Heterogeneity Unraveled by Single-Cell Transcriptomics",
+        "abstract": "High-definition transcriptomic studies through single-cell RNA sequencing (scRNA-Seq) have revealed the heterogeneity and functionality of the various microenvironments across numerous solid tumors. Those pioneer studies have highlighted different cellular signatures correlated with clinical response to immune checkpoint inhibitors. scRNA-Seq offers also a unique opportunity to unravel the intimate heterogeneity of the ecosystems across different lymphoma entities. In this review, we will first cover the basics and future developments of the technology, and we will discuss its input in the field of translational lymphoma research, from determination of cell-of-origin and functional diversity, to monitoring of anti-cancer targeted drugs response and toxicities, and how new improvements in both data collection and interpretation will further foster precision medicine in the upcoming years."
+    }
+}

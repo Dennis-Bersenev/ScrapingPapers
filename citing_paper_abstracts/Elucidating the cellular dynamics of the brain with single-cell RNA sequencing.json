@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e81fa8c45cf62b2c59c9462c44c29335ca712793",
+        "title": "Elucidating the cellular dynamics of the brain with single-cell RNA sequencing",
+        "abstract": "ABSTRACT Single-cell RNA-sequencing (scRNA-seq) has emerged in recent years as a breakthrough technology to understand RNA metabolism at cellular resolution. In addition to allowing new cell types and states to be identified, scRNA-seq can permit cell-type specific differential gene expression changes, pre-mRNA processing events, gene regulatory networks and single-cell developmental trajectories to be uncovered. More recently, a new wave of multi-omic adaptations and complementary spatial transcriptomics workflows have been developed that facilitate the collection of even more holistic information from individual cells. These developments have unprecedented potential to provide penetrating new insights into the basic neural cell dynamics and molecular mechanisms relevant to the nervous system in both health and disease. In this review we discuss this maturation of single-cell RNA-sequencing over the past decade, and review the different adaptations of the technology that can now be applied both at different scales and for different purposes. We conclude by highlighting how these methods have already led to many exciting discoveries across neuroscience that have furthered our cellular understanding of the neurological disease."
+    }
+}

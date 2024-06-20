@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7a5879aae61729dbdf11e90813c14f8a1f1a2bb9",
+        "title": "scMLC: an accurate and robust multiplex community detection method for single-cell multi-omics data",
+        "abstract": "Abstract Clustering cells based on single-cell multi-modal sequencing technologies provides an unprecedented opportunity to create high-resolution cell atlas, reveal cellular critical states and study health and diseases. However, effectively integrating different sequencing data for cell clustering remains a challenging task. Motivated by the successful application of Louvain in scRNA-seq data, we propose a single-cell multi-modal Louvain clustering framework, called scMLC, to tackle this problem. scMLC builds multiplex single- and cross-modal cell-to-cell networks to capture modal-specific and consistent information between modalities and then adopts a robust multiplex community detection method to obtain the reliable cell clusters. In comparison with 15 state-of-the-art clustering methods on seven real datasets simultaneously measuring gene expression and chromatin accessibility, scMLC achieves better accuracy and stability in most datasets. Synthetic results also indicate that the cell-network-based integration strategy of multi-omics data is superior to other strategies in terms of generalization. Moreover, scMLC is flexible and can be extended to single-cell sequencing data with more than two modalities."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a942cdbd240e05633d86626e30ce9e966a6c581f",
+        "title": "Into the Microscale: Low-input sequencing technologies and applications in medicine",
+        "abstract": "Sequencing technology has undergone major breakthroughs over time and has become indispensable in biological and medical research. Advances in protocols and analysis algorithms allow the analysis of small sample inputs, enabling the characterization of complex networks that govern biological processes in physiology and pathology, driving the development of precision medicine and targeted therapy. In this review, we comprehensively summarize low-input sequencing technologies that include methods for profiling the genome, epigenome, transcriptome, translatome, RNA modification, RNA-RNA interaction, RNA-protein interaction, and multi-omics. The key steps and innovations in different protocols are highlighted, and their advantages, limitations, and scope of application are described. With a focus on the impact of low-input sequencing technologies in biomedical fields, including embryonic development, prenatal and preimplantation genetic testing, oncology and immunology, and pandemic research, we discuss their potential to improve embryo implantation rates, prevent birth defects, develop prospective therapies, and predict prognosis. Lastly, we discuss current limitations and future prospects, providing new insights for medical research.\n"
+    }
+}

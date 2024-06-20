@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "254e213e67aca0c5323194b728d59b591f393086",
+        "title": "Advances of Single-Cell Protein Analysis",
+        "abstract": "Proteins play a significant role in the key activities of cells. Single-cell protein analysis provides crucial insights in studying cellular heterogeneities. However, the low abundance and enormous complexity of the proteome posit challenges in analyzing protein expressions at the single-cell level. This review summarizes recent advances of various approaches to single-cell protein analysis. We begin by discussing conventional characterization approaches, including fluorescence flow cytometry, mass cytometry, enzyme-linked immunospot assay, and capillary electrophoresis. We then detail the landmark advances of microfluidic approaches for analyzing single-cell protein expressions, including microfluidic fluorescent flow cytometry, droplet-based microfluidics, microwell-based assay (microengraving), microchamber-based assay (barcoding microchips), and single-cell Western blotting, among which the advantages and limitations are compared. Looking forward, we discuss future research opportunities and challenges for multiplexity, analyte, throughput, and sensitivity of the microfluidic approaches, which we believe will prompt the research of single-cell proteins such as the molecular mechanism of cell biology, as well as the clinical applications for tumor treatment and drug development."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d9607aefd0333a207a26a36b8e6e4912023a5870",
+        "title": "Surfaceome analysis of extracellular vesicles from senescent cells uncovers uptake repressor DPP4",
+        "abstract": "Significance Vast numbers of senescence-associated EVs (S-EVs) are released and carry different contents than EVs from proliferating cells (P-EVs), suggesting that they may harbor important factors critical for the senescence microenvironment and pathologies associated with age. We characterized the proteins, especially surface proteins, on P-EVs and S-EVs, and identified DPP4 as a specific marker on the surface of S-EVs. Although S-EVs were taken up by macrophages, they were refractory to uptake by many other cell types, including cancer cells. DPP4 on the surface of S-EVs appeared to function as a signal to prevent S-EVs internalization."
+    }
+}

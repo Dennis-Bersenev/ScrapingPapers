@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "881638eb5d0858a1def8f020e2293737057931a6",
+        "title": "Quantification of proteins, protein complexes and mRNA in single cells by proximity-sequencing",
+        "abstract": "Multiplexed analysis of single-cells enables accurate modeling of cellular behaviors, classification of new cell types, and characterization of their functional states. Here we present proximity-sequencing (Prox-seq), a method for simultaneous measurement of an individual cell\u2019s proteins, protein complexes and mRNA. Prox-seq utilizes deep sequencing and barcoded proximity assays to measure proteins and their complexes from all pairwise combinations of targeted proteins, in thousands of single-cells. The number of measured protein complexes scales quadratically with the number of targeted proteins, providing unparalleled multiplexing capacity. We developed a high-throughput experimental and computational pipeline and demonstrated the potential of Prox-Seq for multi-omic analysis with a panel of 13 barcoded proximity probes, enabling the measurement of 91 protein complexes, along with thousands of mRNA molecules in single T-cells and B-cells. Prox-seq provides access to an untapped yet powerful measurement modality for single-cell phenotyping and can discover new protein interactions in signaling and drug studies."
+    }
+}

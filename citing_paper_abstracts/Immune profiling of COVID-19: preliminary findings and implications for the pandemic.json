@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "96812dc84e4c8312b470a67881c0eb7630314b29",
+        "title": "Immune profiling of COVID-19: preliminary findings and implications for the pandemic",
+        "abstract": "SARS-CoV-2 infection can have widely diverse clinical outcomes, from asymptomatic infection to death, with many possible clinical symptoms and syndromes. It is thus essential to understand how the virus interacts with the host immune system to bring about these varied outcomes and to inform vaccine development. We now know that both antibody and T cell responses are induced in the majority of infected individuals, and that cross-reactive responses from other coronaviruses also exist in the uninfected population. Innate immune responses are a key focus of research and may influence the course of disease and the character of subsequent adaptive responses. Finally, baseline immune profiles and changes during early acute infection may be key to predicting the course of disease. Understanding all these aspects can help to create better immune monitoring tools for COVID-19, including tools for predicting disease severity or specific sequelae, perhaps even prior to infection."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7149fe93a008dadbf6848da861cd0baf27a919b2",
+        "title": "Modeling memory T cell states at single-cell resolution identifies in vivo state-dependence of eQTLs influencing disease",
+        "abstract": "Many non-coding genetic variants cause disease by modulating gene expression. However, identifying these expression quantitative trait loci (eQTLs) is complicated by gene-regulation differences between cell states. T cells, for example, have fluid, multifaceted functional states in vivo that cannot be modeled in eQTL studies that aggregate cells. Here, we modeled T cell states and eQTLs at single-cell resolution. Using >500,000 resting memory T cells from 259 Peruvians, we found over one-third of the 6,511 cis-eQTLs had state-dependent effects. By integrating single-cell RNA and surface protein measurements, we defined continuous cell states that explained more eQTL variation than discrete states like CD4+ or CD8+ T cells and could have opposing effects on independent eQTL variants in a locus. Autoimmune variants were enriched in cell-state-dependent eQTLs, such as a rheumatoid-arthritis variant near ORMDL3 strongest in cytotoxic CD8+ T cells. These results argue that fine-grained cell state context is crucial to understanding disease-associated eQTLs."
+    }
+}

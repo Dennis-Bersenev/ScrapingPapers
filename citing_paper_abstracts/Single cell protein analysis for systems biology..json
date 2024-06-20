@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "fae873d77ec51fb332958a3e5ff6911185e217b2",
+        "title": "Single cell protein analysis for systems biology.",
+        "abstract": "The cellular abundance of proteins can vary even between isogenic single cells. This variability between single-cell protein levels can have regulatory roles, such as controlling cell fate during apoptosis induction or the proliferation/quiescence decision. Here, we review examples connecting protein levels and their dynamics in single cells to cellular functions. Such findings were made possible by the introduction of antibodies, and subsequently fluorescent proteins, for tracking protein levels in single cells. However, in heterogeneous cell populations, such as tumors or differentiating stem cells, cellular decisions are controlled by hundreds, even thousands of proteins acting in concert. Characterizing such complex systems demands measurements of thousands of proteins across thousands of single cells. This demand has inspired the development of new methods for single-cell protein analysis, and we discuss their trade-offs, with an emphasis on their specificity and coverage. We finish by highlighting the potential of emerging mass-spec methods to enable systems-level measurement of single-cell proteomes with unprecedented coverage and specificity. Combining such methods with methods for quantitating the transcriptomes and metabolomes of single cells will provide essential data for advancing quantitative systems biology."
+    }
+}

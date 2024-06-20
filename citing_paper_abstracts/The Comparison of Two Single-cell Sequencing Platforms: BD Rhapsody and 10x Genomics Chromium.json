@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "da6fd56fd35141ab24c986fd4282bf37eeeadf10",
+        "title": "The Comparison of Two Single-cell Sequencing Platforms: BD Rhapsody and 10x Genomics Chromium",
+        "abstract": "The cell is the unit of life for all organisms, and all cells are certainly not the same. So the technology to generate transcription expression or genomic DNA profiles from single cells is crucial. Since its establishment in 2009, single-cell RNA sequencing (scRNA-seq) has emerged as a major driver of progress in biomedical research. During the last three years, several new single-cell sequencing platforms have emerged. Yet there are only a few systematic comparisons of the advantages and limitations of these commonly used platforms. Here we compare two single-cell sequencing platforms: BD Rhapsody and 10x Genomics Chromium, including their different mechanisms and some scRNA-seq results obtained with them."
+    }
+}

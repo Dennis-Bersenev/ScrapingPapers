@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "bbeaf63ef2c4ee6439d82d0aa311d01e12c19077",
+        "title": "Single-Cell Applications of Next-Generation Sequencing.",
+        "abstract": "The single cell is considered the basic unit of biology, and the pursuit of understanding how heterogeneous populations of cells can functionally coexist in tissues, organisms, microbial ecosystems, and even cancer, makes them the subject of intense study. Next-generation sequencing (NGS) of RNA and DNA has opened a new frontier of (single)-cell biology. Hundreds to millions of cells now can be assayed in parallel, providing the molecular profile of each cell in its milieu inexpensively and in a manner that can be analyzed mathematically. The goal of this article is to provide a high-level overview of single-cell sequencing for the nonexpert and show how its applications are influencing both basic and applied clinical studies in embryology, developmental genetics, and cancer."
+    }
+}

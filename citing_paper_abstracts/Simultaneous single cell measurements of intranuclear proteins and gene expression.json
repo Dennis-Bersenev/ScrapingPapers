@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "302197ba6fd0a08a87d4f560649b44f5109bb377",
+        "title": "Simultaneous single cell measurements of intranuclear proteins and gene expression",
+        "abstract": "Identifying gene regulatory targets of nuclear proteins in tissues remains a challenge. Here we describe intranuclear Cellular Indexing of Transcriptomes and Epitopes (inCITE-seq), a scalable method for measuring multiplexed intranuclear protein levels and the transcriptome in parallel in thousands of cells, enabling joint analysis of TF levels and gene expression in vivo. We apply inCITE-seq to characterize cell state-related changes upon pharmacological induction of neuronal activity in the mouse brain. Modeling gene expression as a linear combination of quantitative protein levels revealed the genome-wide effect of each TF and recovered known targets. Cell type-specific genes associated with each TF were co-expressed as distinct modules that each corresponded to positive or negative TF levels, showing that our approach can disentangle relative contributions of TFs to gene expression and add interpretability to gene networks. InCITE-seq can illuminate how combinations of nuclear proteins shape gene expression in native tissue contexts, with direct applications to solid or frozen tissues and clinical specimens."
+    }
+}

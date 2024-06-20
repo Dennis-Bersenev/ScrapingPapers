@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "995681657aa3d3d4a4ff005007c6d3657a1b4b9b",
+        "title": "Comprehensive benchmarking of CITE-seq versus DOGMA-seq single cell multimodal omics",
+        "abstract": "The recently developed method TEA-seq and similar DOGMA-seq single cell trimodal omics assays provide unprecedented opportunities for understanding cell biology, but independent evaluation is lacking. We explore the utility of DOGMA-seq compared to the bimodal CITE-seq assay in activated and stimulated human peripheral blood T cells. We find that single cell trimodal omics measurements after digitonin (DIG) permeabilization were generally better than after an alternative \u201clow-loss lysis\u201d (LLL) permeabilization condition. Next, we find that DOGMA-seq with optimized DIG permeabilization and its ATAC library provides more information, although its mRNA and cell surface protein libraries have slightly inferior quality, compared to CITE-seq."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "6d305a709d594805c582b9a05e5a702a8bfecdd2",
+        "title": "Single-cell clonal tracking of persistent T-cells in allogeneic hematopoietic stem cell transplantation",
+        "abstract": "The critical balance between intended and adverse effects in allogeneic hematopoietic stem cell transplantation (alloHSCT) depends on the fate of individual donor T-cells. To this end, we tracked \u03b1\u03b2T-cell clonotypes during stem cell mobilization treatment with granulocyte-colony stimulating factor (G-CSF) in healthy donors and for six months during immune reconstitution after transfer to transplant recipients. More than 250 \u03b1\u03b2T-cell clonotypes were tracked from donor to recipient. These clonotypes consisted almost exclusively of CD8+ effector memory T cells (CD8TEM), which exhibited a different transcriptional signature with enhanced effector and cytotoxic functions compared to other CD8TEM. Importantly, these distinct and persisting clonotypes could already be delineated in the donor. We confirmed these phenotypes on the protein level and their potential for selection from the graft. Thus, we identified a transcriptional signature associated with persistence and expansion of donor T-cell clonotypes after alloHSCT that may be exploited for personalized graft manipulation strategies in future studies."
+    }
+}

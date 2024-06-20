@@ -1,0 +1,3 @@
+- json_pages, papers, and papers_all are all storing the papers relevant to the scanpy replication project.
+- the new papers_citeseq folder stores summaries for all the papers using citeseq
+- the goal is to then get an LLM to look through those and decide if any of them are meaningfully relevant to this task of protein <-> transcriptome interpolation!

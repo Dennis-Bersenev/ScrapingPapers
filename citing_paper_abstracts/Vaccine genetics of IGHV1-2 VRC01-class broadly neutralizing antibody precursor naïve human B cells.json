@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "3076014d24e660c0e5fc1f4363936ee843a02119",
+        "title": "Vaccine genetics of IGHV1-2 VRC01-class broadly neutralizing antibody precursor na\u00efve human B cells",
+        "abstract": "A successful HIV vaccine eliciting broadly neutralizing antibodies (bnAbs) must overcome the hurdle of being able to activate naive precursor B cells encoding features within their germline B cell receptors (BCR) that allow recognition of broadly neutralizing epitopes. Knowledge of whether bnAb precursor B cells are circulating at sufficient frequencies within individuals in communities heavily impacted by HIV may be important. Using a germline-targeting eOD-GT8 immunogen and high-throughput droplet-based single-cell BCR sequencing, we demonstrate that large numbers of paired BCR sequences from multiple donors can be efficiently screened to elucidate precursor frequencies of rare, naive VRC01-class B cells. Further, we analyzed IGHV1-2 allelic usage among three different cohorts; we find that IGHV1-2 alleles traditionally thought to be incompatible with VRC01-class responses are relatively common in various human populations and that germline variation within IGHV1-2 associates with gene usage frequencies in the naive BCR repertoire."
+    }
+}

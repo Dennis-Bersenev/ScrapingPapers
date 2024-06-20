@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "50051400965f65cb5dddc92766b55e6e6c2b7621",
+        "title": "Dual-layered hydrogels allow complete genome recovery with nucleic acid cytometry",
+        "abstract": "Targeting specific cells for sequencing is important for applications in cancer, microbiology, and infectious disease. Nucleic acid cytometry (NAC) is a powerful approach for accomplishing this because it allows specific cells to be isolated based on sequence biomarkers that are otherwise impossible to detect. However, existing methods require specialized microfluidic devices, limiting adoption. Here, a modified workflow is described that uses particle\u2010templated emulsification (PTE) and flow cytometry to conduct the essential steps of cell detection and sorting normally accomplished by microfluidics. Our microfluidic\u2010free workflow allows facile isolation and sequencing of cells, viruses, and nucleic acids and thus provides a powerful enrichment approach for targeted sequencing applications."
+    }
+}

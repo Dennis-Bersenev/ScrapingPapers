@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7059ee2cbfa55f262ba882b1a6912518d23ea666",
+        "title": "Single Cell RNA-Sequencing for the Study of Atherosclerosis",
+        "abstract": "Atherosclerosis is a major cause of coronary artery disease and stroke. A massive and new type of data has finally arrived in the field of atherosclerosis: single cell RNA sequencing (scRNAseq). Recently, scRNAseq has been successfully applied to the study of atherosclerosis to identify previously uncharacterized cell populations. scRNAseq is an effective approach to evaluate heterogeneous cell populations by measuring the transcriptomic profiles at the single cell level. Besides the studies of atherosclerosis, scRNAseq is being employed in various areas of biology, including cancer research and organ development. In order to analyze these new massive datasets, various analytic approaches have been developed. This review aims to enhance the understanding of this new technology by exploring how the single cell transcriptome has been applied to the study of atherosclerosis and further discuss potential analysis of using scRNAseq."
+    }
+}

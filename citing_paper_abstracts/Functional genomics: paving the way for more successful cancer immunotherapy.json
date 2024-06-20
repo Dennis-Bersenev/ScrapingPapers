@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7c06f105a4b2a94b72700d53fefb86f28aa6e2d1",
+        "title": "Functional genomics: paving the way for more successful cancer immunotherapy",
+        "abstract": "Immunotherapies have revolutionized cancer treatment. Immunotherapy is effective for the treatment of a wide range of cancer types and can mediate complete and durable tumor regression. Nonetheless, the field still faces many significant challenges, such as the need for personalized therapeutic strategies and better biomarkers, the difficulty of selecting the right combination therapy, and resistance to currently available immunotherapies. Both cancer and host immunity comprise significantly diverse and complex ecosystems, making immunogenomics an ideal field for functional genomics analysis. In this review, we describe the cancer-immunity cycle, how cancer cells manage to evade immune attack and the current hurdles in the path of cancer immunotherapy. Then, we discuss how functional genomics approaches can pave the way for more successful cancer immunotherapies."
+    }
+}

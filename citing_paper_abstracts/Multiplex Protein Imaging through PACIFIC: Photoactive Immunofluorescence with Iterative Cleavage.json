@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "7b2291347a53175aabbd884d54981e2fc4c79c92",
+        "title": "Multiplex Protein Imaging through PACIFIC: Photoactive Immunofluorescence with Iterative Cleavage",
+        "abstract": "Multiplex protein imaging technologies enable deep phenotyping and provide rich spatial information about biological samples. Existing methods have shown great success but also harbored trade-offs between various pros and cons, underscoring the persisting necessity to expand the imaging toolkits. Here we present PACIFIC: photoactive immunofluorescence with iterative cleavage, a new modality of multiplex protein imaging methods. PACIFIC achieves iterative multiplexing by implementing photocleavable fluorophores for antibody labeling with one-step spin-column purification. PACIFIC requires no specialized instrument, no DNA encoding, or chemical treatments. We demonstrate that PACIFIC can resolve cellular heterogeneity in both formalin-fixed paraffin-embedded (FFPE) samples and fixed cells. To further highlight how PACIFIC assists discovery, we integrate PACIFIC with live-cell tracking and identify phosphor-p70S6K as a critical driver that governs U87 cell mobility. Considering the cost, flexibility, and compatibility, we foresee that PACIFIC can confer deep phenotyping capabilities to anyone with access to traditional immunofluorescence platforms."
+    }
+}

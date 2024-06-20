@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "44f8703f1e5ac450ec6238f722db1a19920d2ae0",
+        "title": "Single-cell multi-omics sequencing and its applications in studying the nervous system",
+        "abstract": "Single-cell sequencing has become one of the most powerful and popular techniques in dissecting molecular heterogeneity and modeling the cellular architecture of a biological system. During the past twenty years, the throughput of single-cell sequencing has increased from hundreds of cells to over tens of thousands of cells in parallel. Moreover, this technology has been developed from sequencing transcriptome to measure different omics such as DNA methylome, chromatin accessibility, and so on. Currently, multi-omics which can analyze different omics in the same cell is rapidly advancing. This work advances the study of many biosystems, including the nervous system. Here, we review current single-cell multi-omics sequencing techniques and describe how they improve our understanding of the nervous system. Finally, we discuss the open scientific questions in neural research that may be answered through further improvement of single-cell multi-omics sequencing technology."
+    }
+}

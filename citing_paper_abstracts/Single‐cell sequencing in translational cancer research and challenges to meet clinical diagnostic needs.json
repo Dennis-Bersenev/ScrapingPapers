@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "3f502b0f7e8852e7827e8c048ac11c78aec21e99",
+        "title": "Single\u2010cell sequencing in translational cancer research and challenges to meet clinical diagnostic needs",
+        "abstract": "The ability to capture alterations in the genome or transcriptome by next\u2010generation sequencing has provided critical insight into molecular changes and programs underlying cancer biology. With the rapid technological development in single\u2010cell sequencing, it has become possible to study individual cells at the transcriptional, genetic, epigenetic, and protein level. Using single\u2010cell analysis, an increased resolution of fundamental processes underlying cancer development is obtained, providing comprehensive insights otherwise lost by sequencing of entire (bulk) samples, in which molecular signatures of individual cells are averaged across the entire cell population. Here, we provide a concise overview on the application of single\u2010cell analysis of different modalities within cancer research by highlighting key articles of their respective fields. We furthermore examine the potential of existing technologies to meet clinical diagnostic needs and discuss current challenges associated with this translation."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e7f110d97a9436d01d7e13b5e98a46623aba4b83",
+        "title": "Single-Cell Approaches to Profile the Response to Immune Checkpoint Inhibitors",
+        "abstract": "Novel treatments based upon the use of immune checkpoint inhibitors have an impressive efficacy in different types of cancer. Unfortunately, most patients do not derive benefit or lasting responses, and the reasons for the lack of therapeutic success are not known. Over the past two decades, a pressing need to deeply profile either the tumor microenvironment or cells responsible for the immune response has led investigators to integrate data obtained from traditional approaches with those obtained with new, more sophisticated, single-cell technologies, including high parameter flow cytometry, single-cell sequencing and high resolution imaging. The introduction and use of these technologies had, and still have a prominent impact in the field of cancer immunotherapy, allowing delving deeper into the molecular and cellular crosstalk between cancer and immune system, and fostering the identification of predictive biomarkers of response. In this review, besides the molecular and cellular cancer-immune system interactions, we are discussing how cutting-edge single-cell approaches are helping to point out the heterogeneity of immune cells in the tumor microenvironment and in blood."
+    }
+}

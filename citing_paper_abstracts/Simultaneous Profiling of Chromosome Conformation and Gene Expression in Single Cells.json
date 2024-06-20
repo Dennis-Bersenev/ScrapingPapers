@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "5b7742e952f19a4f3478f5ca258b3269c83ee568",
+        "title": "Simultaneous Profiling of Chromosome Conformation and Gene Expression in Single Cells",
+        "abstract": "Rapid development in single-cell chromosome conformation capture technologies has provided valuable insights into the importance of spatial genome architecture for gene regulation. However, a long-standing technical gap remains in the simultaneous characterization of three-dimensional genomes and transcriptomes in the same cell. We have described an assay named Hi-C and RNA-seq employed simultaneously (HiRES), which integrates in situ reverse transcription and chromosome conformation capture (3C) for the parallel analysis of chromatin organization and gene expression. Here, we provide a detailed implementation of the assay, using mouse embryos and cerebral cortices as examples. The versatility of this method extends beyond these two samples, with the potential to be used in various other cell types. Key features \u2022 A multi-omics sequencing approach to profile 3D genome structure and gene expression simultaneously in single cells. \u2022 Compatible with animal tissues. \u2022 One-tube amplification of both DNA and RNA components. \u2022 Requires three days to complete."
+    }
+}

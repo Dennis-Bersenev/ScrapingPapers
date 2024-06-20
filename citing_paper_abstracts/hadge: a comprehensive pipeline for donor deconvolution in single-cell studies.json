@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "3de1d9ad3127be34a8dcdba1d9c0ede67b79e4bd",
+        "title": "hadge: a comprehensive pipeline for donor deconvolution in single-cell studies",
+        "abstract": "Single cell multiplexing techniques (cell hashing and genetic multiplexing) allow to combine multiple samples, thereby optimizing sample processing and reducing batch effects. Cell hashing conjugates antibody-tags or chemical-oligonucleotides to cell membranes, while genetic multiplexing allows to mix genetically diverse samples and relies on aggregation of RNA reads at known genomic coordinates. We developed hadge (hashing deconvolution combined with genotype information), a Nextflow pipeline that combines 12 methods to perform both hashing- and genotype-based deconvolution. We propose a joint deconvolution strategy combining the best performing methods and we demonstrate how this approach leads to recovery of previously discarded cells in a nuclei hashing of fresh-frozen brain tissue."
+    }
+}

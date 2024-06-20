@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d5c437c56aaa22025a31c2b89c00c52330243810",
+        "title": "Integrated single-cell analysis unveils diverging immune features of COVID-19, influenza, and other community-acquired pneumonia",
+        "abstract": "The exact immunopathophysiology of community-acquired pneumonia (CAP) caused by SARS-CoV-2 (COVID-19) remains clouded by a general lack of relevant disease controls. The scarcity of single-cell investigations in the broader population of patients with CAP renders it difficult to distinguish immune features unique to COVID-19 from the common characteristics of a dysregulated host response to pneumonia. We performed integrated single-cell transcriptomic and proteomic analyses in peripheral blood mononuclear cells from a matched cohort of eight patients with COVID-19, eight patients with CAP caused by Influenza A or other pathogens, and four non-infectious control subjects. Using this balanced, multi-omics approach, we describe shared and diverging transcriptional and phenotypic patterns\u2014including increased levels of type I interferon-stimulated natural killer cells in COVID-19, cytotoxic CD8 T EMRA cells in both COVID-19 and influenza, and distinctive monocyte compositions between all groups\u2014and thereby expand our understanding of the peripheral immune response in different etiologies of pneumonia."
+    }
+}

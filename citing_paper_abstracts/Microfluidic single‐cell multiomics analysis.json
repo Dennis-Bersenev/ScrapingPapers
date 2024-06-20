@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "4a2a4e74f092abfb629bb9de006f84ffcfd17c22",
+        "title": "Microfluidic single\u2010cell multiomics analysis",
+        "abstract": "Cellular heterogeneity is essential to biological processes, such as embryonic development, cell differentiation, and the progression of disease. Recent years have seen the development of a variety of single\u2010cell multiomics technologies that systemically codetect the genome, epigenome, transcriptome, and proteome for single\u2010cell heterogeneity evaluation comprehensively. Microfluidics has emerged as a significant tool for single\u2010cell multiomics techniques, enabling the analysis of the complex regulatory network associated with genome coding, epigenome regulation, and transcriptome/proteome expression in a single cell with increased detection sensitivity, accuracy, throughput, and integration. A review of state\u2010of\u2010the\u2010art microfluidic single\u2010cell multiomics analysis is presented here. Various microfluidics for isolating single cells are introduced first, highlighting their advantages, disadvantages, and applications in single\u2010cell sequencing. Then, a comprehensive overview of microfluidic single\u2010cell multiomics techniques is provided. In addition, a brief introduction of single\u2010cell multiomics analysis in biological applications and clinical settings will be presented. Finally, we will conclude by discussing the future challenges and prospects of this field."
+    }
+}

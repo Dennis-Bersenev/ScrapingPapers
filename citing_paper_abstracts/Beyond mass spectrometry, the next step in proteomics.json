@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a5ec35eacce13d5214346f1902b890cc04dd4f58",
+        "title": "Beyond mass spectrometry, the next step in proteomics",
+        "abstract": "This survey illuminates alternatives for sequencing proteins with the brightest prospects for displacing mass spectrometry. Proteins can be the root cause of a disease, and they can be used to cure it. The need to identify these critical actors was recognized early (1951) by Sanger; the first biopolymer sequenced was a peptide, insulin. With the advent of scalable, single-molecule DNA sequencing, genomics and transcriptomics have since propelled medicine through improved sensitivity and lower costs, but proteomics has lagged behind. Currently, proteomics relies mainly on mass spectrometry (MS), but instead of truly sequencing, it classifies a protein and typically requires about a billion copies of a protein to do it. Here, we offer a survey that illuminates a few alternatives with the brightest prospects for identifying whole proteins and displacing MS for sequencing them. These alternatives all boast sensitivity superior to MS and promise to be scalable and seem to be adaptable to bioinformatics tools for calling the sequence of amino acids that constitute a protein."
+    }
+}

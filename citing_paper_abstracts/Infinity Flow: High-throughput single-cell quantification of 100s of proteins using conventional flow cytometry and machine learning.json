@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a6e016b4868d7354dbaf6540e1e1df9f275e028b",
+        "title": "Infinity Flow: High-throughput single-cell quantification of 100s of proteins using conventional flow cytometry and machine learning",
+        "abstract": "Modern immunologic research increasingly requires high-dimensional analyses in order to understand the complex milieu of cell-types that comprise the tissue microenvironments of disease. To achieve this, we developed Infinity Flow combining hundreds of overlapping flow cytometry panels using machine learning to enable the simultaneous analysis of the co-expression patterns of 100s of surface-expressed proteins across millions of individual cells. In this study, we demonstrate that this approach allows the comprehensive analysis of the cellular constituency of the steady-state murine lung and to identify novel cellular heterogeneity in the lungs of melanoma metastasis bearing mice. We show that by using supervised machine learning, Infinity Flow enhances the accuracy and depth of clustering or dimensionality reduction algorithms. Infinity Flow is a highly scalable, low-cost and accessible solution to single cell proteomics in complex tissues."
+    }
+}

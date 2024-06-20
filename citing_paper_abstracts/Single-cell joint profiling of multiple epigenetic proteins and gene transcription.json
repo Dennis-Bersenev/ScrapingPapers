@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "56e29f0f9d47313bbd01ad390e57385bea48abb8",
+        "title": "Single-cell joint profiling of multiple epigenetic proteins and gene transcription",
+        "abstract": "Sculpting the epigenome with a combination of histone modifications and transcription factor occupancy determines gene transcription and cell fate specification. Here, we first develop uCoTarget, utilizing a split-pool barcoding strategy for realizing ultrahigh-throughput single-cell joint profiling of multiple epigenetic proteins. Through extensive optimization for sensitivity and multimodality resolution, we demonstrate that uCoTarget enables simultaneous detection of five histone modifications (H3K27ac, H3K4me3, H3K4me1, H3K36me3, and H3K27me3) in 19,860 single cells. We applied uCoTarget to the in vitro generation of hematopoietic stem/progenitor cells (HSPCs) from human embryonic stem cells, presenting multimodal epigenomic profiles in 26,418 single cells. uCoTarget reveals establishment of pairing of HSPC enhancers (H3K27ac) and promoters (H3K4me3) and RUNX1 engagement priming for H3K27ac activation along the HSPC path. We then develop uCoTargetX, an expansion of uCoTarget to simultaneously measure transcriptome and multiple epigenome targets. Together, our methods enable generalizable, versatile multimodal profiles for reconstructing comprehensive epigenome and transcriptome landscapes and analyzing the regulatory interplay at single-cell level."
+    }
+}

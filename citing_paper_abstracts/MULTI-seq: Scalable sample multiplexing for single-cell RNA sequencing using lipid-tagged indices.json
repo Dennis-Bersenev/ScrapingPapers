@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "1b835cd760df686348f8aa2f5cc9480e547d57a4",
+        "title": "MULTI-seq: Scalable sample multiplexing for single-cell RNA sequencing using lipid-tagged indices",
+        "abstract": "We describe MULTI-seq: A rapid, modular, and universal scRNA-seq sample multiplexing strategy using lipid-tagged indices. MULTI-seq reagents can barcode any cell type from any species with an accessible plasma membrane. The method is compatible with enzymatic tissue dissociation, and also preserves viability and endogenous gene expression patterns. We leverage these features to multiplex the analysis of multiple solid tissues comprising human and mouse cells isolated from patient-derived xenograft mouse models. We also utilize MULTI-seq\u2019s modular design to perform a 96-plex perturbation experiment with human mammary epithelial cells. MULTI-seq also enables robust doublet identification, which improves data quality and increases scRNA-seq cell throughput by minimizing the negative effects of Poisson loading. We anticipate that the sample throughput and reagent savings enabled by MULTI-seq will expand the purview of scRNA-seq and democratize the application of these technologies within the scientific community."
+    }
+}

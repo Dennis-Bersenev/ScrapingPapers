@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9dcf53cc1ce9bb69ce24f875e10a183d86c9be2b",
+        "title": "Scalable, multimodal profiling of chromatin accessibility and protein levels in single cells",
+        "abstract": "Recent technological advances have enabled massively parallel chromatin profiling with single-cell Assay for Transposase Accessible Chromatin by sequencing (scATAC-seq) in thousands of individual cells. Here, we extend these approaches and present ATAC with Select Antigen Profiling by sequencing, ASAP-seq, a tool to simultaneously profile accessible chromatin and protein levels in thousands of single cells. Our approach pairs sparse scATAC-seq data with robust detection of hundreds of cell surface and intracellular protein markers and optional capture of mitochondrial DNA (mtDNA) for clonal tracking, thus concomitantly capturing three distinct modalities in single cells. Importantly, ASAP-seq uses a novel bridging approach that repurposes antibody:oligo conjugates designed for existing technologies that pair protein measurements with single cell RNA-seq. We demonstrate the utility of ASAP-seq by revealing coordinated and distinct changes in chromatin, RNA, and surface proteins during native hematopoietic differentiation, peripheral blood mononuclear cell stimulation, and as a combinatorial decoder and reporter of multiplexed perturbations in primary T cells."
+    }
+}

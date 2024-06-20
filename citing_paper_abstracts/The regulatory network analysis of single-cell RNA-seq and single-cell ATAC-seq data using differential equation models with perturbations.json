@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "d8f3759b9ef99adcc9a6eda2acc518d287386ff8",
+        "title": "The regulatory network analysis of single-cell RNA-seq and single-cell ATAC-seq data using differential equation models with perturbations",
+        "abstract": "A recent study presented a new differential equation model, MultiVelo, which simultaneously performs on chromatin accessibility and gene expression from single-cell data to reveals regulatory network of epigenomic and transcriptomic changes. However, it is unclear how regulatory network changes with perturbations. Here, we extend the ordinal differential equation models to time-delay differential equation models with controller to investigate the stability of regulatory network with perturbations."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "0447fa504fb12aa69aadb3986b1bbff47dc3e4ce",
+        "title": "Quantifying the phenotypic information in mRNA abundance",
+        "abstract": "Quantifying the dependency between mRNA abundance and downstream cellular phenotypes is a fundamental open problem in biology. Advances in multimodal single cell measurement technologies provide an opportunity to apply new computational frameworks to dissect the contribution of individual genes and gene combinations to a given phenotype. Using an information theory approach, we analyzed multimodal data of the expression of 83 genes in the Ca2+ signaling network and the dynamic Ca2+ response in the same cell. We found that the overall expression levels of these 83 genes explain approximately 60% of Ca2+ signal entropy. The average contribution of each single gene was 16%, revealing a large degree of redundancy between genes. Using different heuristics we estimated the dependency between the size of a gene set and its information content, revealing that on average a set of 53 genes contains 90% of the information about Ca2+ signaling within the cellular transcriptional state. Our results provide the first direct quantification of information content about complex cellular phenotype that exists in mRNA abundance measurements."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "f5a509e21663035a0d00e8a4db3fdc163da51a58",
+        "title": "The Human Lung Cell Atlas - A high-resolution reference map of the human lung in health and disease.",
+        "abstract": "Lung disease accounts for every sixth death globally. Profiling the molecular state of all lung cell types in health and disease is currently revolutionizing the identification of disease mechanisms and will aid the design of novel diagnostic and personalized therapeutic regimens. Recent progress in high-throughput techniques for single-cell genomic and transcriptomic analyses has opened up new possibilities to study individual cells within a tissue, classify these into cell types, and characterize variations in their molecular profiles as a function of genetics, environment, cell-cell interactions, developmental processes, ageing or disease. Integration of these cell state definitions with spatial information allows the in-depth molecular description of cellular neighborhoods and tissue microenvironments including the tissue resident structural and immune cells, the tissue matrix as well as the microbiome. The Human Cell Atlas consortium aims to characterize all cells in the healthy human body, and has prioritized lung tissue as one of the flagship projects. Here, we present the rationale, the approach and the expected impact of a Human Lung Cell Atlas."
+    }
+}

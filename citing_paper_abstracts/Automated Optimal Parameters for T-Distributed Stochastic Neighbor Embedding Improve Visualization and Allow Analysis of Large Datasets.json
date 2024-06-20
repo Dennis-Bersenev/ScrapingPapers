@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "89b2abcd21a9d6f27aed220bd4f2176fd021cb2c",
+        "title": "Automated Optimal Parameters for T-Distributed Stochastic Neighbor Embedding Improve Visualization and Allow Analysis of Large Datasets",
+        "abstract": "Accurate and comprehensive extraction of information from high-dimensional single cell datasets necessitates faithful visualizations to assess biological populations. A state-of-the-art algorithm for non-linear dimension reduction, t-SNE, requires multiple heuristics and fails to produce clear representations of datasets when millions of cells are projected. We developed opt-SNE, an automated toolkit for optimal t-SNE parameter selection that utilizes Kullback-Liebler divergence evaluation in real time to tailor the early exaggeration and overall number of gradient descent iterations in a dataset-specific manner. The precise calibration of early exaggeration together with opt-SNE adjustment of gradient descent learning rate dramatically improves computation time and enables high-quality visualization of large cytometry and transcriptomics datasets, overcoming limitations of analysis tools with hard-coded parameters that often produce poorly resolved or misleading maps of fluorescent and mass cytometry data. In summary, opt-SNE enables optimal data resolution in t-SNE space and more precise data interpretation."
+    }
+}

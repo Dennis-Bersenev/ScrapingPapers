@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "883accee04e309f7be480daa114808b76bac7c19",
+        "title": "CRISPR Tools for Systematic Studies of RNA Regulation.",
+        "abstract": "SUMMARYRNA molecules perform diverse functions in mammalian cells, including transferring genetic information from DNA to protein and playing diverse regulatory roles through interactions with other cellular components. Here, we discuss how clustered regularly interspaced short palindromic repeat (CRISPR)-based technologies for directed perturbations of DNA and RNA are revealing new insights into RNA regulation. First, we review the fundamentals of CRISPR-Cas enzymes and functional genomics tools that leverage these systems. Second, we explore how these new perturbation technologies are transforming the study of regulation of and by RNA, focusing on the functions of DNA regulatory elements and long noncoding RNAs (lncRNAs). Third, we highlight an emerging class of RNA-targeting CRISPR-Cas enzymes that have the potential to catalyze studies of RNA biology by providing tools to directly perturb or measure RNA modifications and functions. Together, these tools enable systematic studies of RNA function and regulation in mammalian cells."
+    }
+}

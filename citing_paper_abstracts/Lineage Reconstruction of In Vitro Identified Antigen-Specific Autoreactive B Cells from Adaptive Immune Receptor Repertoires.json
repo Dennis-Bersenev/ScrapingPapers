@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "a97374d044a6b81854956923fac50fbb7b4a7b96",
+        "title": "Lineage Reconstruction of In Vitro Identified Antigen-Specific Autoreactive B Cells from Adaptive Immune Receptor Repertoires",
+        "abstract": "The emergence, survival, growth and maintenance of autoreactive (AR) B-cell clones, the hallmark of humoral autoimmunity, leave their footprints in B-cell receptor repertoires. Collecting IgH sequences related to polyreactive (PR) ones from adaptive immune receptor repertoire (AIRR) datasets make the reconstruction and analysis of PR/AR B-cell lineages possible. We developed a computational approach, named ImmChainTracer, to extract members and to visualize clonal relationships of such B-cell lineages. Our approach was successfully applied on the IgH repertoires of patients suffering from monogenic hypomorphic RAG1 and 2 deficiency (pRD) or polygenic systemic lupus erythematosus (SLE) autoimmune diseases to identify relatives of AR IgH sequences and to track their fate in AIRRs. Signs of clonal expansion, affinity maturation and class-switching events in PR/AR and non-PR/AR B-cell lineages were revealed. An extension of our method towards B-cell expansion caused by any trigger (e.g., infection, vaccination or antibody development) may provide deeper insight into antigen specific B-lymphogenesis."
+    }
+}

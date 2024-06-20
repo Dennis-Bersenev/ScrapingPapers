@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "ad968bdb06208dc485a3f2c3b6681567223d4925",
+        "title": "Glutamine antagonist DRP-104 suppresses tumor growth and enhances response to checkpoint blockade in KEAP1 mutant lung cancer",
+        "abstract": "Loss-of-function mutations in KEAP1 frequently occur in lung cancer and are associated with poor prognosis and resistance to standard of care treatment, highlighting the need for the development of targeted therapies. We previously showed that KEAP1 mutant tumors consume glutamine to support the metabolic rewiring associated with NRF2-dependent antioxidant production. Here, using preclinical patient-derived xenograft models and antigenic orthotopic lung cancer models, we show that the glutamine antagonist prodrug DRP-104 impairs the growth of KEAP1 mutant tumors. We find that DRP-104 suppresses KEAP1 mutant tumors by inhibiting glutamine-dependent nucleotide synthesis and promoting antitumor T cell responses. Using multimodal single-cell sequencing and ex vivo functional assays, we demonstrate that DRP-104 reverses T cell exhaustion, decreases Tregs, and enhances the function of CD4 and CD8 T cells, culminating in an improved response to anti-PD1 therapy. Our preclinical findings provide compelling evidence that DRP-104, currently in clinical trials, offers a promising therapeutic approach for treating patients with KEAP1 mutant lung cancer."
+    }
+}

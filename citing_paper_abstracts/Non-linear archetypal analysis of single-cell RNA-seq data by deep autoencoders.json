@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "9a6ec6dcd4a1d28122e846789657adde2a40649f",
+        "title": "Non-linear archetypal analysis of single-cell RNA-seq data by deep autoencoders",
+        "abstract": "Advances in single-cell RNA sequencing (scRNA-seq) have led to successes in discovering novel cell types and understanding cellular heterogeneity among complex cell populations through cluster analysis. However, cluster analysis is not able to reveal continuous spectrum of states and underlying gene expression programs (GEPs) shared across cell types. We introduce scAAnet, an autoencoder for single-cell non-linear archetypal analysis, to identify GEPs and infer the relative activity of each GEP across cells. We use a count distribution-based loss term to account for the sparsity and overdispersion of the raw count data and add an archetypal constraint to the loss function of scAAnet. We first show that scAAnet outperforms existing methods for archetypal analysis across different metrics through simulations. We then demonstrate the ability of scAAnet to extract biologically meaningful GEPs using publicly available scRNA-seq datasets including a pancreatic islet dataset, a lung idiopathic pulmonary fibrosis dataset and a prefrontal cortex dataset."
+    }
+}

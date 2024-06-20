@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "abeb144b11df3504025263b619dd863785bc7a68",
+        "title": "Chronic Opioid Treatment Arrests Neurodevelopment and Alters Synaptic Activity in Human Midbrain Organoids",
+        "abstract": "The impact of long-term opioid exposure on the embryonic brain is crucial to healthcare due to the surging number of pregnant mothers with an opioid dependency. Current studies on the neuronal effects are limited due to human brain inaccessibility and cross-species differences among animal models. Here, we report a model to assess cell-type specific responses to acute and chronic fentanyl treatment, as well as fentanyl withdrawal, using human induced pluripotent stem cell (hiPSC)-derived midbrain organoids. Single cell mRNA sequencing (25,510 single cells in total) results suggest that chronic fentanyl treatment arrests neuronal subtype specification during early midbrain development and alters the pathways associated with synaptic activities and neuron projection. Acute fentanyl treatment, however, increases dopamine release but does not induce significant changes in gene expressions of cell lineage development. To date, our study is the first unbiased examination of midbrain transcriptomics with synthetic opioid treatment at the single cell level."
+    }
+}

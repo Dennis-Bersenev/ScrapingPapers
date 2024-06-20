@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c88405295aca5d458d38062f5cec09e5122fc7e2",
+        "title": "Differential in vivo labeling with barcoded antibodies allows for simultaneous transcriptomic profiling of airway, lung tissue and intravascular immune cells",
+        "abstract": "Single-cell RNA sequencing (scRNA-seq) is the state-of-the-art approach to study transcriptomic signatures in individual cells in respiratory health and disease. However, classical scRNA-seq approaches provide no spatial information and are performed using either bronchoalveolar lavage fluid (BAL) or lung single cell suspensions to assess transcript levels in airway and tissue immune cells, respectively. Herein we describe a simple method to simultaneously characterize transcriptomic features of airway, lung parenchymal and intravascular immune cells based on differential in vivo labeling with barcoded antibodies. In addition to gaining basic spatial information, this approach allows for direct comparison of cells within different anatomical compartments. Furthermore, this method provides a time- and cost-effective alternative to classical scRNA-seq where lung and BAL samples are processed individually, reducing animal and reagent use. We demonstrate the feasibility of this approach in a preclinical mouse model of bacterial lung infection comparing airway, parenchymal and vasculature neutrophils early after infection."
+    }
+}

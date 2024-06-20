@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "aded319ab15712075c030e459d9763fa38abcaed",
+        "title": "Dissolvable Polyacrylamide Beads for High\u2010Throughput Droplet DNA Barcoding",
+        "abstract": "Droplet\u2010based single cell sequencing technologies, such as inDrop, Drop\u2010seq, and 10X Genomics, are catalyzing a revolution in the understanding of biology. Barcoding beads are key components for these technologies. What is limiting today are barcoding beads that are easy to fabricate, can efficiently deliver primers into drops, and thus achieve high detection efficiency. Here, this work reports an approach to fabricate dissolvable polyacrylamide beads, by crosslinking acrylamide with disulfide bridges that can be cleaved with dithiothreitol. The beads can be rapidly dissolved in drops and release DNA barcode primers. The dissolvable beads are easy to synthesize, and the primer cost for the beads is significantly lower than that for the previous barcoding beads. Furthermore, the dissolvable beads can be loaded into drops with >95% loading efficiency of a single bead per drop and the dissolution of beads does not influence reverse transcription or the polymerase chain reaction (PCR) in drops. Based on this approach, the dissolvable beads are used for single cell RNA and protein analysis."
+    }
+}

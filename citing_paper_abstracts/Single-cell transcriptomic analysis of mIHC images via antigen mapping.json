@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "007fab3ae2d888da9faedbd28080d9bf15b3887a",
+        "title": "Single-cell transcriptomic analysis of mIHC images via antigen mapping",
+        "abstract": "Mapping single-cell RNA-seq data onto IHC images enables the annotation of cell populations at high phenotypic resolution. Highly multiplexed immunohistochemistry (mIHC) enables the staining and quantification of dozens of antigens in a tissue section with single-cell resolution. However, annotating cell populations that differ little in the profiled antigens or for which the antibody panel does not include specific markers is challenging. To overcome this obstacle, we have developed an approach for enriching mIHC images with single-cell RNA sequencing data, building upon recent experimental procedures for augmenting single-cell transcriptomes with concurrent antigen measurements. Spatially-resolved Transcriptomics via Epitope Anchoring (STvEA) performs transcriptome-guided annotation of highly multiplexed cytometry datasets. It increases the level of detail in histological analyses by enabling the systematic annotation of nuanced cell populations, spatial patterns of transcription, and interactions between cell types. We demonstrate the utility of STvEA by uncovering the architecture of poorly characterized cell types in the murine spleen using published cytometry and mIHC data of this organ."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "237d57dff505a96b7bcbb5b000758cdd4837e6b2",
+        "title": "A single\u2010cell transcriptome atlas of the adult human retina",
+        "abstract": "The retina is a specialized neural tissue that senses light and initiates image processing. Although the functional organization of specific retina cells has been well studied, the molecular profile of many cell types remains unclear in humans. To comprehensively profile the human retina, we performed single\u2010cell RNA sequencing on 20,009 cells from three donors and compiled a reference transcriptome atlas. Using unsupervised clustering analysis, we identified 18 transcriptionally distinct cell populations representing all known neural retinal cells: rod photoreceptors, cone photoreceptors, M\u00fcller glia, bipolar cells, amacrine cells, retinal ganglion cells, horizontal cells, astrocytes, and microglia. Our data captured molecular profiles for healthy and putative early degenerating rod photoreceptors, and revealed the loss of MALAT1 expression with longer post\u2010mortem time, which potentially suggested a novel role of MALAT1 in rod photoreceptor degeneration. We have demonstrated the use of this retina transcriptome atlas to benchmark pluripotent stem cell\u2010derived cone photoreceptors and an adult M\u00fcller glia cell line. This work provides an important reference with unprecedented insights into the transcriptional landscape of human retinal cells, which is fundamental to understanding retinal biology and disease."
+    }
+}

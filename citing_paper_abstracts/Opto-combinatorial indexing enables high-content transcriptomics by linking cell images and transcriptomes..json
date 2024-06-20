@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "1bd12fff91ebae7308db0ea6b1a4fbd5bec90f0a",
+        "title": "Opto-combinatorial indexing enables high-content transcriptomics by linking cell images and transcriptomes.",
+        "abstract": "We introduce a simple integrated analysis method that links cellular phenotypic behaviour with single-cell RNA sequencing (scRNA-seq) by utilizing a combination of optical indices from cells and hydrogel beads. With our method, the combinations, referred to as joint colour codes, enable the link via matching the optical combinations measured by conventional epi-fluorescence microscopy with the concatenated DNA molecular barcodes created by cell-hydrogel bead pairs and sequenced by next-generation sequencing. We validated our approach by demonstrating an accurate link between the cell image and scRNA-seq with mixed species experiments, longitudinal cell tagging by electroporation and lipofection, and gene expression analysis. Furthermore, we extended our approach to multiplexed chemical transcriptomics, which enabled us to identify distinct phenotypic behaviours in HeLa cells treated with various concentrations of paclitaxel, and determine the corresponding gene regulation associated with the formation of a multipolar spindle."
+    }
+}

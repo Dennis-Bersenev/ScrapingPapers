@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "e2d11f7feed6ff1e7b8c935380997a78ccd95728",
+        "title": "Type I interferon dynamics determines memory B cell epigenetic identity in chronic viral infection",
+        "abstract": "Memory B cells are key providers of long-lived immunity against infectious disease, yet in chronic viral infection they do not produce effective protection. How chronic viral infection disrupts memory B cell development, and whether such changes are reversible, remains unknown. Here, we uncover type-I interferon (IFN-I) dynamics as a key determinant in shaping chronic memory B cell development. Through single-cell (sc)ATAC-sequencing and scRNA-sequencing, we identified a unique memory subset enriched for IFN-stimulated genes (ISGs) during chronic lymphocytic choriomeningitis virus infection. Blockade of IFNAR-1 early in infection transformed the chromatin landscape of chronic memory B cells, decreasing accessibility at ISG-inducing transcription factor binding motifs and inducing a phenotypic change in the dominating memory B cell subset. However, timing was critical, with memory B cells resistant to intervention after 4 weeks post-infection. Together, our research identifies a key mechanism to instruct memory B cell identity during viral infection. One Sentence Summary: IFN dynamics in chronic versus acute viral infection determines memory B cell development."
+    }
+}

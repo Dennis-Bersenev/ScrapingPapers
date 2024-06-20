@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "8065b4253c672ec9b400a3b0808022449f244fed",
+        "title": "Redefining Mucosal Inflammation with Spatial Genomics",
+        "abstract": "The human oral mucosa contains one of the most complex cellular systems that are essential for normal physiology and defense against a wide variety of local pathogens. Evolving techniques and experimental systems have helped refine our understanding of this complex cellular network. Current single-cell RNA sequencing methods can resolve subtle differences between cell types and states, thus providing a great tool for studying the molecular and cellular repertoire of the oral mucosa in health and disease. However, it requires the dissociation of tissue samples, which means that the interrelationships between cells are lost. Spatial transcriptomic methods bypass tissue dissociation and retain this spatial information, thereby allowing gene expression to be assessed across thousands of cells within the context of tissue structural organization. Here, we discuss the contribution of spatial technologies in shaping our understanding of this complex system. We consider the impact on identifying disease cellular neighborhoods and how space defines cell state. We also discuss the limitations and future directions of spatial sequencing technologies with recent advances in machine learning. Finally, we offer a perspective on open questions about mucosal homeostasis that these technologies are well placed to address."
+    }
+}

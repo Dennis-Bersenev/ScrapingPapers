@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "85c3fccaf0b0e6686550123b9805b528fa3aa154",
+        "title": "ProtAnno, an Automated Cell Type Annotation Tool for Single Cell Proteomics Data that integrates information from Multiple Reference Sources",
+        "abstract": "Compared with sequencing-based global genomic profiling, cytometry labels targeted surface markers on millions of cells in parallel either by conjugated rare earth metal particles or Unique Molecular Identifier (UMI) barcodes. Correct annotation of these cells to specific cell types is a key step in the analysis of these data. However, there is no computational tool that automatically annotates single cell proteomics data for cell type inference. In this manuscript, we propose an automated single cell proteomics data annotation approach called ProtAnno to facilitate cell type assignments without laborious manual gating. ProtAnno is designed to incorporate information from annotated single cell RNA-seq (scRNA-seq), CITE-seq, and prior data knowledge (which can be imprecise) on biomarkers for different cell types. We have performed extensive simulations to demonstrate the accuracy and robustness of ProtAnno. For several single cell proteomics datasets that have been manually labeled, ProtAnno was able to correctly label most single cells. In summary, ProtAnno offers an accurate and robust tool to automate cell type annotations for large single cell proteomics datasets, and the analysis of such annotated cell types can offer valuable biological insights."
+    }
+}

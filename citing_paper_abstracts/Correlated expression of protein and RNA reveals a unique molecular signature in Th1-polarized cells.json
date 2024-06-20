@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "87eab02db49215dffaa76334922c520da1c08ef1",
+        "title": "Correlated expression of protein and RNA reveals a unique molecular signature in Th1-polarized cells",
+        "abstract": "Bulk RNA sequencing (RNA-Seq) has become a widely used tool for measuring gene expression, whereas flow cytometry is considered the gold standard for studying protein expression at a cellular level. Recent developments in single-cell sequencing technologies have combined the analysis of RNA and protein in a technique called cellular indexing of transcriptomes and epitopes by sequencing (CITE-Seq). This method uses antibodies conjugated to oligonucleotides, available as TotalSeq antibodies from BioLegend. These oligo-conjugated antibodies have been incorporated into an RNA-Seq workflow for simultaneously obtaining RNA and protein data using Illumina next-generation sequencing (NGS), described as bulk epitope and nucleic acid sequencing (BEN-Seq), rendering a complete proteogenomic profile of the sample. To demonstrate the utility of this approach, we performed CITE-Seq and bulk RNA and protein sequencing with 280 TotalSeq antibodies on T helper 1 (Th1)-polarized human peripheral blood mononuclear cells (PBMCs). We found a unique molecular profile that characterized Th1 cells with a strong correlation between both methods, demonstrating how protein analysis can be used to enrich bulk RNA-Seq data sets."
+    }
+}

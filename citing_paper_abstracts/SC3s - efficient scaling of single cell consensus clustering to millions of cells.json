@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "c535e6b9357d4b456079c0047a7bd1f631f52251",
+        "title": "SC3s - efficient scaling of single cell consensus clustering to millions of cells",
+        "abstract": "Technological advances have paved the way for single cell RNAseq (scRNAseq) datasets containing several million cells 1. Such large datasets require highly efficient algorithms to enable analyses at reasonable times and hardware requirements 2. A crucial step in single cell workflows is unsupervised clustering, which aims to delineate putative cell types or cell states based on transcriptional similarity 3. Here, we present a highly efficient k-means based approach, and we demonstrate that it scales linearly with the number of cells with regards to time and memory."
+    }
+}

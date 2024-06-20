@@ -1,0 +1,7 @@
+{
+    "citingPaper": {
+        "paperId": "deaf8285c9024cd4667907e0834ab43c8740b6fd",
+        "title": "Next-Generation Sequencing-Based Spatial Transcriptomics: A Perspective from Barcoding Chemistry",
+        "abstract": "Gene expression profiling of tissue cells with spatial context is in high demand to reveal cell types, locations, and intercellular or molecular interactions for physiological and pathological studies. With rapid advances in barcoding chemistry and sequencing chemistry, spatially resolved transcriptome (SRT) techniques have emerged to quantify spatial gene expression in tissue samples by correlating transcripts with their spatial locations using diverse strategies. These techniques provide both physical tissue structure and molecular characteristics and are poised to revolutionize many fields, such as developmental biology, neuroscience, oncology, and histopathology. In this context, this Perspective focuses on next-generation sequencing-based SRT methods, particularly highlighting spatial barcoding chemistry. It delves into optically manipulated spatial indexing methods and DNA array-barcoded spatial indexing methods by exploring current advances, challenges, and future development directions in this nascent field."
+    }
+}
