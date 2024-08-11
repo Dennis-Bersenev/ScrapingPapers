@@ -104,16 +104,20 @@ def get_paper(title: str, url, filename):
     
     # Send the API request
     search_response = requests.get(url, params=query_params, headers=headers)
+    paper_id = None
+    pdf_url = None
     
     if search_response.status_code == 200:
+        
         try:
-            search_response = search_response.json()
-
+            response = search_response.json()
+            
             # Retrieve the paper id corresponding to the 1st result in the list
-            paper_id = search_response['data'][0]['paperId']
-
+            paper_id = response['data'][0]['paperId']
+            
             # Retrieve the paper details corresponding to this paper id.
             paper_details = get_paper_data(paper_id)
+            print(paper_details)
             
             if paper_details['isOpenAccess']:
                 pdf_url = paper_details['openAccessPdf']['url']        
@@ -125,19 +129,23 @@ def get_paper(title: str, url, filename):
 
     if pdf_url:
         download_file(pdf_url, filename)
+    
+    return paper_id
 
 
 # Will only return/save the first paper from the search results 
-def query_semantic_scholar(query_params, url, paper_id, filename):
+def query_semantic_scholar(query_params, paper_id, filename):
+    url = 'https://api.semanticscholar.org/graph/v1/paper/' + paper_id
     
-    response = requests.get(url + paper_id, params=query_params, headers=headers)
+    response = requests.get(url, params=query_params, headers=headers)
     
     if response.status_code == 200:
-        json_data = json.dumps(response.json()['data'][0], indent=4)
+        json_data = json.dumps(response.json(), indent=4)
         
         outpath = os.path.join(outdir, filename)
         # Write the JSON string to a file
         with open(outpath, 'w') as file:
             file.write(json_data)
         print(json_data)
-    
+    else:
+        print("Failed to connect")

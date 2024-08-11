@@ -7,11 +7,10 @@
 
 # Setup
 ## 1. Setup keys in src/key.py (Note: semantic scholar API key is required).
-## 2. Setup environment via conda TODO
+## 2. Setup environment via conda: conda env create -f environment.yml
 
 
-## Example Usage:
-### python3 main.py --title PaperName --meta_params {'fields': 'comma-seperated-list'} 
-### python3 main.py --title PaperName --meta_params {'fields': 'comma-seperated-list'}
-### TODO 2
-### TODO 3
+# Example Usage:
+## General Structure: src/python3 main.py --title PaperName --meta_params 'comma-seperated-list'
+### python3 src/main.py --title "Large-scale simultaneous measurement of epitopes and transcriptomes in single cells" --meta_params "year,abstract"
+### python3 src/main.py --title "Attention is All You Need" --meta_params "year,abstract,authors.name"
