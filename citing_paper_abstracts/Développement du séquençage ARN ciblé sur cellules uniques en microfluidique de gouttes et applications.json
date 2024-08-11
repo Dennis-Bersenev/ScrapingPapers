@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "b66c5a3531b24bd9641f0f7592aade827089ff98",
-        "title": "D\u00e9veloppement du s\u00e9quen\u00e7age ARN cibl\u00e9 sur cellules uniques en microfluidique de gouttes et applications",
-        "abstract": "Une large proportion de nouveaux-nes prematures sont sujets a des inflammations du cerveau pouvant entrainer des troubles neurologiques. Les memes mecanismes d'inflammation sont observes dans la progression de pathologies telles que Alzheimer ou Parkinson. Cette inflammation est due aux cellules microgliales, qui constitue le systeme immunitaire du cerveau. Durant cette these, nous allons developper des outils d'analyse a l'echelle de la cellule unique a tres haut debit (microfluidique en gouttes). Ils nous permettront d'etudier la microglie a l'echelle de la cellule unique et en particulier l'expression genique, la secretion de proteines d'interet ainsi que la reponse de ces cellules a des combinaisons de drogues. Les objectifs de la these sont de comprendre les mecanismes de regulation de l'inflammation dans le cerveau et de mettre au point de nouvelles strategies therapeutiques pour diminuer cette inflammation chez les nouveaux-nes."
-    }
-}

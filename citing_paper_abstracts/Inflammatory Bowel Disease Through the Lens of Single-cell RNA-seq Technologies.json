@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "baa72332a09cef7b4e577067c205803c614f7195",
-        "title": "Inflammatory Bowel Disease Through the Lens of Single-cell RNA-seq Technologies",
-        "abstract": "Abstract The intestinal mucosa represents a unique environment where the coordinated function of diverse epithelial, mesenchymal, and immune cells maintains a physiologically balanced environment in the presence of gut microbiota. The intestinal mucosa plays a central role in the pathogenesis of inflammatory bowel disease (IBD), yet the molecular and cellular composition of this diverse environment is poorly understood. However, the recent advent of multimodal single-cell technologies, including single-cell RNA sequencing (scRNA-seq), now provides an opportunity to accurately map the tissue architecture, characterize rare cell types that were previously overlooked, and define function at a single-cell level. In this review, we summarize key advances in single-cell technology and provide an overview of important aspects of computational analysis. We describe emerging data in the field of IBD and discuss how the characterization of novel intestinal mucosa cell populations is reshaping our understanding of this complex disease. We conclude by considering the potential clinical applications, including the definition of novel drug targets and the opportunity for personalization of care in this exciting new era of precision medicine."
-    }
-}

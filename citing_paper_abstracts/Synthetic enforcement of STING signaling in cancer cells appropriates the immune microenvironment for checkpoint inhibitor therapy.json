@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ef9aa7deece5932eaeee7259b337e5ee745fd6e2",
-        "title": "Synthetic enforcement of STING signaling in cancer cells appropriates the immune microenvironment for checkpoint inhibitor therapy",
-        "abstract": "Immune checkpoint inhibitors (ICIs) enhance anticancer immunity by releasing repressive signals into tumor microenvironments (TMEs). To be effective, ICIs require preexisting immunologically \u201chot\u201d niches for tumor antigen presentation and lymphocyte recruitment. How the mutational landscape of cancer cells shapes these immunological niches remains poorly defined. We found in human and murine colorectal cancer (CRC) models that the superior antitumor immune response of mismatch repair (MMR)\u2013deficient CRC required tumor cell\u2013intrinsic activation of cGAS-STING signaling triggered by genomic instability. Subsequently, we synthetically enforced STING signaling in CRC cells with intact MMR signaling using constitutively active STING variants. Even in MMR-proficient CRC, genetically encoded gain-of-function STING was sufficient to induce cancer cell\u2013intrinsic interferon signaling, local activation of antigen-presenting cells, recruitment of effector lymphocytes, and sensitization of previously \u201ccold\u201d TMEs to ICI therapy in vivo. Thus, our results introduce a rational strategy for modulating cancer cell\u2013intrinsic programs via engineered STING enforcement to sensitize resistant tumors to ICI responsiveness."
-    }
-}

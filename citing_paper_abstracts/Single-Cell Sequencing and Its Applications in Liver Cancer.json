@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9636cecf9d7c667be6aded80cf8613e162a92619",
-        "title": "Single-Cell Sequencing and Its Applications in Liver Cancer",
-        "abstract": "As one of the most lethal cancers, primary liver cancer (PLC) has high tumor heterogeneity, including the heterogeneity between cancer cells. Traditional methods which have been used to identify tumor heterogeneity for a long time are based on large mixed cell samples, and the research results usually show average level of the cell population, ignoring the heterogeneity between cancer cells. In recent years, single-cell sequencing has been increasingly applied to the studies of PLCs. It can detect the heterogeneity between cancer cells, distinguish each cell subgroup in the tumor microenvironment (TME), and also reveal the clonal characteristics of cancer cells, contributing to understand the evolution of tumor. Here, we introduce the process of single-cell sequencing, review the applications of single-cell sequencing in the heterogeneity of cancer cells, TMEs, oncogenesis, and metastatic mechanisms of liver cancer, and discuss some of the current challenges in the field."
-    }
-}

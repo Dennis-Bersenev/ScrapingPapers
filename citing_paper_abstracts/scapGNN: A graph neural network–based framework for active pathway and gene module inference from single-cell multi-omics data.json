@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "22d509f45712a799b31d9f381f463d741c57182a",
-        "title": "scapGNN: A graph neural network\u2013based framework for active pathway and gene module inference from single-cell multi-omics data",
-        "abstract": "Although advances in single-cell technologies have enabled the characterization of multiple omics profiles in individual cells, extracting functional and mechanistic insights from such information remains a major challenge. Here, we present scapGNN, a graph neural network (GNN)-based framework that creatively transforms sparse single-cell profile data into the stable gene\u2013cell association network for inferring single-cell pathway activity scores and identifying cell phenotype\u2013associated gene modules from single-cell multi-omics data. Systematic benchmarking demonstrated that scapGNN was more accurate, robust, and scalable than state-of-the-art methods in various downstream single-cell analyses such as cell denoising, batch effect removal, cell clustering, cell trajectory inference, and pathway or gene module identification. scapGNN was developed as a systematic R package that can be flexibly extended and enhanced for existing analysis processes. It provides a new analytical platform for studying single cells at the pathway and network levels."
-    }
-}

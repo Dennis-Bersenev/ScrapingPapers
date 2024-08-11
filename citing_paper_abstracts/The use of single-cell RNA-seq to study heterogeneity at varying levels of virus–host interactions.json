@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fad6c8da21c63152ac5bf074039f06b02d625cf1",
-        "title": "The use of single-cell RNA-seq to study heterogeneity at varying levels of virus\u2013host interactions",
-        "abstract": "The outcome of viral infection depends on the diversity of the infecting viral population and the heterogeneity of the cell population that is infected. Until almost a decade ago, the study of these dynamic processes during viral infection was challenging and limited to certain targeted measurements. Presently, with the use of single-cell sequencing technology, the complex interface defined by the interactions of cells with infecting virus can now be studied across the breadth of the transcriptome in thousands of individual cells simultaneously. In this review, we will describe the use of single-cell RNA sequencing (scRNA-seq) to study the heterogeneity of viral infections, ranging from individual virions to the immune response between infected individuals. In addition, we highlight certain key experimental limitations and methodological decisions that are critical to analyzing scRNA-seq data at each scale."
-    }
-}

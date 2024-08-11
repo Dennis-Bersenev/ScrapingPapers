@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ccdc05d28aac416e2fc0e660bdb98a2f24f3d33d",
-        "title": "A Cancer Biologist's Primer on Machine Learning Applications in High-Dimensional Cytometry.",
-        "abstract": "The application of machine learning and artificial intelligence to high-dimensional cytometry data sets has increasingly become a staple of bioinformatic data analysis over the past decade. This is especially true in the field of cancer biology, where protocols for collecting multiparameter single-cell data in a high-throughput fashion are rapidly developed. As the use of machine learning methodology in cytometry becomes increasingly common, there is a need for cancer biologists to understand the basic theory and applications of a variety of algorithmic tools for analyzing and interpreting cytometry data. We introduce the reader to several keystone machine learning-based analytic approaches with an emphasis on defining key terms and introducing a conceptual framework for making translational or clinically relevant discoveries. The target audience consists of cancer cell biologists and physician-scientists interested in applying these tools to their own data, but who may have limited training in bioinformatics. \u00a9 2020 International Society for Advancement of Cytometry."
-    }
-}

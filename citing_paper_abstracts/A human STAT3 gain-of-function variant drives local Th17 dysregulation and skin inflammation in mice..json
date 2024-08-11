@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "509301a2aefb1f4d9cd171e0ca8a1251630c0c09",
-        "title": "A human STAT3 gain-of-function variant drives local Th17 dysregulation and skin inflammation in mice.",
-        "abstract": "Germline gain-of-function (GOF) variants in STAT3 cause an inborn error of immunity associated with early-onset poly-autoimmunity and immune dysregulation. To study tissue-specific immune dysregulation, we used a mouse model carrying a missense variant (p.G421R) that causes human disease. We observed spontaneous and imiquimod (IMQ)-induced skin inflammation associated with cell-intrinsic local Th17 responses in STAT3 GOF mice. CD4+ T cells were sufficient to drive skin inflammation and showed increased Il22 expression in expanded clones. Certain aspects of disease, including increased epidermal thickness, also required the presence of STAT3 GOF in epithelial cells. Treatment with a JAK inhibitor improved skin disease without affecting local Th17 recruitment and cytokine production. These findings collectively support the involvement of Th17 responses in the development of organ-specific immune dysregulation in STAT3 GOF and suggest that the presence of STAT3 GOF in tissues is important for disease and can be targeted with JAK inhibition."
-    }
-}

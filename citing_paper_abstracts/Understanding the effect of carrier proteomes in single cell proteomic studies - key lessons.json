@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6a65bc83d8ea58983fe644503a473e02a406fd71",
-        "title": "Understanding the effect of carrier proteomes in single cell proteomic studies - key lessons",
-        "abstract": "ABSTRACT Introduction Mass spectrometry-based single-cell proteomics (scMS) is experiencing rapid evolution due to the increased sensitivity of mass spectrometers as well as advances in multiplexing and sample preparation. To date, researchers have focused on two general approaches to scMS: label-free and isobaric label-based multiplexing. While label-free analysis provides straightforward sample preparation and a clear path to automation, it currently lacks the throughput necessary to practically analyze thousands of single cells. Multiplexed analysis utilizing isobaric labels requires additional sample manipulation but increases throughput such that analyzing thousands of cells is currently achievable. A key feature of multiplexed scMS experiments is a \u2018carrier proteome\u2019 \u2013 a sample added at 25x-500x, the single-cell sample that increases the number of proteins that can be identified in an MS analysis. Areas covered Here, we review early examples of carrier proteomes in quantitative proteomics before summarizing advantages and challenges of using a carrier proteome in scMS experiments. Expert opinion We conclude that the addition of carrier proteomes improves depth of identification for scMS, but high levels of carrier proteomes can have adverse effects on quantitative accuracy and precision."
-    }
-}

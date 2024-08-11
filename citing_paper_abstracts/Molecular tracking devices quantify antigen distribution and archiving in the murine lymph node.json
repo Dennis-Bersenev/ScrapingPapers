@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5a6bdf088980a6d3fa89337114699bf04b812500",
-        "title": "Molecular tracking devices quantify antigen distribution and archiving in the murine lymph node",
-        "abstract": "The detection of foreign antigens in vivo has relied on fluorescent conjugation or indirect read-outs such as antigen presentation. In our studies, we found that these widely used techniques had several technical limitations that have precluded a complete picture of antigen trafficking or retention across lymph node cell types. To address these limitations, we developed a \u2018molecular tracking device\u2019 to follow the distribution, acquisition, and retention of antigen in the lymph node. Utilizing an antigen conjugated to a nuclease-resistant DNA tag, acting as a combined antigen-adjuvant conjugate, and single-cell mRNA sequencing, we quantified antigen abundance in the lymph node. Variable antigen levels enabled the identification of caveolar endocytosis as a mechanism of antigen acquisition or retention in lymphatic endothelial cells. Thus, these molecular tracking devices enable new approaches to study dynamic tissue dissemination of antigen-adjuvant conjugates and identify new mechanisms of antigen acquisition and retention at cellular resolution in vivo."
-    }
-}

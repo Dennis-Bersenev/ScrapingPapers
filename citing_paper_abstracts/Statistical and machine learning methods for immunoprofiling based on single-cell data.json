@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3ae1bb7f9eb76f909b17c04c8d905ac16cdca5d5",
-        "title": "Statistical and machine learning methods for immunoprofiling based on single-cell data",
-        "abstract": "ABSTRACT Immunoprofiling has become a crucial tool for understanding the complex interactions between the immune system and diseases or interventions, such as therapies and vaccinations. Immune response biomarkers are critical for understanding those relationships and potentially developing personalized intervention strategies. Single-cell data have emerged as a promising source for identifying immune response biomarkers. In this review, we discuss the current state-of-the-art methods for immunoprofiling, including those for reducing the dimensionality of high-dimensional single-cell data and methods for clustering, classification, and prediction. We also draw attention to recent developments in data integration."
-    }
-}

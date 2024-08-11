@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ac119e4480710580588b0a70dbd8b628c8e369e8",
-        "title": "Deciphering Cell Fate Decision by Integrated Single-Cell Sequencing Analysis.",
-        "abstract": "Cellular differentiation is a common underlying feature of all multicellular organisms through which na\u00efve cells progressively become fate restricted and develop into mature cells with specialized functions. A comprehensive understanding of the regulatory mechanisms of cell fate choices during de- velopment, regeneration, homeostasis, and disease is a central goal of mod- ern biology. Ongoing rapid advances in single-cell biology are enabling the exploration of cell fate specification at unprecedented resolution. Here, we review single-cell RNA sequencing and sequencing of other modalities as methods to elucidate the molecular underpinnings of lineage specification. We specifically discuss how the computational tools available to reconstruct lineage trajectories, quantify cell fate bias, and perform dimensionality re- duction for data visualization are providing new mechanistic insights into the process of cell fate decision. Studying cellular differentiation using single- cell genomic tools is paving the way for a detailed understanding of cellular behavior in health and disease."
-    }
-}

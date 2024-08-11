@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1c82559c419737ae7e333089e7e65b5d8e322e82",
-        "title": "Single-cell analysis of developing B cells reveals dynamic gene expression networks that govern B cell development and transformation",
-        "abstract": "Integration of external signals and B-lymphoid transcription factor activities orchestrate B cell lineage commitment through alternating cycles of proliferation and differentiation, producing a diverse repertoire of mature B cells. We used single-cell transcriptomics and proteomics to characterize B cell development. Our analysis revealed unique transcriptional signatures that refine the pre-B cell expansion stages into novel pre-BCR-dependent and pre-BCR-independent proliferative phases. These changes correlate with unexpected dynamic and reciprocal changes in expression of the transcription factor EBF1 and the RNA binding protein YBX3, that are defining features of the pre-BCR-dependent stage. Using pseudotime analysis, we further characterize the expression kinetics of different biological modalities across B cell development, including transcription factors, cytokines, chemokines, and their associated receptors. Our findings reveal the underlying heterogeneity of developing B cells and point to key developmental nodes linked to B cell transformation."
-    }
-}

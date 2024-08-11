@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1e2bbb24f986b0a9fbacf390bd28b2017dd3af5f",
-        "title": "Fast and efficient Fc-specific photoaffinity labelling to produce antibody-DNA-conjugates.",
-        "abstract": "Antibody-DNA-conjugates are powerful tools for DNA-assisted protein analysis. Growing usage of these methods demands efficient production of high-quality conjugates. We developed an easy and fast synthesis route yielding covalent antibody-DNA-conjugates with a defined conjugation site and low batch-to-batch variability. We utilize the Z domain from protein A, containing the unnatural amino acid 4 benzoyl\u00acphenyl\u00acalanine (BPA) for photoaffinity labelling of the antibodies' Fc region. Z(xBPA)-domains are C-terminally modified with triple-glycine (G3)-modified DNA-oligonucleotides via enzymatic Sortase A coupling. We show reliable modification of the most commonly used IgGs. To prove our conjugates' functionality, we detected antibody-antigen binding events in an assay called Droplet Barcode Sequencing for Protein analysis (DBS-Pro). It confirms not only retained functionality for both conjugate parts but also the potential of using DBS-Pro for quantifying protein abundances. As intermediates are easily storable and our approach is modular, it offers a convenient strategy for screening various antibody-DNA-conjugates using the same starting material."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "24aa4bb21f8cc5d4078cad3a885f60e3a6abf58d",
-        "title": "Multiplexed in situ protein imaging using DNA-barcoded antibodies with extended hybridization chain reactions",
-        "abstract": "Immunofluorescence (IF) imaging using antibodies to visualize specific biomolecules is a widely used technique in both biological and clinical laboratories. Standard IF imaging methods using primary antibodies followed by secondary antibodies have low multiplexing capability due to limited availability of primary antibodies raised in different animal species. Here, we used a DNA-based signal amplification method, Hybridization Chain Reaction (HCR), to replace secondary antibodies to achieve multiplexed imaging using primary antibodies of the same species with superior signal intensity. To enable imaging with DNA-conjugated antibodies, we developed a new antibody staining protocol to minimize nonspecific binding of antibodies caused by conjugated DNA oligonucleotides. We also expanded the HCR hairpin pool from previously published 5 to 13 for highly multiplexed in situ imaging. We finally demonstrated multiplexed in situ protein imaging using the technique in both cultured cells and mouse retina sections."
-    }
-}

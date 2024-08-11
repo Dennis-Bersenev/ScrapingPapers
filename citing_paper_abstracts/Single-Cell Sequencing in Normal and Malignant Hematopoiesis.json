@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "117e02c50a01854813d117ad4b27016e3bbd895b",
-        "title": "Single-Cell Sequencing in Normal and Malignant Hematopoiesis",
-        "abstract": "Abstract Hematopoiesis is one of the best studied adult stem-cell systems, with a differentiation hierarchy progressing from immature hematopoietic stem cells to over 10 distinct mature cell types. Recent technological breakthroughs now make it possible to define transcriptional profiles in thousands of individual cells. Facilitated by the wealth of prior data on cell purification and analysis strategies, hematopoiesis has been one of the earliest experimental systems to which many of these new single-cell sequencing technologies have been applied. In this review, the authors focus on recent studies, which have shed light on heterogeneity within individual populations as well as the relationships between populations, and also attempt to characterize the differences between normal and disease/perturbed states."
-    }
-}

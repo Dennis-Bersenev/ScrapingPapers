@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "10aee48025f19121b79b449fa5a36fb4ff3d4d2c",
-        "title": "Single\u2010cell omics: Overview, analysis, and application in biomedical science",
-        "abstract": "Single\u2010cell sequencing methods provide the highest resolution insight into cellular heterogeneity. Owing to their rapid growth and decreasing cost, they are now widely accessible to scientists worldwide. Single\u2010cell technologies enable analysis of a large number of cells, making them powerful tools to characterise rare cell types and refine our understanding of diverse cell states. Moreover, single\u2010cell application in biomedical sciences helps to unravel mechanisms related to disease pathogenesis and outcome. In this Viewpoint, we briefly describe existing single\u2010cell methods (genomics, transcriptomics, epigenomics, proteomics, and mulitomics), comment on available analysis tools, and give examples of method applications in the biomedical field."
-    }
-}

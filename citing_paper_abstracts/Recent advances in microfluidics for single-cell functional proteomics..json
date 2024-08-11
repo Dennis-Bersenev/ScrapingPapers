@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "afda9a2fd54fa7719143fa3e760af81fce30cabe",
-        "title": "Recent advances in microfluidics for single-cell functional proteomics.",
-        "abstract": "Single-cell proteomics (SCP) reveals phenotypic heterogeneity by profiling individual cells, their biological states and functional outcomes upon signaling activation that can hardly be probed via other omics characterizations. This has become appealing to researchers as it enables an overall more holistic view of biological details underlying cellular processes, disease onset and progression, as well as facilitates unique biomarker identification from individual cells. Microfluidic-based strategies have become methods of choice for single-cell analysis because they allow facile assay integrations, such as cell sorting, manipulation, and content analysis. Notably, they have been serving as an enabling technology to improve the sensitivity, robustness, and reproducibility of recently developed SCP methods. Critical roles of microfluidics technologies are expected to further expand rapidly in advancing the next phase of SCP analysis to reveal more biological and clinical insights. In this review, we will capture the excitement of the recent achievements of microfluidics methods for both targeted and global SCP, including efforts to enhance the proteomic coverage, minimize sample loss, and increase multiplexity and throughput. Furthermore, we will discuss the advantages, challenges, applications, and future prospects of SCP."
-    }
-}

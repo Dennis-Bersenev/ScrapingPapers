@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "2dc8a86c9a834c10787a4474f07f77ecbc3f9f8b",
-        "title": "Gene detection models outperform gene expression for large-scale scRNA-seq analysis",
-        "abstract": "The number of cells to be sequenced is one of the most important considerations in single cell RNA experiment design, and we find that experiments designed to maximize the number of sequenced cells tends to also increase the measurement noise within individual cells. This noise is detrimental to the performance of downstream scRNA-seq analysis tools, but can be mitigated by ignoring precise expression measurements and focusing on the detection of a gene. This observation that throwing away data can increase signal is observed across multiple capture technologies, can be addressed using as little as one line of code, and results in execution times that are up to three orders of magnitude faster, therefore making this observation important as newer capture technologies continue to drive the number of sequenced cells higher."
-    }
-}

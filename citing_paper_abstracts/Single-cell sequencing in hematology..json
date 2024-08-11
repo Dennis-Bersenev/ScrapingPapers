@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "867cc2b4655c0e4719a1d019d104d98d599564fb",
-        "title": "Single-cell sequencing in hematology.",
-        "abstract": "PURPOSE OF REVIEW\nIn this review, we highlight key recent insights into hematopoiesis and hematological malignancies through the application of novel single-cell approaches. We particularly focus on biological insights made through the study of stem/progenitors cells in myeloid malignancy at single-cell resolution.\n\n\nRECENT FINDINGS\nBulk molecular profiling of hematological malignancies by next generation sequencing techniques has provided major insights into the molecular pathogenesis of blood cancers. This technology is now routinely implemented in advanced clinical diagnostics, leading to the development of novel targeted therapies. However, bulk genetic analysis can obscure key aspects of intratumoral heterogeneity which underlies critical disease events, such as treatment resistance and clonal evolution. The past few years have seen an explosion of novel techniques to analyze RNA, DNA, and protein expression at the single-cell level, providing unprecedented insight into cellular heterogeneity.\n\n\nSUMMARY\nGiven the ease of accessibility of liquid tumor biopsies, hematology is well positioned to move novel single-cell techniques towards routine application in the clinic. The present review sets out to discuss current and potential future applications for this technology in the management of patients with hematological cancers."
-    }
-}

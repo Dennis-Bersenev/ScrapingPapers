@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "537c8321b551cf8de0ff7ee27359718cf28acc0e",
-        "title": "Single-cell protein-DNA interactomics and multiomics tools for deciphering genome regulation",
-        "abstract": ": The emergence of single-cell genomic and transcriptomic sequencing accelerates the development of single-cell epigenomic technologies, providing an unprecedented opportunity for decoding cell fate decisions largely encoded in the epigenome. Recent advances in single-cell multimodality epigenomic technologies facilitate directly interrogating the regulatory relationship between multi-layer molecular information in the same cell. In this review, we discuss recent progress in development of single-cell multimodality epigenomic technologies and applications in elucidating cellular diversifications in development and diseases, with a focus on protein-DNA interactomics and regulatory links between epigenome and transcriptome. Further, we provide perspective on the future direction of single-cell multiomics tool development as well as challenges facing ahead"
-    }
-}

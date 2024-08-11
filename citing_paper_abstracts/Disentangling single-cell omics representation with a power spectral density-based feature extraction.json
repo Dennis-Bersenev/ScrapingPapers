@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "12883898a0b674ede44ec3c99424dc914ded7b9a",
-        "title": "Disentangling single-cell omics representation with a power spectral density-based feature extraction",
-        "abstract": "Emerging single-cell technologies provide high-resolution measurements of distinct cellular modalities opening new avenues for generating detailed cellular atlases of many and diverse tissues. The high dimensionality, sparsity, and inaccuracy of single cell sequencing measurements, however, can obscure discriminatory information, mask cellular subtype variations and complicate downstream analyses which can limit our understanding of cell function and tissue heterogeneity. Here, we present a novel pre-processing method (scPSD) inspired by power spectral density analysis that enhances the accuracy for cell subtype separation from large-scale single-cell omics data. We comprehensively benchmarked our method on a wide range of single-cell RNA-sequencing datasets and showed that scPSD pre-processing, while being fast and scalable, significantly reduces data complexity, enhances cell-type separation, and enables rare cell identification. Additionally, we applied scPSD to transcriptomics and chromatin accessibility cell atlases and demonstrated its capacity to discriminate over 100 cell types across the whole organism and across different modalities of single-cell omics data."
-    }
-}

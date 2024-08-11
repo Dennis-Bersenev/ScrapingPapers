@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9447e5021ff7fdfdaeb7bc33f26ad1ac68284f86",
-        "title": "Single-Cell Virtual Cytometer allows user-friendly and versatile analysis and visualization of multimodal single cell RNAseq datasets",
-        "abstract": "The development of single cell transcriptomic technologies yields large datasets comprising multimodal informations such as transcriptomes and immunophenotypes. Currently however, there is no software to easily and simultaneously analyze both types of data. Here, we introduce Single-Cell Virtual Cytometer, an open-source software for flow cytometry-like visualization and exploration of multi-omics single cell datasets. Using an original CITE-seq dataset of PBMC from an healthy donor, we illustrate its use for the integrated analysis of transcriptomes and phenotypes of functional maturation in peripheral T lymphocytes from healthy donors. So this free and open-source algorithm constitutes a unique resource for biologists seeking for a user-friendly analytic tool for multimodal single cell datasets."
-    }
-}

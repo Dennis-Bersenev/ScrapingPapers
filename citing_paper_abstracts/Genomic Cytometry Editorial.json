@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "7491d2a4fb18a180719a700aeb01b595dfb7cd5a",
-        "title": "Genomic Cytometry Editorial",
-        "abstract": "GENOMIC Cytometry is a newly emerging field of single cell analysis that utilizes highly sensitive genomic methods to deeply characterize individual cells. Just as the field of fluorescent cytometry uses fluorochromes and mass cytometry utilizes metal isotope tagged antibodies as reporters; the field of genomic cytometry uses nucleotide sequences to characterize individual cells. Since the inception of cytometry in the late 1960s, it has been clear that the ability to analyze biology at single-cell resolution is critical to the understanding of development, disease, and homeostasis. While Conventional cytometry techniques have given us the ability to interrogate individual cells, they have generally been limited to a handful of parameters. Recent expansions in technical capabilities in the high dimensional fluorescence and mass cytometry space have increased our capability to probe multiple analytes simultaneously from each cell. However, even in ultra-high dimensional studies, this capability usually tops out around the 40-parameter mark. Conversely with Genomic cytometry, it is possible to:"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fa8e70ff822012fe41de20585a5c112868aeb294",
-        "title": "Single cell analysis of M. tuberculosis phenotype and macrophage lineages in the infected lung",
-        "abstract": "Through scRNA-seq and ATAC-seq, Pisu et al. characterize specific lung macrophage subsets that either restrict or promote M. tuberculosis growth. Comparable macrophage populations are present in the human airways, and cells show evidence of epigenetic imprinting."
-    }
-}

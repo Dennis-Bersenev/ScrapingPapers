@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "2bd156b43c08c53cc3e133aaca9f2e4a1450a78d",
-        "title": "Sampling from Single Cells",
-        "abstract": "The cell is the fundamental unit of biology. Major methodological advances in engineering and molecular biology have enabled the 'omics analysis of individual cells and supported biologists in understanding the deepest difference between health and disease. These advancements were based on the assumption that a single cell needs to be lysed or fixed before any in\u2010depth analysis can be performed. Here, a picture is painted of the innovative methods used for extracting the contents of living cells without affecting their viability. These novel methods are now empowering the biological community to repeatedly interrogate a single cell over time, thus giving a dynamic representation of the cell's 'omics rather than a snapshot at a particular time point."
-    }
-}

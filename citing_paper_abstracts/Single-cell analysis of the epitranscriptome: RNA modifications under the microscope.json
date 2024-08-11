@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5a222cb41559c34093761a3e698fe26dc38378ab",
-        "title": "Single-cell analysis of the epitranscriptome: RNA modifications under the microscope",
-        "abstract": "ABSTRACT The identification of mechanisms capable of modifying genetic information by the addition of covalent RNA modifications distinguishes a level of complexity in gene expression which challenges key long-standing concepts of RNA biology. One of the current challenges of molecular biology is to properly understand the molecular functions of these RNA modifications, with more than 170 different ones having been identified so far. However, it has not been possible to map specific RNA modifications at a single-cell resolution until very recently. This review will highlight the technological advances in single-cell methodologies aimed at assessing and testing the biological function of certain RNA modifications, focusing on m6A. These advances have allowed for the development of novel strategies that enable the study of the \u2018epitranscriptome\u2019. Nevertheless, despite all these improvements, many challenges and difficulties still need fixing for these techniques to work efficiently."
-    }
-}

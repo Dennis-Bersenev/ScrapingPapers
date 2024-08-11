@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "4dd15f5fe35207f3835a17161c2591f154b337be",
-        "title": "Revisiting Cardiac Biology in the Era of Single Cell and Spatial Omics",
-        "abstract": "Throughout our lifetime, each beat of the heart requires the coordinated action of multiple cardiac cell types. Understanding cardiac cell biology, its intricate microenvironments, and the mechanisms that govern their function in health and disease are crucial to designing novel therapeutical and behavioral interventions. Recent advances in single-cell and spatial omics technologies have significantly propelled this understanding, offering novel insights into the cellular diversity and function and the complex interactions of cardiac tissue. This review provides a comprehensive overview of the cellular landscape of the heart, bridging the gap between suspension-based and emerging in situ approaches, focusing on the experimental and computational challenges, comparative analyses of mouse and human cardiac systems, and the rising contextualization of cardiac cells within their niches. As we explore the heart at this unprecedented resolution, integrating insights from both mouse and human studies will pave the way for novel diagnostic tools and therapeutic interventions, ultimately improving outcomes for patients with cardiovascular diseases."
-    }
-}

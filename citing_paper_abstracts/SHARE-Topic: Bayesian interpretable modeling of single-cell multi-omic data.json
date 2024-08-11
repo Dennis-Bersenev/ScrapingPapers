@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "967ab5fd8afb4345fecd15d2201560f998555566",
-        "title": "SHARE-Topic: Bayesian interpretable modeling of single-cell multi-omic data",
-        "abstract": "Single-cell sequencing technologies are providing unprecedented insights into the molecular biology of individual cells. More recently, multi-omic technologies have emerged which can simultaneously measure gene expression and the epigenomic state of the same cell, holding the promise to unlock our understanding of the epigenetic mechanisms of gene regulation. However, the sparsity and noisy nature of the data pose fundamental statistical challenges which hinder our ability to extract biological knowledge from these complex data sets. Here we propose SHARE-Topic, a Bayesian generative model of multi-omic single cell data which addresses these challenges from the point of view of topic models. SHARE-Topic identifies common patterns of co-variation between different \u2018omic layers, providing interpretable explanations for the complexity of the data. Tested on joint ATAC and expression data, SHARE-Topic was able to provide low dimensional representations that recapitulate known biology, and to define in a principled way associations between genes and distal regulators in individual cells. We illustrate SHARE-Topic in a case study of B-cell lymphoma, studying the usage of alternative promoters in the regulation of the FOXP1 transcription factors."
-    }
-}

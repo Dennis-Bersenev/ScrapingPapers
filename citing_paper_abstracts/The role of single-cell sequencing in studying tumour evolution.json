@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "91ddc5d7e8a01b8706791d40176303cc93c4a247",
-        "title": "The role of single-cell sequencing in studying tumour evolution",
-        "abstract": "Tumour evolution is a complex interplay between the acquisition of somatic (epi)genomic changes in tumour cells and the phenotypic consequences they cause, all in the context of a changing microenvironment. Single-cell sequencing offers a window into this dynamic process at the ultimate resolution of individual cells. In this review, we discuss the transformative insight offered by single-cell sequencing technologies for understanding tumour evolution."
-    }
-}

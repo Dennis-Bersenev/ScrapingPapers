@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "daba1d189046a079795f707176d9aa8e823257e9",
-        "title": "The chromatin repressors EZH2 and Suv4\u201020h coregulate cell fate specification during hippocampal development",
-        "abstract": "The cell fate transition from radial glial\u2010like (RGL) cells to neurons and astrocytes is crucial for development and pathological conditions. Two chromatin repressors\u2014the enhancer of zeste homolog 2 and suppressor of variegation 4\u201020 homolog\u2014are expressed in RGL cells in the hippocampus, implicating these epigenetic regulators in hippocampal cell fate commitment. Using a double knockout mouse model, we demonstrated that loss of both chromatin repressors in the RGL population leads to deficits in hippocampal development. Single\u2010nuclei RNA\u2010Seq revealed differential gene expression and provided mechanistic insight into how the two chromatin repressors are critical for the maintenance of cycling cells in the dentate gyrus as well as the balance of cell trajectories between neuronal and astroglial lineages."
-    }
-}

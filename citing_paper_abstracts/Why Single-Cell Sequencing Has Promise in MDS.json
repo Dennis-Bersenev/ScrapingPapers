@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0afa22dbf68d4c959aac7ce51f233c24decf8c92",
-        "title": "Why Single-Cell Sequencing Has Promise in MDS",
-        "abstract": "Myelodysplastic syndromes (MDS) are a heterogeneous group of diseases characterized by ineffective hematopoiesis. The risk of MDS is associated with aging and the accumulation of somatic mutations in hematopoietic stem cells and progenitors (HSPC). While advances in DNA sequencing in the past decade unveiled clonal selection driven by mutations in MDS, it is unclear at which stage the HSPCs are trapped or what prevents mature cells output. Single-cell-sequencing techniques in recent years have revolutionized our understanding of normal hematopoiesis by identifying the transitional cell states between classical hematopoietic hierarchy stages, and most importantly the biological activities behind cell differentiation and lineage commitment. Emerging studies have adapted these powerful tools to investigate normal hematopoiesis as well as the clonal heterogeneity in myeloid malignancies and provide a progressive description of disease pathogenesis. This review summarizes the potential of growing single-cell-sequencing techniques, the evolving efforts to elucidate hematopoiesis in physiological conditions and MDS at single-cell resolution, and discuss how they may fill the gaps in our current understanding of MDS biology."
-    }
-}

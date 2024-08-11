@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5f8708a6a7529cd27f092a5a452431dba5a31952",
-        "title": "Single-Cell Toolkits Opening a New Era for Cell Engineering",
-        "abstract": "Since the introduction of RNA sequencing (RNA-seq) as a high-throughput mRNA expression analysis tool, this procedure has been increasingly implemented to identify cell-level transcriptome changes in a myriad of model systems. However, early methods processed cell samples in bulk, and therefore the unique transcriptomic patterns of individual cells would be lost due to data averaging. Nonetheless, the recent and continuous development of new single-cell RNA sequencing (scRNA-seq) toolkits has enabled researchers to compare transcriptomes at a single-cell resolution, thus facilitating the analysis of individual cellular features and a deeper understanding of cellular functions. Nonetheless, the rapid evolution of high throughput single-cell \u201comics\u201d tools has created the need for effective hypothesis verification strategies. Particularly, this issue could be addressed by coupling cell engineering techniques with single-cell sequencing. This approach has been successfully employed to gain further insights into disease pathogenesis and the dynamics of differentiation trajectories. Therefore, this review will discuss the current status of cell engineering toolkits and their contributions to single-cell and genome-wide data collection and analyses."
-    }
-}

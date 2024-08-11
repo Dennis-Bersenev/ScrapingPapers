@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a5519fb7c4d72f102084ac484ba122661a2e31de",
-        "title": "Novel Protein-oligonucleotide Conjugation Method Involving a High-affinity Capture HaloTag.",
-        "abstract": "Highly sensitive quantitative protein profiling can play a key role in the early diagnosis of diseases, such as autoimmune diseases and cancer. We developed a modified protein-oligonucleotide conjugation method termed HaloTag-mediated barcoding, for quantifying protein molecules at a higher sensitivity than conventional protein quantification methods. This novel and efficient conjugation method can be used to prepare HaloTag-barcoded proteins using a click chemistry-based labeling technique. Here, we describe the preparation of protein-DNA complexes and detection of protein-protein interactions which can be used in a HaloTag protein barcode assay to detect an antibody. The protocol includes procedures for preparing the ligand-oligonucleotide complex, plasmid DNA preparation for protein expression, and preparation of the protein-oligonucleotide complex. The described click reaction-based protocols simplify the conventional amine-ester reaction methods which require additional steps for chromatography purification."
-    }
-}

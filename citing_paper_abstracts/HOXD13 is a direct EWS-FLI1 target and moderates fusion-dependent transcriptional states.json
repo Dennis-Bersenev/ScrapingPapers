@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "f99fcf527de821a6788f4e9747d2105b64646be1",
-        "title": "HOXD13 is a direct EWS-FLI1 target and moderates fusion-dependent transcriptional states",
-        "abstract": "Oncogenic fusion proteins display exquisite tissue specificity, revealing that malignant transformation requires cooperation with cell-autonomous factors. Recent studies have also demonstrated that tumorigenicity of Ewing sarcoma requires precise regulation of the transcriptional activity of the EWS-FLI1 oncogenic driver. Here we show that the developmentally and anatomically restricted transcription factor HOXD13 is a direct target of EWS-FLI1. Transcriptomic and CUT&RUN studies revealed that HOXD13 binds active, fusion-bound enhancers, resulting in altered expression of EWS-FLI1-induced targets. More strikingly, HOXD13 was found to bind and activate cis-regulatory regions of genes that are normally repressed by EWS-FLI1. Single-cell sequencing demonstrated marked intra-tumoral heterogeneity of HOXD13 transcriptional activity and revealed that antagonism between HOXD13-mediated gene activation and EWS-FLI1-dependent gene repression confers a spectrum of transcriptional cell states along a mesenchymal axis. Thus, HOXD13 serves as an internal rheostat for EWS-FLI1 activity, providing a paradigm for tissue-specific transcription factors as critical partners in fusion-driven cancers."
-    }
-}

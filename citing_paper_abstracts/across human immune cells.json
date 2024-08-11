@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "2630bb8cc2ee2c26bb421384cadac4c91175aceb",
-        "title": "across human immune cells",
-        "abstract": "Cells experience intrinsic and extrinsic pressures that affect their proclivity to expand and persist in vivo . In congenital disorders caused by loss-of-function mutations in mitochondrial DNA (mtDNA), metabolic vulnerabilities may result in cell-type specific phenotypes and depletion of pathogenic alleles, contributing to purifying selection. However, the impact of pathogenic mtDNA mutations on the cellular hematopoietic landscape is not well understood. Here, we establish a multi-omics approach to quantify deletions in mtDNA alongside cell state features in single cells derived from Pearson syndrome patients. We resolve the interdependence between pathogenic mtDNA and lineage, including purifying selection against deletions in effector/memory CD8 T-cell populations and recent thymic emigrants and dynamics in other hematopoietic populations. Our mapping of lineage-specific purifying selection dynamics in primary cells from patients carrying pathogenic heteroplasmy provides a new perspective on recurrent clinical phenotypes in mitochondrial disorders, including cancer and infection, with potential broader relevance to age-related immune dysfunction."
-    }
-}

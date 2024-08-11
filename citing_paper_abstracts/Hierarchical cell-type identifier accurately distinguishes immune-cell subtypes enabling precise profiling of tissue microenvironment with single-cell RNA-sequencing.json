@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "cf53eb2aedc06ebe08509ffe95a0e5078ec6829a",
-        "title": "Hierarchical cell-type identifier accurately distinguishes immune-cell subtypes enabling precise profiling of tissue microenvironment with single-cell RNA-sequencing",
-        "abstract": "Single-cell RNA-seq enabled in-depth study on tissue micro-environment and immune profiling, where a crucial step is to annotate cell identity. Immune cells play key roles in many diseases while their activities are hard to track due to their diverse and highly variable nature. Existing cell-type identifiers had limited performance for this purpose. We present HiCAT, a hierarchical, marker-based cell-type identifier utilizing gene set analysis for statistical scoring for given markers. It features successive identification of major-type, minor-type and subsets utilizing subset markers structured in a three-level taxonomy tree. Comparison with manual annotation and pairwise match test showed HiCAT performs better than others in major and minor-type identification. For subset identification, since no dataset provides canonical subset annotation, we qualitatively evaluated marker expression profile, where HiCAT was the best in the sense that, with its annotation, marker genes were expressed mostly in the designated subset while rarely expressed in non-designated subsets."
-    }
-}

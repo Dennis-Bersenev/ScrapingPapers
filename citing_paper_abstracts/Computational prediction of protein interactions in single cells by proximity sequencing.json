@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1e5119c2fdc359050826c9062026e0940ba99a3e",
-        "title": "Computational prediction of protein interactions in single cells by proximity sequencing",
-        "abstract": "Proximity sequencing (Prox-seq) simultaneously measures gene expression, protein expression and protein complexes on single cells. Using information from dual-antibody binding events, Prox-seq infers surface protein dimers at the single-cell level. Prox-seq provides multi-dimensional phenotyping of single cells in high throughput, and was recently used to track the formation of receptor complexes during cell signaling and discovered a novel interaction between CD9 and CD8 in na\u00efve T cells. The distribution of protein abundance can affect identification of protein complexes in a complicated manner in dual-binding assays like Prox-seq. These effects are difficult to explore with experiments, yet important for accurate quantification of protein complexes. Here, we introduce a physical model of Prox-seq and computationally evaluate several different methods for reducing background noise when quantifying protein complexes. Furthermore, we developed an improved method for analysis of Prox-seq data, which resulted in more accurate and robust quantification of protein complexes. Finally, our Prox-seq model offers a simple way to investigate the behavior of Prox-seq data under various biological conditions and guide users toward selecting the best analysis method for their data."
-    }
-}

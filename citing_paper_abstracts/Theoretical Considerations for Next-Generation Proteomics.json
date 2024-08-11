@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fa805b0346712af8be33e5f68ce8d0ccf890522d",
-        "title": "Theoretical Considerations for Next-Generation Proteomics",
-        "abstract": "While mass spectrometry still dominates proteomics research, alternative and potentially disruptive, next-generation technologies are receiving increased investment and attention. Most of these technologies aim at the sequencing of single peptide or protein molecules, typically labeling or otherwise distinguishing a subset of the proteinogenic amino acids. This note considers some theoretical aspects of these future technologies from a bottom-up proteomics viewpoint, including the ability to uniquely identify human proteins as a function of which and how many amino acids can be read, enzymatic efficiency, and the maximum read length. This is done through simulations under ideal and non-ideal conditions to set benchmarks for what may be achievable with future single-molecule sequencing technology. The simulations reveal, among other observations, that the best choice of reading N amino acids performs similarly to the average choice of N+1 amino acids, and that the discrimination power of the amino acids scales with their frequency in the proteome. The simulations are agnostic with respect to the next-generation proteomics platform, and the results and conclusions should therefore be applicable to any single-molecule partial peptide sequencing technology."
-    }
-}

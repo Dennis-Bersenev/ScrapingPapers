@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "b614ec4d05718fb7e2673ce121c666a0b492e3b3",
-        "title": "iPoLNG\u2014An unsupervised model for the integrative analysis of single-cell multiomics data",
-        "abstract": "Single-cell multiomics technologies, where the transcriptomic and epigenomic profiles are simultaneously measured in the same set of single cells, pose significant challenges for effective integrative analysis. Here, we propose an unsupervised generative model, iPoLNG, for the effective and scalable integration of single-cell multiomics data. iPoLNG reconstructs low-dimensional representations of the cells and features using computationally efficient stochastic variational inference by modelling the discrete counts in single-cell multiomics data with latent factors. The low-dimensional representation of cells enables the identification of distinct cell types, and the feature by factor loading matrices help characterize cell-type specific markers and provide rich biological insights on the functional pathway enrichment analysis. iPoLNG is also able to handle the setting of partial information where certain modality of the cells is missing. Taking advantage of GPU and probabilistic programming, iPoLNG is scalable to large datasets and it takes less than 15 min to implement on datasets with 20,000 cells."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5d1c57659b845c99383291cee4a7a45d34e8759a",
-        "title": "The role of systems biology approaches in determining molecular signatures for the development of more effective vaccines",
-        "abstract": "ABSTRACT Introduction: Emerging infectious diseases are a major threat to public health, and while vaccines have proven to be one of the most effective preventive measures for infectious diseases, we still do not have safe and effective vaccines against many human pathogens, and emerging diseases continually pose new threats. The purpose of this review is to discuss how the creation of vaccines for these new threats has been hindered by limitations in the current approach to vaccine development. Recent advances in high-throughput technologies have enabled scientists to apply systems biology approaches to collect and integrate increasingly large datasets that capture comprehensive biological changes induced by vaccines, and then decipher the complex immune response to those vaccines. Areas covered: This review covers advances in these technologies and recent publications that describe systems biology approaches to understanding vaccine immune responses and to understanding the rational design of new vaccine candidates. Expert opinion: Systems biology approaches to vaccine development provide novel information regarding both the immune response and the underlying mechanisms and can inform vaccine development."
-    }
-}

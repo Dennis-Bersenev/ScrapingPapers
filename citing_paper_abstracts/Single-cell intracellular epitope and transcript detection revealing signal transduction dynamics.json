@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0b26f7d06842f30bfd513a2a9735cdb89b912094",
-        "title": "Single-cell intracellular epitope and transcript detection revealing signal transduction dynamics",
-        "abstract": "Current high-throughput single-cell multi-omics methods cannot concurrently map changes in (phospho)protein levels and the associated gene expression profiles. We present QuRIE-seq (Quantification of RNA and Intracellular Epitopes by sequencing) and use multi-factor omics analysis (MOFA+) to map signal transduction over multiple timescales. We demonstrate that QuRIE-seq can trace the activation of the B-cell receptor pathway at the minute and hour time-scale and provide insight into the mechanism of action of an inhibitory drug, Ibrutinib."
-    }
-}

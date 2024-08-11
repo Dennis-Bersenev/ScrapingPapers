@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "20e30c95e14abc0f3c0f7bceea9e48ab0bff11d4",
-        "title": "A gastruloid model of the interaction between embryonic and extra-embryonic cell types",
-        "abstract": "Stem-cell derived in vitro systems, such as organoids or embryoids, hold great potential for modeling in vivo development. Full control over their initial composition, scalability, and easily measurable dynamics make those systems useful for studying specific developmental processes in isolation. Here we report the formation of gastruloids consisting of mouse embryonic stem cells (mESCs) and extraembryonic endoderm (XEN) cells. These XEN-enhanced gastruloids (XEGs) exhibit the formation of neural epithelia, which are absent in gastruloids derived from mESCs only. By single-cell RNA-seq, imaging, and differentiation experiments, we demonstrate the neural characteristics of the epithelial tissue. We further show that the mESCs induce the differentiation of the XEN cells to a visceral endoderm-like state. Finally, we demonstrate that local inhibition of WNT signaling and production of a basement membrane by the XEN cells underlie the formation of the neuroepithelial tissue. In summary, we establish XEGs to explore heterotypic cellular interactions and their developmental consequences in vitro."
-    }
-}

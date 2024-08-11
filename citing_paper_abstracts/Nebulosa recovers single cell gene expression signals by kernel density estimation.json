@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "4118f9cf41d18a34cb1e1181db3ded50802e0103",
-        "title": "Nebulosa recovers single cell gene expression signals by kernel density estimation",
-        "abstract": "Summary Data sparsity in single-cell experiments prevents an accurate assessment of gene expression when visualised in a low-dimensional space. Here, we introduce Nebulosa, an R package that uses weighted kernel density estimation to recover signals lost through drop-out or low expression. Availability and implementation Nebulosa can be easily installed from www.github.com/powellgenomicslab/Nebulosa"
-    }
-}

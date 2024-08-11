@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "cdabf1485bba124b1301301a6b6c4ee8c9f24915",
-        "title": "Simultaneous mRNA and protein quantification at the single-cell level delineates trajectories of CD4+ T-cell differentiation",
-        "abstract": "Abstract The transcriptomic and proteomic characterisation of CD4+ T cells at the single-cell level has been performed traditionally by two largely exclusive types of technologies: single cell RNA-sequencing (scRNA-seq) technologies and antibody-based cytometry. Here we demonstrate that the simultaneous targeted quantification of mRNA and protein expression in single-cells provides a high-resolution map of human primary CD4+ T cells, and reveals precise trajectories of canonical T-cell lineage differentiation in blood and tissue. We report modest correlation between mRNA and protein in primary CD4+ T cells at the single-cell level, highlighting the importance of including quantitative protein expression data to characterise cell effector function. This approach provides a massively-parallel, cost-effective, solution to dissect the heterogeneity of immune cell populations and is ideally suited for the detailed immunophenotypic characterisation of rare and potentially pathogenic immune subsets. This transcriptomic and proteomic hybrid technology could have important clinical applications to re-define differentiation and activation of tissue-resident and blood human immune cells."
-    }
-}

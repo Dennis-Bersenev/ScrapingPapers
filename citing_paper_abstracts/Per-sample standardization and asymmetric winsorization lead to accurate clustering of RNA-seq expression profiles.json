@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6642e7878bf634a4b0038f19a910184261525ed0",
-        "title": "Per-sample standardization and asymmetric winsorization lead to accurate clustering of RNA-seq expression profiles",
-        "abstract": "Motivation Data transformations are an important step in the analysis of RNA-seq data. Nonetheless, the impact of transformations on the outcome of unsupervised clustering procedures is still unclear. Results Here, we present an Asymmetric Winsorization per Sample Transformation (AWST), which is robust to data perturbations and removes the need for selecting the most informative genes prior to sample clustering. Our procedure leads to robust and biologically meaningful clusters both in bulk and in single-cell applications. Availability The AWST method is available at https://github.com/drisso/awst. The code to reproduce the analyses is available at https://github.com/drisso/awst_analysis."
-    }
-}

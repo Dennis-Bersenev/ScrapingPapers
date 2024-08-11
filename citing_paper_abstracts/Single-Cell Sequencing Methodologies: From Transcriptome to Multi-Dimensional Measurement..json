@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a7b3348e47c299ab52564d6f685a4f00722bdacf",
-        "title": "Single-Cell Sequencing Methodologies: From Transcriptome to Multi-Dimensional Measurement.",
-        "abstract": "Cells are the basic building blocks of biological systems, with inherent unique molecular features and development trajectories. The study of single cells facilitates in-depth understanding of cellular diversity, disease processes, and organization of multicellular organisms. Single-cell RNA sequencing (scRNA-seq) technologies have become essential tools for the interrogation of gene expression patterns and the dynamics of single cells, allowing cellular heterogeneity to be dissected at unprecedented resolution. Nevertheless, measuring at only transcriptome level or 1D is incomplete; the cellular heterogeneity reflects in multiple dimensions, including the genome, epigenome, transcriptome, spatial, and even temporal dimensions. Hence, integrative single cell analysis is highly desired. In addition, the way to interpret sequencing data by virtue of bioinformatic tools also exerts critical roles in revealing differential gene expression. Here, a comprehensive review that summarizes the cutting-edge single-cell transcriptome sequencing methodologies, including scRNA-seq, spatial and temporal transcriptome profiling, multi-omics sequencing and computational methods developed for scRNA-seq data analysis is provided. Finally, the challenges and perspectives of this field are discussed."
-    }
-}

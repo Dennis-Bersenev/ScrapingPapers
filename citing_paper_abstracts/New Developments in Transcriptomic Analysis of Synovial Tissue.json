@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "4616fa00e4fcbb14dc7bbfe3401b9e028d6b3177",
-        "title": "New Developments in Transcriptomic Analysis of Synovial Tissue",
-        "abstract": "Transcriptomic technologies are constantly changing and improving, resulting in an ever increasing understanding of gene expression in health and disease. These technologies have been used to investigate the pathological changes occurring in the joints of rheumatoid arthritis patients, leading to discoveries of disease mechanisms, and novel potential therapeutic targets. Microarrays were initially used on both whole tissue and cell subsets to investigate research questions, with bulk RNA sequencing allowing for further elaboration of these findings. A key example is the classification of pathotypes in rheumatoid arthritis using RNA sequencing that had previously been discovered using microarray and histology. Single-cell sequencing has now delivered a step change in understanding of the diversity and function of subpopulations of cells, in particular synovial fibroblasts. Future technologies, such as high resolution spatial transcriptomics, will enable step changes integrating single cell transcriptomic and geographic data to provide an integrated understanding of synovial pathology."
-    }
-}

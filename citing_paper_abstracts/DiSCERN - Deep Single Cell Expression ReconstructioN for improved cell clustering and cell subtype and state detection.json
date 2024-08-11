@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6d5cebe2a7e72618f49ac419fd0c0398a5897981",
-        "title": "DiSCERN - Deep Single Cell Expression ReconstructioN for improved cell clustering and cell subtype and state detection",
-        "abstract": "Single cell sequencing provides detailed insights into biological processes including cell differentiation and identity. While providing deep cell-specific information, the method suffers from technical constraints, most notably a limited number of expressed genes per cell, which leads to suboptimal clustering and cell type identification. Here we present DISCERN, a novel deep generative network that reconstructs missing single cell gene expression using a reference dataset. DISCERN outperforms competing algorithms in expression inference resulting in greatly improved cell clustering, cell type and activity detection, and insights into the cellular regulation of disease. We used DISCERN to detect two unseen COVID-19-associated T cell types, cytotoxic CD4+ and CD8+ Tc2 T helper cells, with a potential role in adverse disease outcome. We utilized T cell fraction information of patient blood to classify mild or severe COVID-19 with an AUROC of 81% that can serve as a biomarker of disease stage. DISCERN can be easily integrated into existing single cell sequencing workflows and readily adapted to enhance various other biomedical data types."
-    }
-}

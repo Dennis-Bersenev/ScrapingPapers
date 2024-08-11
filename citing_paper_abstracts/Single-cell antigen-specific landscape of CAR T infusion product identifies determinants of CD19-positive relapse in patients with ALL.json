@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "84fabf9dc5261ca3df659282fbb24dcc090d6cb4",
-        "title": "Single-cell antigen-specific landscape of CAR T infusion product identifies determinants of CD19-positive relapse in patients with ALL",
-        "abstract": "A notable number of acute lymphoblastic leukemia (ALL) patients develop CD19-positive relapse within 1 year after receiving chimeric antigen receptor (CAR) T cell therapy. It remains unclear if the long-term response is associated with the characteristics of CAR T cells in infusion products, hindering the identification of biomarkers to predict therapeutic outcomes. Here, we present 101,326 single-cell transcriptomes and surface protein landscape from the infusion products of 12 ALL patients. We observed substantial heterogeneity in the antigen-specific activation states, among which a deficiency of T helper 2 function was associated with CD19-positive relapse compared with durable responders (remission, >54 months). Proteomic data revealed that the frequency of early memory T cells, rather than activation or coinhibitory signatures, could distinguish the relapse. These findings were corroborated by independent functional profiling of 49 patients, and an integrative model was developed to predict the response. Our data unveil the molecular mechanisms that may inform strategies to boost specific T cell function to maintain long-term remission."
-    }
-}

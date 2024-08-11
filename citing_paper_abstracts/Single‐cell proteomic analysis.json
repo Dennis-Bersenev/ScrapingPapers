@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "dc8686715a5a7da8ef9ecb993c5422d37391c448",
-        "title": "Single\u2010cell proteomic analysis",
-        "abstract": "The ability to comprehensively profile proteins in every individual cell of complex biological systems is crucial to advance our understanding of normal physiology and disease pathogenesis. Conventional bulk cell experiments mask the cell heterogeneity in the population, while the single\u2010cell imaging methods suffer from the limited multiplexing capacities. Recent advances in microchip\u2010, mass spectrometry\u2010, and reiterative staining\u2010based technologies have enabled comprehensive protein profiling in single cells. These approaches will bring new insights into a variety of biological and biomedical fields, such as signaling network regulation, cell heterogeneity, tissue architecture, disease diagnosis, and treatment monitoring. In this article, we will review the recent advances in the development of single\u2010cell proteomic technologies, describe their advantages, discuss the current limitations and challenges, and propose potential solutions. We will also highlight the wide applications of these technologies in biology and medicine."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0e6e6470ece1c7eff14742c3bd35f4af7987ea28",
-        "title": "Single-cell multi-omics sequencing and its application in tumor heterogeneity.",
-        "abstract": "In recent years, the emergence and development of single-cell sequencing technologies have provided unprecedented opportunities to analyze deoxyribonucleic acid, ribonucleic acid and proteins at single-cell resolution. The advancements and reduced costs of high-throughput technologies allow for parallel sequencing of multiple molecular layers from a single cell, providing a comprehensive insight into the biological state and behavioral mechanisms of cells through the integration of genomics, transcriptomics, epigenomics and proteomics information. Researchers are actively working to further improve the cost-effectiveness, stability and high-throughput capabilities of single-cell multi-omics sequencing technologies and exploring their potential in precision medicine through clinical diagnostics. This review aims to survey the cutting-edge advancements in single-cell multi-omics sequencing, summarizing the representative technologies and their applications in profiling complex diseases, with a particular focus on tumors."
-    }
-}

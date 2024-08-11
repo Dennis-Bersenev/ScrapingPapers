@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3ab002e5ce2fad70308adc6d437ad28ca8a3dc49",
-        "title": "Harnessing HetHydrogel: A Universal Platform to Dropletize Single-Cell Multiomics.",
-        "abstract": "A universal platform is developed for dropletizing single cell plate-based multiomic assays, consisting of three main pillars: a miniaturized open Heterogeneous Hydrogel reactor (abbreviated HetHydrogel) for multi-step biochemistry, its tunable permeability that allows Tn5 tagmentation, and single cell droplet barcoding. Through optimizing the HetHydrogel manufacturing procedure, the chemical composition, and cell permeation conditions, simultaneous high-throughput mitochondrial DNA genotyping and chromatin profiling at the single-cell level are demonstrated using a mixed-species experiment. This platform offers a powerful way to investigate the genotype-phenotype relationships of various mtDNA mutations in biological processes. The HetHydrogel platform is believed to have the potential to democratize droplet technologies, upgrading a whole range of plate-based single cell assays to high throughput format."
-    }
-}

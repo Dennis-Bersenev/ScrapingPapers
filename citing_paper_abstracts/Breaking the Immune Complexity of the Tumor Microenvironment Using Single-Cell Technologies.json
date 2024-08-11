@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fe0ce56a54273b168d55a71bc7587f7939a189ab",
-        "title": "Breaking the Immune Complexity of the Tumor Microenvironment Using Single-Cell Technologies",
-        "abstract": "Tumors are not a simple aggregate of transformed cells but rather a complicated ecosystem containing various components, including infiltrating immune cells, tumor-related stromal cells, endothelial cells, soluble factors, and extracellular matrix proteins. Profiling the immune contexture of this intricate framework is now mandatory to develop more effective cancer therapies and precise immunotherapeutic approaches by identifying exact targets or predictive biomarkers, respectively. Conventional technologies are limited in reaching this goal because they lack high resolution. Recent developments in single-cell technologies, such as single-cell RNA transcriptomics, mass cytometry, and multiparameter immunofluorescence, have revolutionized the cancer immunology field, capturing the heterogeneity of tumor-infiltrating immune cells and the dynamic complexity of tenets that regulate cell networks in the tumor microenvironment. In this review, we describe some of the current single-cell technologies and computational techniques applied for immune-profiling the cancer landscape and discuss future directions of how integrating multi-omics data can guide a new \u201cprecision oncology\u201d advancement."
-    }
-}

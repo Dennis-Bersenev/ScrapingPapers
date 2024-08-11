@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6f737b7061c49ccf8af9a5a89b12c7b1ef8374cd",
-        "title": "Single Cell Sequencing Technology and Its Application in Alzheimer's Disease.",
-        "abstract": "Alzheimer's disease (AD) involves degeneration of cells in the brain. Due to insidious onset and slow progression, AD is often not diagnosed until it gets progressed to a more severe stage. The diagnosis and treatment of AD has been a challenge. In recent years, high-throughput sequencing technologies have exhibited advantages in exploring the pathogenesis of diseases. However, the types of cells of the central nervous system are complex and traditional bulk sequencing cannot reflect their heterogeneity. Single-cell sequencing technology enables study at the individual cell level and has an irreplaceable advantage in the study of complex diseases. In recent years, this field has expanded rapidly and several types of single-cell sequencing technologies have emerged, including transcriptomics, epigenomics, genomics and proteomics. This review article provides an overview of these single-cell sequencing technologies and their application in AD."
-    }
-}

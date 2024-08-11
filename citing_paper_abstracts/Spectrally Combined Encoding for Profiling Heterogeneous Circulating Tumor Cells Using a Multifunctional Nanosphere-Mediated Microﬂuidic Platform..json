@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "b557352665befc038fb212c3482dcb5ca7bbbad9",
-        "title": "Spectrally Combined Encoding for Profiling Heterogeneous Circulating Tumor Cells Using a Multifunctional Nanosphere-Mediated Micro\ufb02uidic Platform.",
-        "abstract": "Comprehensive phenotypic profiling of heterogeneous circulating tumor cells (CTCs) at single-cell resolution has great importance for cancer management. However, multiplex biomarker profiling of individual CTCs is greatly hampered by the limitations of current single-cell protein assay techniques. Herein, a novel spectrally combined encoding (SCE) strategy was proposed for multiplex biomarker profiling of single CTCs using a multifunctional nanosphere-mediated micro\ufb02uidic platform. Different cellular biomarkers uniquely labeled by multifunctional nanosphere barcodes, possessing identical magnetic tags and distinct optical signatures, enabled isolation of heterogeneous CTCs with over 91.6% efficiency and in situ SCE of phenotypes. By further trapping individual CTCs in ordered microstructures on chip, composite single-cell spectral signatures were conveniently and efficiently obtained, allowing reliable spectra-readout for multiplex biomarker profiling. This SCE strategy exhibited great potential in multiplex profiling of heterogeneous CTC phenotypes, offering new avenues for cancer study and precise medicine."
-    }
-}

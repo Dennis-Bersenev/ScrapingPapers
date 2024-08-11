@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ce1b80cf01624956adbeccea2afed2f61cd5a4f9",
-        "title": "Single-cell sequencing: expansion, integration and translation.",
-        "abstract": "With the rapid advancement in sequencing technologies, the concept of omics has revolutionized our understanding of cellular behaviors. Conventional omics investigation approaches measure the averaged behaviors of multiple cells, which may easily hide signals represented by a small-cell cohort, urging for the development of techniques with enhanced resolution. Single-cell RNA sequencing, investigating cell transcriptomics at the resolution of a single cell, has been rapidly expanded to investigate other omics such as genomics, proteomics and metabolomics since its invention. The requirement for comprehensive understanding of complex cellular behavior has led to the integration of multi-omics and single-cell sequencing data with other layers of information such as spatial data and the CRISPR screening technique towards gained knowledge or innovative functionalities. The development of single-cell sequencing in both dimensions has rendered it a unique field that offers us a versatile toolbox to delineate complex diseases, including cancers."
-    }
-}

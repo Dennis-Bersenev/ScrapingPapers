@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "cf3d46bab1213541d19025528e5e179f0fd374e5",
-        "title": "FBA: feature barcoding analysis for single cell RNA-Seq",
-        "abstract": "MOTIVATION\nSingle cell RNA-Seq (scRNA-Seq) has broadened our understanding of cellular heterogeneity and provided valuable insights into cellular functions. Recent experimental strategies extend scRNA-Seq readouts to include additional features, including cell surface proteins and genomic perturbations. These \"feature barcoding\" strategies rely on converting molecular and cellular features to unique sequence barcodes, which are then detected with the transcriptome.\n\n\nRESULTS\nHere, we introduce FBA, a flexible and streamlined package to perform quality control, quantification, demultiplexing, multiplet detection, clustering, and visualization of feature barcoding assays.\n\n\nAVAILABILITY\nFBA is available on PyPi at https://pypi.org/project/fba and on GitHub at https://github.com/jlduan/fba.\n\n\nSUPPLEMENTARY INFORMATION\nSupplementary data are available at Bioinformatics online."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "61904099b66f0ff34c357f72b2b0b756e1dcd7d9",
-        "title": "Onepot-Seq: capturing single-cell transcriptomes simultaneously in a continuous medium via transient localization of mRNA",
-        "abstract": "Abstract The development of single-cell RNA-seq has broadened the spectrum for biological research by providing a high-resolution analysis of cellular heterogeneity. However, the requirement for sophisticated devices for the compartmentalization of cells has limited its widespread applicability. Here, we develop Onepot-Seq, a device-free method, that harnesses the transient localization of mRNA after lysis to capture single-cell transcriptomes simultaneously in a continuous fluid medium. In mixed-species experiments, we obtained high-quality single-cell profiles. Further, cell type-specific poly(A)-conjugated antibodies allow Onepot-Seq to effectively capture target cells in complex populations. Chemical perturbations to cells can be profiled by Onepot-Seq at single-cell resolution. Onepot-Seq should allow routine transcriptional profiling at single-cell resolution, accelerating clinical and scientific discoveries in many fields of science."
-    }
-}

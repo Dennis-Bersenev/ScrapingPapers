@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fe38d95eef1b0d7dc57cc9abd19cedb651207319",
-        "title": "Dissecting Cellular Heterogeneity Using Single-Cell RNA Sequencing",
-        "abstract": "Cell-to-cell variability in gene expression exists even in a homogeneous population of cells. Dissecting such cellular heterogeneity within a biological system is a prerequisite for understanding how a biological system is developed, homeo-statically regulated, and responds to external perturbations. Single-cell RNA sequencing (scRNA-seq) allows the quantitative and unbiased characterization of cellular heterogeneity by providing genome-wide molecular profiles from tens of thousands of individual cells. A major question in analyzing scRNA-seq data is how to account for the observed cell-to-cell variability. In this review, we provide an overview of scRNA-seq protocols, computational approaches for dissecting cellular heterogeneity, and future directions of single-cell transcriptomic analysis."
-    }
-}

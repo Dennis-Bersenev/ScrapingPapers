@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0d3624f2e4e537e74c156130eecbc94184562722",
-        "title": "Cell Type-Specific In Vitro Gene Expression Profiling of Stem Cell-Derived Neural Models",
-        "abstract": "Genetic and genomic studies of brain disease increasingly demonstrate disease-associated interactions between the cell types of the brain. Increasingly complex and more physiologically relevant human induced pluripotent stem cell (hiPSC)-based models better explore the molecular mechanisms underlying disease, but also challenge our ability to resolve cell-type specific perturbations. Here we report an extension of the RiboTag system, first developed to achieve cell-type restricted expression of epitope-tagged ribosomal protein (RPL22) in mouse tissue, to a variety of in vitro applications, including immortalized cell lines, primary mouse astrocytes, and hiPSC-derived neurons. RiboTag expression enables efficient depletion of off-target RNA in mixed species primary co-cultures and in hiPSC-derived neural progenitor cells, motor neurons, and GABAergic neurons. Nonetheless, depletion efficiency varies across independent experimental replicates. The challenges and potential of implementing RiboTags in complex in vitro cultures are discussed."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "379cf38c252830dc90d182f0b43591a44e4a8f83",
-        "title": "A universal framework for single-cell multi-omics data integration with graph convolutional networks",
-        "abstract": "Abstract Single-cell omics data are growing at an unprecedented rate, whereas effective integration of them remains challenging due to different sequencing methods, quality, and expression pattern of each omics data. In this study, we propose a universal framework for the integration of single-cell multi-omics data based on graph convolutional network (GCN-SC). Among the multiple single-cell data, GCN-SC usually selects one data with the largest number of cells as the reference and the rest as the query dataset. It utilizes mutual nearest neighbor algorithm to identify cell-pairs, which provide connections between cells both within and across the reference and query datasets. A GCN algorithm further takes the mixed graph constructed from these cell-pairs to adjust count matrices from the query datasets. Finally, dimension reduction is performed by using non-negative matrix factorization before visualization. By applying GCN-SC on six datasets, we show that GCN-SC can effectively integrate sequencing data from multiple single-cell sequencing technologies, species or different omics, which outperforms the state-of-the-art methods, including Seurat, LIGER, GLUER and Pamona."
-    }
-}

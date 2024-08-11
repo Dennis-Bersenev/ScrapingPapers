@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a125b81ea11af071fe4a50d41445b483fb0ad36e",
-        "title": "Parallel bimodal single-cell sequencing of transcriptome and chromatin accessibility",
-        "abstract": "We developed ASTAR-Seq (Assay for Single-cell Transcriptome and Accessibility Regions) integrated with automated microfluidic chips, which allows for parallel sequencing of transcriptome and chromatin accessibility within the same single-cell. Using ASTAR-Seq, we profiled 192 mESCs cultured in serum+LIF and 2i medium, 424 human cell lines including BJ, K562, JK1, and Jurkat, and 480 primary cells undergoing erythroblast differentiation. Integrative analysis using Coupled NMF identified the distinct sub-populations and uncovered sets of regulatory regions and the respective target genes determining their distinctions. Analysis of epigenetic regulomes further unravelled the key transcription factors responsible for the heterogeneity observed."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a7b7492197c45e46865cedebac37e140259a28f6",
-        "title": "Patterns of T\u2010Cell Phenotypes in Rheumatic Diseases From Single\u2010Cell Studies of Tissue",
-        "abstract": "High\u2010dimensional analyses of tissue samples from patients with rheumatic diseases are providing increasingly detailed descriptions of the immune cell populations that infiltrate tissues in different rheumatic diseases. Here we review key observations emerging from high\u2010dimensional analyses of T cells within tissues in different rheumatic diseases, highlighting common themes across diseases as well as distinguishing features. Single\u2010cell RNA sequencing analyses capture several dimensions of T\u2010cell states, yet surprisingly, these analyses generally have not demonstrated distinct clusters of paradigmatic T\u2010cell effector subsets, such as T helper (Th) 1, Th2, and Th17 cells. Rather, global transcriptomics robustly identify both proliferating T cells and regulatory T cells and have also helped to reveal new effector subsets in inflamed tissues, including T peripheral helper cells and granzyme K+ T cells. Further characterization of the T\u2010cell populations that accumulate within target tissues should enable more precise targeting of biologic therapies and accelerate development of more specific biomarkers to track activity of relevant immune pathways in patients with rheumatic diseases."
-    }
-}

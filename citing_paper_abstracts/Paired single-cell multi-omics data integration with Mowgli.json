@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a74fc1c2f669b0303abfd6c709a46903cb9ef9b6",
-        "title": "Paired single-cell multi-omics data integration with Mowgli",
-        "abstract": "The profiling of multiple molecular layers from the same set of cells has recently become possible. There is thus a growing need for multi-view learning methods able to jointly analyze these data. We here present Multi-Omics Wasserstein inteGrative anaLysIs (Mowgli), a novel method for the integration of paired multi-omics data with any type and number of omics. Of note, Mowgli combines integrative Nonnegative Matrix Factorization (NMF) and Optimal Transport (OT), enhancing at the same time the clustering performance and interpretability of integrative NMF. We apply Mowgli to multiple paired single-cell multi-omics data profiled with 10X Multiome, CITE-seq and TEA-seq. Our in depth benchmark demonstrates that Mowgli\u2019s performance is competitive with the state-of-the-art in cell clustering and superior to the state-of-the-art once considering biological interpretability. Mowgli is implemented as a Python package seamlessly integrated within the scverse ecosystem and it is available at http://github.com/cantinilab/mowgli."
-    }
-}

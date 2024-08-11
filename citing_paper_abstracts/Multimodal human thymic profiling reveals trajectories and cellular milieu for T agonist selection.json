@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "46590a953783aeaf53fa817f1608115ea3468fba",
-        "title": "Multimodal human thymic profiling reveals trajectories and cellular milieu for T agonist selection",
-        "abstract": "To prevent autoimmunity, thymocytes expressing self-reactive T cell receptors (TCRs) are negatively selected, however, divergence into tolerogenic, agonist selected lineages represent an alternative fate. As thymocyte development, selection, and lineage choices are dependent on spatial context and cell-to-cell interactions, we have performed Cellular Indexing of Transcriptomes and Epitopes by sequencing (CITE-seq) and spatial transcriptomics on paediatric human thymus. Thymocytes expressing markers of strong TCR signalling diverged from the conventional developmental trajectory prior to CD4+ or CD8+ lineage commitment, while markers of different agonist selected T cell populations (CD8\u03b1\u03b1(I), CD8\u03b1\u03b1(II), T(agonist), Treg(diff), and Treg) exhibited variable timing of induction. Expression profiles of chemokines and co-stimulatory molecules, together with spatial localisation, supported that dendritic cells, B cells, and stromal cells contribute to agonist selection, with different subsets influencing thymocytes at specific developmental stages within distinct spatial niches. Understanding factors influencing agonist T cells is needed to benefit from their immunoregulatory effects in clinical use."
-    }
-}

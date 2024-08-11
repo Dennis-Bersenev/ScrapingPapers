@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d2bda280bdbaa197829499d1de09f4ecfb364db8",
-        "title": "Single cell profiling of COVID-19 patients: an international data resource from multiple tissues",
-        "abstract": "underpinnings of biological processes. Early foundational work within the single-cell community, including the Human Cell Atlas, utilized published and unpublished data to characterize the putative target cells of SARS-CoV-2 sampled from diverse organs based on expression of the viral receptor ACE2 and associated entry factors TMPRSS2 and CTSL (Muus et al., 2020; Sungnak et al., 2020; Ziegler et al., 2020). This initial characterization of reference data provided an important foundation for framing infection and pathology in the airway as well as other organs. However, initial community analysis was limited to samples derived from uninfected donors and other previously-sampled disease indications. This report provides an overview of a single-cell data resource derived from samples from COVID-19 patients along with initial observations and guidance on data reuse and exploration."
-    }
-}

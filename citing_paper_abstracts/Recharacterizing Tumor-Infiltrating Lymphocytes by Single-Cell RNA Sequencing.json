@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "023269b13a9ab080d8005f20038b0fc1910b15d0",
-        "title": "Recharacterizing Tumor-Infiltrating Lymphocytes by Single-Cell RNA Sequencing",
-        "abstract": "T cells are central players in cancer immunotherapy. Despite much concentrated effort on the study of tumor-infiltrating lymphocytes (TIL), such as T cells, a series of fundamental properties that include heterogeneity, clonal expansion, migration, and functional state transition remain elusive. Advances of single-cell sequencing have enabled the detailed characterization of immune cells in tumors and have vastly improved our understanding of less-defined cell subsets. Here, we discuss the current strategies for uncovering the heterogeneity of TILs, and how the deep transcriptome coupled with T-cell receptor analysis enhances the understanding of detailed properties of T-cell subsets. We further discuss the identification of novel T-cell markers with therapeutic or prognosis potentials, and highlight distinct T-cell properties among different cancer indications."
-    }
-}

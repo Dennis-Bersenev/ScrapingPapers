@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ebe30368cb4aa8408b0f957a1cb1d5b3482fc532",
-        "title": "CellSTAR: a comprehensive resource for single-cell transcriptomic annotation",
-        "abstract": "Abstract Large-scale studies of single-cell sequencing and biological experiments have successfully revealed expression patterns that distinguish different cell types in tissues, emphasizing the importance of studying cellular heterogeneity and accurately annotating cell types. Analysis of gene expression profiles in these experiments provides two essential types of data for cell type annotation: annotated references and canonical markers. In this study, the first comprehensive database of single-cell transcriptomic annotation resource (CellSTAR) was thus developed. It is unique in (a) offering the comprehensive expertly annotated reference data for annotating hundreds of cell types for the first time and (b) enabling the collective consideration of reference data and marker genes by incorporating tens of thousands of markers. Given its unique features, CellSTAR is expected to attract broad research interests from the technological innovations in single-cell transcriptomics, the studies of cellular heterogeneity & dynamics, and so on. It is now publicly accessible without any login requirement at: https://idrblab.org/cellstar."
-    }
-}

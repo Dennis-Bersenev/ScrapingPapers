@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "bd57f80ffe5784374a73354a19a2b88a43e336db",
-        "title": "New perspectives of the cardiac cellular landscape: mapping cellular mediators of cardiac fibrosis using single-cell transcriptomics.",
-        "abstract": "Single-cell transcriptomics enables inference of context-dependent phenotypes of individual cells and determination of cellular diversity of complex tissues. Cardiac fibrosis is a leading factor in the development of heart failure and a major cause of morbidity and mortality worldwide with no effective treatment. Single-cell RNA-sequencing (scRNA-seq) offers a promising new platform to identify new cellular and molecular protagonists that may drive cardiac fibrosis and development of heart failure. This review will summarize the application scRNA-seq for understanding cardiac fibrosis and development of heart failure. We will also discuss some key considerations in interpreting scRNA-seq data and some of its limitations."
-    }
-}

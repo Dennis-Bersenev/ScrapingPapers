@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3f19abe85bb5006bce5ff29bda7c3e9da088f7a3",
-        "title": "Phenotypic analysis of the unstimulated in vivo HIV CD4 T cell reservoir",
-        "abstract": "The latent reservoir is a major barrier to HIV cure. As latently infected cells cannot be phenotyped directly, the features of the in vivo reservoir have remained elusive. Here, we describe a method that leverages high-dimensional phenotyping using CyTOF to trace latently infected cells reactivated ex vivo to their original pre-activation states. Our results suggest that, contrary to common assumptions, the reservoir is not randomly distributed among cell subsets, and is remarkably conserved between individuals. However, reservoir composition differs between tissues and blood, as do cells successfully reactivated by different latency reversing agents. By selecting 8\u201310 of our 39 original CyTOF markers, we were able to isolate highly purified populations of unstimulated in vivo latent cells. These purified populations were highly enriched for replication-competent and intact provirus, transcribed HIV, and displayed clonal expansion. The ability to isolate unstimulated latent cells from infected individuals enables previously impossible studies on HIV persistence."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "134e52f1b3cb362acab8c0bbaed1642a339182b5",
-        "title": "Molecular underpinnings of ssDNA specificity by Rep HUH-endonucleases and implications for HUH-tag multiplexing and engineering",
-        "abstract": "Abstract Replication initiator proteins (Reps) from the HUH-endonuclease superfamily process specific single-stranded DNA (ssDNA) sequences to initiate rolling circle/hairpin replication in viruses, such as crop ravaging geminiviruses and human disease causing parvoviruses. In biotechnology contexts, Reps are the basis for HUH-tag bioconjugation and a critical adeno-associated virus genome integration tool. We solved the first co-crystal structures of Reps complexed to ssDNA, revealing a key motif for conferring sequence specificity and for anchoring a bent DNA architecture. In combination, we developed a deep sequencing cleavage assay, termed HUH-seq, to interrogate subtleties in Rep specificity and demonstrate how differences can be exploited for multiplexed HUH-tagging. Together, our insights allowed engineering of only four amino acids in a Rep chimera to predictably alter sequence specificity. These results have important implications for modulating viral infections, developing Rep-based genomic integration tools, and enabling massively parallel HUH-tag barcoding and bioconjugation applications."
-    }
-}

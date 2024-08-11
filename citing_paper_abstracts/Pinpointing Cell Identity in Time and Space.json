@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "f932c93a2c32e7eea1cd114c6ff07208e3d5af43",
-        "title": "Pinpointing Cell Identity in Time and Space",
-        "abstract": "Mammalian cells display a broad spectrum of phenotypes, morphologies, and functional niches within biological systems. Our understanding of mechanisms at the individual cellular level, and how cells function in concert to form tissues, organs and systems, has been greatly facilitated by centuries of extensive work to classify and characterize cell types. Classic histological approaches are now complemented with advanced single-cell sequencing and spatial transcriptomics for cell identity studies. Emerging data suggests that additional levels of information should be considered, including the subcellular spatial distribution of molecules such as RNA and protein, when classifying cells. In this Perspective piece we describe the importance of integrating cell transcriptional state with tissue and subcellular spatial and temporal information for thorough characterization of cell type and state. We refer to recent studies making use of single cell RNA-seq and/or image-based cell characterization, which highlight a need for such in-depth characterization of cell populations. We also describe the advances required in experimental, imaging and analytical methods to address these questions. This Perspective concludes by framing this argument in the context of projects such as the Human Cell Atlas, and related fields of cancer research and developmental biology."
-    }
-}

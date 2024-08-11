@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9e1bc018319d1fd958921a0e8d9909106ae7538a",
-        "title": "Highly Multiplexed Single-Cell RNA-seq for Defining Cell Population and Transcriptional Spaces",
-        "abstract": "We describe a universal sample multiplexing method for single-cell RNA-seq in which cells are chemically labeled with identifying DNA oligonucleotides. Analysis of a 96-plex perturbation experiment revealed changes in cell population structure and transcriptional states that cannot be discerned from bulk measurements, establishing a cost effective means to survey cell populations from large experiments and clinical samples with the depth and resolution of single-cell RNA-seq."
-    }
-}

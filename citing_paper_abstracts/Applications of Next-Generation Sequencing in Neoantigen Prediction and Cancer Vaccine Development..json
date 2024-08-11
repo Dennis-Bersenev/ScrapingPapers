@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "053597232d0330bdb891ac318600a4765f39d6c7",
-        "title": "Applications of Next-Generation Sequencing in Neoantigen Prediction and Cancer Vaccine Development.",
-        "abstract": "Next-generation sequencing has changed the face of cancer immunotherapy research by making tumor-specific cancer vaccines a reality. Whole exome sequencing and RNA sequencing combined with bioinformatic pipelines allow the prediction of neoantigen targets for cancer vaccines. In this review, we discuss the preclinical and early clinical evidence for cancer vaccines; describe methods and challenges in neoantigen prediction; and summarize emerging new technologies that will improve neoantigen cancer vaccine development."
-    }
-}

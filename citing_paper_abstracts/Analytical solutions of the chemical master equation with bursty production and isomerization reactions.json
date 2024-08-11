@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "aad6eb30bce00bd4aac962c72507fd6e0625027f",
-        "title": "Analytical solutions of the chemical master equation with bursty production and isomerization reactions",
-        "abstract": "Splicing cascades that alter gene products post-transcriptionally also affect expression dynamics. We study a class of processes and associated distributions that emerge from a bursty promoter model coupled to a path graph of downstream mRNA splicing, and more generally examine the behavior of finite-activity jump drivers coupled to a directed acyclic graph of splicing with one or more roots. These solutions provide full time-dependent joint distributions for an arbitrary number of species, offering qualitative and quantitative insights about how splicing can regulate expression dynamics. Finally, we derive a set of quantitative constraints on the minimum complexity necessary to reproduce gene co-expression patterns using synchronized burst models. We validate these findings by analyzing long-read sequencing data, where we find evidence of expression patterns largely consistent with these constraints."
-    }
-}

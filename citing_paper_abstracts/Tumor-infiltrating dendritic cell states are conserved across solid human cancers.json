@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "503ab4ca37d4454121b9535c01bc099cefe7e1fd",
-        "title": "Tumor-infiltrating dendritic cell states are conserved across solid human cancers",
-        "abstract": "Gerhard et al. reveal the conservation of human tumor-infiltrating dendritic cell states via meta-analysis of scRNA-seq datasets. They further explore dendritic cell state conservation in mice and the origins, behavior, and functions of these cells."
-    }
-}

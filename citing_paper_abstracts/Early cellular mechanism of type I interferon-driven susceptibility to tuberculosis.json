@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "cd302cb3ba54d7307419cb70998063b7be9b8d3d",
-        "title": "Early cellular mechanism of type I interferon-driven susceptibility to tuberculosis",
-        "abstract": "Mycobacterium tuberculosis (Mtb) causes 1.6 million deaths annually. Active tuberculosis correlates with a neutrophil-driven type I interferon (IFN) signature, but the cellular mechanisms underlying tuberculosis pathogenesis remain poorly understood. We found interstitial macrophages (IMs) and plasmacytoid dendritic cells (pDCs) are dominant producers of type I IFN during Mtb infection in mice and non-human primates, and pDCs localize near human Mtb granulomas. Depletion of pDCs reduces Mtb burdens, implicating pDCs in tuberculosis pathogenesis. During IFN-driven disease, we observe abundant DNA-containing neutrophil extracellular traps (NETs) known to activate pDCs. Cell type-specific disruption of the type I IFN receptor suggests IFNs act on IMs to inhibit Mtb control. Single cell RNA-seq indicates type I IFN-responsive cells are defective in their response to IFN\u03b3, a cytokine critical for Mtb control. We propose pDC-derived type I IFNs act on IMs to drive bacterial replication, further neutrophil recruitment, and active tuberculosis disease."
-    }
-}

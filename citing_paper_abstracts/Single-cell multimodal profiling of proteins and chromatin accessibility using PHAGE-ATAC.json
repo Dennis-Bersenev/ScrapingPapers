@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "71b3b96a5bce3602570aac5df711e67819031b7c",
-        "title": "Single-cell multimodal profiling of proteins and chromatin accessibility using PHAGE-ATAC",
-        "abstract": "Multi-modal measurements of single cell profiles are a powerful tool for characterizing cell states and regulatory mechanisms. While current methods allow profiling of RNA along with either chromatin or protein levels, connecting chromatin state to protein levels remains a barrier. Here, we developed PHAGE-ATAC, a method that uses engineered camelid single-domain antibody (\u2018nanobody\u2019)-displaying phages for simultaneous single-cell measurement of surface proteins, chromatin accessibility profiles, and mtDNA-based clonal tracing through a massively parallel droplet-based assay of single-cell transposase-accessible chromatin with sequencing (ATAC-seq). We demonstrate PHAGE-ATAC for multimodal analysis in primary human immune cells and for sample multiplexing. Finally, we construct a synthetic high-complexity phage library for selection of novel antigen-specific nanobodies that bind cells of particular molecular profiles, opening a new avenue for protein detection, cell characterization and screening with single-cell genomics."
-    }
-}

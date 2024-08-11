@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "c17e8b68659e8d27f1afee181826faed9f4199ee",
-        "title": "The development and function of CD11c+ atypical B cells - insights from single cell analysis",
-        "abstract": "CD11c+ T-bet+ atypical B cells (ABCs) have been identified in the context of vaccination, acute and chronic infections and autoimmune disease. However, the origins and functions of ABCs remain elusive. A major obstacle in the study of ABCs, and human MBCs more generally, has been the use of different phenotypic markers in different contexts to identify what appear to be phenotypically similar cells. Advances in single-cell RNA sequencing (scRNA-seq) technology have allowed researchers to accurately identify ABCs in different immune contexts such as diseases and tissues. Notably, recent studies utilizing single cell techniques have demonstrated ABCs are a highly conserved memory B cell lineage. This analysis has also revealed that ABCs are more abundant in ostensibly healthy donors than previously thought. Nonetheless, the normal function of these cells remains elusive. In this review, we will focus on scRNA-seq studies to discuss recent advances in our understanding about the development and functions of ABCs."
-    }
-}

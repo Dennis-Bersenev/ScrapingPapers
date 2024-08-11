@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "28bc53940773c7f5fea8aa6e3130a8e27aec6e8a",
-        "title": "Multiplexed Analysis of Retinal Gene Expression and Chromatin Accessibility using scRNA-Seq and scATAC-Seq.",
-        "abstract": "Powerful next generation sequencing techniques offer robust and comprehensive analysis to investigate how retinal gene regulatory networks function during development and in disease states. Single-cell RNA sequencing allows us to comprehensively profile gene expression changes observed in retinal development and disease at a cellular level, while single-cell ATAC-Seq allows analysis of chromatin accessibility and transcription factor binding to be profiled at similar resolution. Here the use of these techniques in the developing retina is described, and MULTI-Seq is demonstrated, where individual samples are labeled with a modified oligonucleotide-lipid complex, enabling researchers to both increase the scope of individual experiments and substantially reduce costs."
-    }
-}

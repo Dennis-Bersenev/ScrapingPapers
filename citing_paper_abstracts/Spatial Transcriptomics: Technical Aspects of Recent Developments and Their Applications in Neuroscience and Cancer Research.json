@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3b9f94e764c8d950027fb05b0ad4d90d8d52c269",
-        "title": "Spatial Transcriptomics: Technical Aspects of Recent Developments and Their Applications in Neuroscience and Cancer Research",
-        "abstract": "Spatial transcriptomics is a newly emerging field that enables high\u2010throughput investigation of the spatial localization of transcripts and related analyses in various applications for biological systems. By transitioning from conventional biological studies to \u201cin situ\u201d biology, spatial transcriptomics can provide transcriptome\u2010scale spatial information. Currently, the ability to simultaneously characterize gene expression profiles of cells and relevant cellular environment is a paradigm shift for biological studies. In this review, recent progress in spatial transcriptomics and its applications in neuroscience and cancer studies are highlighted. Technical aspects of existing technologies and future directions of new developments (as of March 2023), computational analysis of spatial transcriptome data, application notes in neuroscience and cancer studies, and discussions regarding future directions of spatial multi\u2010omics and their expanding roles in biomedical applications are emphasized."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "18ce65fa88351ef9222ee853bd6199f399d11432",
-        "title": "CD39 Identifies Tumor-Reactive CD8 T cells in Patients With Lung Cancer",
-        "abstract": "The repertoire of tumor-infiltrating lymphocytes (TILs) can be vast, and many of these TILs are not endowed with tumor reactivity. While a number of reports have shown that tumor-reactive TILs express CD39, few reports have demonstrated that conversely, CD39 can be leveraged to serve as a proxy of tumor-reactive CD8 T cells. Using single-cell CITE/RNA/TCRseq, we show that CD39+ CD8 T cells in human lung cancers demonstrate transcriptional and proteomic features of exhaustion, tumor reactivity, and clonal expansion. Moreover, TCR cloning revealed that CD39 enriched for tumor-reactive CD8 T cell clones. Flow cytometry of 440 lung cancer specimens revealed that CD39 level on CD8 T cells is only weakly correlated with tumoral features that currently guide lung cancer therapy, such as histology, driver mutation, PD-L1 and tumor mutation burden. PD-1 axis blockade, but not cytotoxic chemotherapy, increased intratumoral CD39+ CD8 T cells. CD39 correlated with PD-1 expression on CD8 T cells and high pre-treatment/early-on-treatment levels were associated with improved clinical outcomes, but not immune-related adverse events, from immune checkpoint blockade therapy. This comprehensive profiling of the clinical, pathological and molecular features highlights the utility of CD39 as a proxy for tumor-reactive CD8 T cells in human lung cancer."
-    }
-}

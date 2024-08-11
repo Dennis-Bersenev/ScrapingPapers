@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "52320a6fc658634454434abeb74c74d23bc67f5a",
-        "title": "Taming Cell-to-Cell Heterogeneity in Acute Myeloid Leukaemia With Machine Learning",
-        "abstract": "Acute Myeloid Leukaemia (AML) is a phenotypically and genetically heterogenous blood cancer characterised by very poor prognosis, with disease relapse being the primary cause of treatment failure. AML heterogeneity arise from different genetic and non-genetic sources, including its proposed hierarchical structure, with leukemic stem cells (LSCs) and progenitors giving origin to a variety of more mature leukemic subsets. Recent advances in single-cell molecular and phenotypic profiling have highlighted the intra and inter-patient heterogeneous nature of AML, which has so far limited the success of cell-based immunotherapy approaches against single targets. Machine Learning (ML) can be uniquely used to find non-trivial patterns from high-dimensional datasets and identify rare sub-populations. Here we review some recent ML tools that applied to single-cell data could help disentangle cell heterogeneity in AML by identifying distinct core molecular signatures of leukemic cell subsets. We discuss the advantages and limitations of unsupervised and supervised ML approaches to cluster and classify cell populations in AML, for the identification of biomarkers and the design of personalised therapies."
-    }
-}

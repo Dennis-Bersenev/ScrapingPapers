@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0e7bdc84b8c812f0ec6a1eff5cebef107a5cf7fb",
-        "title": "FlexDotPlot: a universal and modular dot plot visualization tool for complex multifaceted data",
-        "abstract": "Motivation Dot plots are heatmap-like charts that provide a compact way to simultaneously display two quantitative information by means of dots of different sizes and colours. Despite the popularity of this visualization method, particularly in single-cell RNA-seq studies, existing tools used to make dot plots are limited in terms of functionality and usability. Results We developed FlexDotPlot, an R package for generating dot plots from any type of multifaceted data, including single-cell RNA-seq data. FlexDotPlot provides a universal and easy-to-use solution with a high versatility. An interactive R Shiny application is also available in the FlexDotPlot package allowing non-R users to easily generate dot plots with several tunable parameters. Availability and implementation Source code and detailed manual are available at https://github.com/Simon-Leonard/FlexDotPlot. The Shiny app is available as a stand-alone application within the package."
-    }
-}

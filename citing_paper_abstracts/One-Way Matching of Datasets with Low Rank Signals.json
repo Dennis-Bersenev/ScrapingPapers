@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "7f1eae4b611a6f109adf3d370d15dbde667a5691",
-        "title": "One-Way Matching of Datasets with Low Rank Signals",
-        "abstract": "We study one-way matching of a pair of datasets with low rank signals. Under a stylized model, we \ufb01rst derive information-theoretic limits of matching. We then show that linear assignment with projected data achieves fast rates of convergence and sometimes even minimax rate optimality for this task. The theoretical error bounds are corroborated by simulated examples. Furthermore, we illustrate practical use of the matching procedure on two single-cell data examples."
-    }
-}

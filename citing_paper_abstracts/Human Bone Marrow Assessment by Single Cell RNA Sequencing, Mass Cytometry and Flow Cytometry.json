@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3841129a04b9237c1cf234aaa4c90a9f5e6a156e",
-        "title": "Human Bone Marrow Assessment by Single Cell RNA Sequencing, Mass Cytometry and Flow Cytometry",
-        "abstract": "New techniques for single-cell analysis have led to insights into hematopoiesis and the immune system, but the ability of these techniques to cross-validate and reproducibly identify the biological variation in diverse human samples is currently unproven. We therefore performed a comprehensive assessment of human bone marrow cells using both single-cell RNA sequencing and multiparameter flow cytometry from twenty healthy adult human donors across a broad age range. These data characterize variation between healthy donors as well as age-associated changes in cell population frequencies. Direct comparison of techniques revealed discrepancy in the quantification of T lymphocyte and natural killer cell populations. Orthogonal validation of immunophenotyping using mass cytometry demonstrated good correlation with flow cytometry. Technical replicates using single-cell RNA sequencing matched robustly, while biological replicates showed variation. Given the increasing use of single-cell technologies in translational research, this resource serves as an important reference dataset and highlights opportunities for further refinement."
-    }
-}

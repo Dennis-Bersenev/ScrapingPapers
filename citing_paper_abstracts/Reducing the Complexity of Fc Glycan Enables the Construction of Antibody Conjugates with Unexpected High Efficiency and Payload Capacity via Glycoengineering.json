@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9a257b4e4309c4fb337989bfd840ab31e364ccdb",
-        "title": "Reducing the Complexity of Fc Glycan Enables the Construction of Antibody Conjugates with Unexpected High Efficiency and Payload Capacity via Glycoengineering",
-        "abstract": "Glycoengineering has been demonstrated as a powerful approach to construct site-specific antibody conjugates. However, most glycoengineering strategies take of hours to days to achieve full conversion. Here, using unnatural fucosylation as an example, we show that reduce the complexity of Fc glycan dramatically boost its enzymatic conjugation. The fucosyl-biotinylation reaction on the created simple monoantennary LacNAc could be finished in 5 min while it takes 16 h on the natural biantennary LacNAc. More importantly, this unnatural fucosylation of the created simple LacNAc on antibody accommodate payloads over 15,000 Da, which allows the enzymatic construction of antibody-oligonucleotide conjugate (AOC) and bispecific antibody. Further applications of antibody conjugates in animal model and human cancer organoid indicates the translational potential of this platform, especially for constructing unlimited antibody-biomacromolecules (X) conjugate, \u201cAXC\u201d, as therapeutics."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "e381667e72241480976b5a7a281cf6632f1927fe",
-        "title": "Inhibition of MET Signaling with Ficlatuzumab in Combination with Chemotherapy in Refractory AML: Clinical Outcomes and High-Dimensional Analysis.",
-        "abstract": "Acute myeloid leukemia patients refractory to induction therapy or relapsed within one year have poor outcomes. Autocrine production of hepatocyte growth factor by myeloid blasts drives leukemogenesis in pre-clinical models. A phase Ib trial evaluated ficlatuzumab, a first-in-class anti-HGF antibody, in combination with cytarabine in this high-risk population. Dose-limiting toxicities were not observed, and 20 mg/kg was established as the recommended phase II dose. The most frequent treatment-related adverse event was febrile neutropenia. Among 17 evaluable patients, the overall response rate was 53%, all complete remissions. Phospho-proteomic mass cytometry showed potent on-target suppression of p-MET after ficlatuzumab treatment and that attenuation of p-S6 was associated with clinical response. Multiplexed single cell RNA sequencing using prospectively acquired patient specimens identified interferon response genes as adverse predictive factors. The ficlatuzumab and cytarabine combination is well-tolerated with favorable efficacy. High-dimensional analyses at single-cell resolution represent promising approaches for identifying biomarkers of response and mechanisms of resistance in prospective clinical studies."
-    }
-}

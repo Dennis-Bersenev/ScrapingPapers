@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "c7687bee09f27dd6520bbf7a50721b8d5f936c8f",
-        "title": "Combinatorial prediction of marker panels from single\u2010cell transcriptomic data",
-        "abstract": "Single-cell transcriptomic studies are identifying novel cell populations with exciting functional roles in various in vivo contexts, but identification of succinct gene-marker panels for such populations remains a challenge. In this work we introduce COMET, a computational framework for the identification of candidate marker panels consisting of one or more genes for cell populations of interest identified with single-cell RNA-seq data. We show that COMET outperforms other methods for the identification of single-gene panels, and enables, for the first time, prediction of multi-gene marker panels ranked by relevance. Staining by flow-cytometry assay confirmed the accuracy of COMET\u2019s predictions in identifying marker-panels for cellular subtypes, at both the single- and multi-gene levels, validating COMET\u2019s applicability and accuracy in predicting favorable marker-panels from transcriptomic input. COMET is a general non-parametric statistical framework and can be used as-is on various high-throughput datasets in addition to single-cell RNA-sequencing data. COMET is available for use via a web interface (http://www.cometsc.com) or a standalone software package (https://github.com/MSingerlab/COMETSC)."
-    }
-}

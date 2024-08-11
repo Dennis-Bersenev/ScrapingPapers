@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a1404b881868335d3f841e5a07da515181de2a93",
-        "title": "Challenges and Opportunities for the Translation of Single-Cell RNA Sequencing Technologies to Dermatology",
-        "abstract": "Skin is a complex and heterogeneous organ at the cellular level. This complexity is beginning to be understood through the application of single-cell genomics and computational tools. A large number of datasets that shed light on how the different human skin cell types interact in homeostasis\u2014and what ceases to work in diverse dermatological diseases\u2014have been generated and are publicly available. However, translation of these novel aspects to the clinic is lacking. This review aims to summarize the state-of-the-art of skin biology using single-cell technologies, with a special focus on skin pathologies and the translation of mechanistic findings to the clinic. The main implications of this review are to summarize the benefits and limitations of single-cell analysis and thus help translate the emerging insights from these novel techniques to the bedside."
-    }
-}

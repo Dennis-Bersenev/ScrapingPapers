@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a83dbce941baa359f9c950fa30e353ef39f9d564",
-        "title": "Single-cell genomics-based immune and disease monitoring in blood malignancies",
-        "abstract": "Achieving long-term disease control using therapeutic immunomodulation is a long-standing concept with a strong tradition in blood malignancies. Besides allogeneic hematopoietic stem cell transplantation that continues to provide potentially curative treatment for otherwise challenging diagnoses, recent years have seen impressive progress in immunotherapies for leukemias and lymphomas with immune checkpoint blockade, bispecific monoclonal antibodies, and CAR T cell therapies. Despite their success, non-response, relapse, and immune toxicities remain frequent, thus prioritizing the elucidation of the underlying mechanisms and identifying predictive biomarkers. The increasing availability of single-cell genomic tools now provides a system\u2019s immunology view to resolve the molecular and cellular mechanisms of immunotherapies at unprecedented resolution. Here, we review recent studies that leverage these technological advancements for tracking immune responses, the emergence of immune resistance, and toxicities. As single-cell immune monitoring tools evolve and become more accessible, we expect their wide adoption for routine clinical applications to catalyze more precise therapeutic steering of personal immune responses."
-    }
-}

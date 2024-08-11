@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5c66e55c60c0bccb3fee16abd67bc1ce75841365",
-        "title": "Multi-omics approach identifies novel age-, time- and treatment-related immunopathological signatures in MIS-C and pediatric COVID-19",
-        "abstract": "Pediatric COVID-19 (pCOVID-19) is rarely severe, however a minority of SARS-CoV-2-infected children may develop MIS-C, a multisystem inflammatory syndrome with significant morbidity. In this longitudinal multi-institutional study, we used multi-omics to identify novel time- and treatment-related immunopathological signatures in children with COVID-19 (n=105) and MIS-C (n=76). pCOVID-19 was characterized by enhanced type I IFN responses, and MIS-C by type II IFN- and NF-{kappa}B dependent responses, matrisome activation, and increased levels of Spike protein. Reduced levels of IL-33 in pCOVID-19, and of CCL22 in MIS-C suggested suppression of Th2 responses. Expansion of TRBV11-2 T-cell clonotypes in MIS-C was associated with inflammation and signatures of T-cell activation, and was reversed by glucocorticoids. The association of MIS-C with the combination of HLA A*02, B*35, C*04 alleles suggests genetic susceptibility. MIS-C B cells showed higher mutation load. Use of IVIG was identified as a confounding factor in the interpretation of autoantibody levels."
-    }
-}

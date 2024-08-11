@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "7da1e7bf39222b745b0afb97d475f6425d098eb5",
-        "title": "LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data",
-        "abstract": "Given most tissues are consist of abundant and diverse sub cell-types, an important yet unaddressed problem in bulk RNA-seq analysis is to identify at which sub cell-type(s) the differential expression occur. Single-cell RNA-sequencing (scRNA-seq) technologies can answer the question, but they are often labor-intensive and cost-prohibitive. Here, we present LRcell, a computational method aiming to identify specific sub-cell type(s) that drives the changes observed in a bulk RNA-seq experiment. In addition, LRcell provides pre-embedded marker genes computed from putative single-cell RNA-seq experiments as options to execute the analyses. Using three different real datasets, we show that LRcell successfully identifies known cell types involved in psychiatric disorders and LRcell is more sensitive than even the leading deconvolution methods."
-    }
-}

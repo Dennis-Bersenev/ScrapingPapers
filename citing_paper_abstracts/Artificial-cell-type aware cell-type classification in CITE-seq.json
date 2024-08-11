@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d1283675db5dc1d30a59e65576c493ccf969d0c7",
-        "title": "Artificial-cell-type aware cell-type classification in CITE-seq",
-        "abstract": "Cellular Indexing of Transcriptomes and Epitopes by sequencing (CITE-seq), couples the measurement of surface marker proteins with simultaneous sequencing of mRNA at single cell level, which brings accurate cell surface phenotyping to single cell transcriptomics. Unfortunately, multiplets in CITE-seq datasets create artificial cell types and complicates the automation of cell surface phenotyping. We propose CITE-sort, an artificial-cell-type aware surface marker clustering method for CITE-seq. CITE-sort is aware of and is robust to multiplet-induced artificial cell types. We benchmarked CITE-sort with real and simulated CITE-seq datasets and compared CITE-sort against canonical clustering methods. We show that CITE-sort produces the best clustering performance across the board. CITE-sort not only accurately identifies real biological cell types but also consistently and reliably separates multiplet-induced artificial-cell-type droplet clusters from real biological-cell-type droplet clusters. In addition, CITE-sort organizes its clustering process with a binary tree, which facilitates easy interpretation and verification of its clustering result and simplifies cell type annotation with domain knowledge in CITE-seq."
-    }
-}

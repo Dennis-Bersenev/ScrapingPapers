@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5aa6006a67a683b950f343233c6b2ec9af42faf9",
-        "title": "Advancing Stem Cell Research through Multimodal Single-Cell Analysis.",
-        "abstract": "Technological advances play a key role in furthering our understanding of stem cell biology, and advancing the prospects of regenerative therapies. Highly parallelized methods, developed in the last decade, can profile DNA, RNA, or proteins in thousands of cells and even capture data across two or more modalities (multiomics). This allows unbiased and precise definition of molecular cell states, thus allowing classification of cell types, tracking of differentiation trajectories, and discovery of underlying mechanisms. Despite being based on destructive techniques, novel experimental and bioinformatic approaches enable embedding and extraction of temporal information, which is essential for deconvolution of complex data and establishing cause and effect relationships. Here, we provide an overview of recent studies pertinent to stem cell biology, followed by an outlook on how further advances in single-cell molecular profiling and computational analysis have the potential to shape the future of both basic and translational research."
-    }
-}
