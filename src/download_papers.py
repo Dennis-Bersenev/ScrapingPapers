@@ -19,6 +19,8 @@ import random
 
 api_key = SS_API_KEY
 
+outdir = "./data/"
+
 # Define headers with API key
 headers = {'x-api-key': api_key}
 
@@ -69,7 +71,7 @@ def download_file(url, filename):
         
         response.raise_for_status()  # Check if the request was successful
         
-        filepath = filename
+        filepath = os.path.join(outdir, filename)
 
         with open(filepath, 'wb') as file:
             file.write(response.content)
@@ -96,7 +98,7 @@ def strip_special_characters(input_string):
 
 
 
-def get_paper(title: str, url):
+def get_paper(title: str, url, filename):
     query_params = {'query': title, }
     
     
@@ -121,20 +123,21 @@ def get_paper(title: str, url):
         # Handle potential errors or non-200 responses
         print(f"Relevance Search Request failed with status code {search_response.status_code}: {search_response.text}")
 
-    return pdf_url
+    if pdf_url:
+        download_file(pdf_url, filename)
 
 
-def query_semantic_scholar(query_params, url, outpath):
-        
-    response = requests.get(url, params=query_params, headers=headers)
+# Will only return/save the first paper from the search results 
+def query_semantic_scholar(query_params, url, paper_id, filename):
+    
+    response = requests.get(url + paper_id, params=query_params, headers=headers)
     
     if response.status_code == 200:
         json_data = json.dumps(response.json()['data'][0], indent=4)
         
+        outpath = os.path.join(outdir, filename)
         # Write the JSON string to a file
         with open(outpath, 'w') as file:
             file.write(json_data)
         print(json_data)
     
-    else:
-        return None        

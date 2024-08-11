@@ -6,11 +6,12 @@
 ### Can also be performed with a keyword search to obtain all articles of interest.
 
 # Setup
-## 1. Setup keys in src/key.py. Required: semantic scholar API key.
+## 1. Setup keys in src/key.py (Note: semantic scholar API key is required).
 ## 2. Setup environment via conda TODO
 
 
 ## Example Usage:
-### TODO 1
+### python3 main.py --title PaperName --meta_params {'fields': 'comma-seperated-list'} 
+### python3 main.py --title PaperName --meta_params {'fields': 'comma-seperated-list'}
 ### TODO 2
 ### TODO 3
