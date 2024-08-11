@@ -3,7 +3,6 @@
 
 ## Can acquire meta information on any paper such as abstracts, authors, citations, and also meta information/text of all citing papers.
 ### If paper is open access full text can also be obtained. 
-### Can also be performed with a keyword search to obtain all articles of interest.
 
 # Setup
 ## 1. Setup keys in src/key.py (Note: semantic scholar API key is required).
