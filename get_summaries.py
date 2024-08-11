@@ -1,5 +1,5 @@
 """
-Obtains abstracts for all papers citing the paper of interest, and gets a LM to decide which, if any, of those are relevant to some research topic.
+Obtains abstracts for all papers citing the paper of interest, and gets an LM to decide which, if any, of those are relevant to some research topic.
 (User specifies the paper and the research topic.)
 """
 
@@ -36,7 +36,6 @@ for filename in os.listdir(directory):
     print(f"Title: {title}")
     print(f"Abstract: {abstract}\n\n")
     
-    # Next, query GPT: ask it which abstracts seem relevant and prune based off that!!!
     # Only for papers with an abstracts
     if abstract:
         query_out = os.path.join(out_dir, 'reader_out.txt')
@@ -61,12 +60,3 @@ for filename in os.listdir(directory):
                     file.write(analysis_out)
         except:
             continue
-
-    
-    # # for debugging
-    # if i > 2:
-    #     break
-    
-    # i += 1
-
-    
