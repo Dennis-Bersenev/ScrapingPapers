@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fc42eedb665aa29d9ff7b766dfeb23c7f8909a02",
-        "title": "Multi-omic single cell sequencing: Overview and opportunities for kidney disease therapeutic development",
-        "abstract": "Single cell sequencing technologies have rapidly advanced in the last decade and are increasingly applied to gain unprecedented insights by deconstructing complex biology to its fundamental unit, the individual cell. First developed for measurement of gene expression, single cell sequencing approaches have evolved to allow simultaneous profiling of multiple additional features, including chromatin accessibility within the nucleus and protein expression at the cell surface. These multi-omic approaches can now further be applied to cells in situ, capturing the spatial context within which their biology occurs. To extract insights from these complex datasets, new computational tools have facilitated the integration of information across different data types and the use of machine learning approaches. Here, we summarize current experimental and computational methods for generation and integration of single cell multi-omic datasets. We focus on opportunities for multi-omic single cell sequencing to augment therapeutic development for kidney disease, including applications for biomarkers, disease stratification and target identification."
-    }
-}

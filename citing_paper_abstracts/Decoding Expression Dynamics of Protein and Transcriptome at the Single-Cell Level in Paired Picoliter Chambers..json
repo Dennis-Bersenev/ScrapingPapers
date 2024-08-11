@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "32e2e53e5415b63487798a9f8b0db52b5f3c0fca",
-        "title": "Decoding Expression Dynamics of Protein and Transcriptome at the Single-Cell Level in Paired Picoliter Chambers.",
-        "abstract": "Simultaneous analysis of mRNAs and proteins at the single-cell level provides information about the dynamics and correlations of gene and protein expressions in individual cells, enabling a comprehensive study of cellular heterogeneity and expression patterns. Here, we present a platform for about 1000 cellular indexing of mRNAs and membrane proteins, named multi-Paired-seq, with high cell utilization, accurate molecular measurement, and low cost. Based on hydrodynamic differential flow resistance, multi-Paired-seq largely improves cell utilization in the percentage of cells measured in population (>95%). Combined with the pump/valve structure, cell-free antibodies and mRNAs can be removed completely for highly accurate detection (R = 0.96) of protein copies. The picoliter reaction chambers allow high detection sensitivity for both mRNA transcripts and protein copies and low sequencing cost. Using multi-Paired-seq, three clusters of known breast cancer cell types are identified according to multimodal measurements, and the expression correlations between mRNAs and proteins under altered conditions are quantified. Multi-Paired-seq provides multimodal measurements at the single-cell level, which offers a new tool for cell biology, developmental biology, drug discovery, and precision medicine."
-    }
-}

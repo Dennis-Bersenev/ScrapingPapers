@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "e836bd470569effe0f6fd0e423bda886c150e469",
-        "title": "Single-Cell RNA Sequencing Approaches for Tracing T Cell Development",
-        "abstract": "T cell development occurs in the thymus, where uncommitted progenitors are directed into a range of sublineages with distinct functions. The goal is to generate a TCR repertoire diverse enough to recognize potential pathogens while remaining tolerant of self. Decades of intensive research have characterized the transcriptional programs controlling critical differentiation checkpoints at the population level. However, greater precision regarding how and when these programs orchestrate differentiation at the single-cell level is required. Single-cell RNA sequencing approaches are now being brought to bear on this question, to track the identity of cells and analyze their gene expression programs at a resolution not previously possible. In this review, we discuss recent advances in the application of these technologies that have the potential to yield unprecedented insight to T cell development."
-    }
-}

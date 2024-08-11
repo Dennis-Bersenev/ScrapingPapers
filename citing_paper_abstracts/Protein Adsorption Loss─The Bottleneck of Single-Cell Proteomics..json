@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1a347150b83c2c618d6fa123074d8ac20a1f2f8f",
-        "title": "Protein Adsorption Loss\u2500The Bottleneck of Single-Cell Proteomics.",
-        "abstract": "Single-cell proteomics is a promising field to provide direct yet comprehensive molecular insights into cellular functions without averaging effects. Here, we address a grand technical challenge impeding the maturation of single-cell proteomics\u2500protein adsorption loss (PAL). Even though widely known, there is currently no quantitation on how profoundly and selectively PAL has affected single-cell proteomics. Therefore, the mitigations to this challenge have been generic, and their efficacy was only evaluated by the size of the resolved proteome with no specificity on individual proteins. We use the existing knowledge of PAL, protein expression, and the typical surface area used in single-cell proteomics to discuss the severity of protein loss. We also summarize the current solutions to this challenge and briefly review the available methods to characterize the physical and chemical properties of protein surface adsorption. By citing successful strategies in single-cell genomics for measurement errors in individual transcripts, we pinpoint the urgency to benchmark PAL at the proteome scale with individual protein resolution. Finally, orthogonal single-cell proteomic techniques that have the potential to cross validate PAL are proposed. We hope these efforts can promote the fruition of single-cell proteomics in the near future."
-    }
-}

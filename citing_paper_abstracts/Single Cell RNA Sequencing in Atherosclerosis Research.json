@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "736b77cd77826ec1dea940f4a2078c1ca6944a09",
-        "title": "Single Cell RNA Sequencing in Atherosclerosis Research",
-        "abstract": "Technological advances in characterizing molecular heterogeneity at the single cell level have ushered in a deeper understanding of the biological diversity of cells present in tissues including atherosclerotic plaques. New subsets of cells have been discovered among cell types previously considered homogenous. The commercial availability of systems to obtain transcriptomes and matching surface phenotypes from thousands of single cells is rapidly changing our understanding of cell types and lineage identity. Emerging methods to infer cellular functions are beginning to shed new light on the interplay of components involved in multifaceted disease responses, like atherosclerosis. Here, we provide a technical guide for design, implementation, assembly, and interpretations of current single cell transcriptomics approaches from the perspective of employing these tools for advancing cardiovascular disease research."
-    }
-}

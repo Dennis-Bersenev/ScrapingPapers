@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a64b0e63b17e0b2010db440c53dd020e1c287e47",
-        "title": "Special function methods for bursty models of transcription.",
-        "abstract": "We explore a Markov model used in the analysis of gene expression, involving the bursty production of pre-mRNA, its conversion to mature mRNA, and its consequent degradation. We demonstrate that the integration used to compute the solution of the stochastic system can be approximated by the evaluation of special functions. Furthermore, the form of the special function solution generalizes to a broader class of burst distributions. In light of the broader goal of biophysical parameter inference from transcriptomics data, we apply the method to simulated data, demonstrating effective control of precision and runtime. Finally, we propose and validate a non-Bayesian approach for parameter estimation based on the characteristic function of the target joint distribution of pre-mRNA and mRNA."
-    }
-}

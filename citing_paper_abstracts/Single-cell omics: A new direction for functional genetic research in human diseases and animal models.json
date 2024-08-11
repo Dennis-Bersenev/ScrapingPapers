@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6d65dc556e76596ee68b344b3a4ffb50ebe5ead1",
-        "title": "Single-cell omics: A new direction for functional genetic research in human diseases and animal models",
-        "abstract": "Over the past decade, with the development of high-throughput single-cell sequencing technology, single-cell omics has been emerged as a powerful tool to understand the molecular basis of cellular mechanisms and refine our knowledge of diverse cell states. They can reveal the heterogeneity at different genetic layers and elucidate their associations by multiple omics analysis, providing a more comprehensive genetic map of biological regulatory networks. In the post-GWAS era, the molecular biological mechanisms influencing human diseases will be further elucidated by single-cell omics. This review mainly summarizes the development and trend of single-cell omics. This involves single-cell omics technologies, single-cell multi-omics technologies, multiple omics data integration methods, applications in various human organs and diseases, classic laboratory cell lines, and animal disease models. The review will reveal some perspectives for elucidating human diseases and constructing animal models."
-    }
-}

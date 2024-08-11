@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "2751732385ab4f40318fe55ae73957f82bc3c57b",
-        "title": "Community-driven ELIXIR activities in single-cell omics",
-        "abstract": "Single-cell omics (SCO) has revolutionized the way and the level of resolution by which life science research is conducted, not only impacting our understanding of fundamental cell biology but also providing novel solutions in cutting-edge medical research. The rapid development of single-cell technologies has been accompanied by the active development of data analysis methods, resulting in a plethora of new analysis tools and strategies every year. Such a rapid development of SCO methods and tools poses several challenges in standardization, benchmarking, computational resources and training. These challenges are in line with the activities of ELIXIR, the European coordinated infrastructure for life science data. Here, we describe the current landscape of and the main challenges in SCO data, and propose the creation of the ELIXIR SCO Community, to coordinate the efforts in order to best serve SCO researchers in Europe and beyond. The Community will build on top of national experiences and pave the way towards integrated long-term solutions for SCO research."
-    }
-}

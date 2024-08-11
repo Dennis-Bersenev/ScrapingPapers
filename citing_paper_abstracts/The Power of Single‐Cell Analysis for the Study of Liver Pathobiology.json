@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d700c251e3f22d30e91c112f47985345a62b0e5b",
-        "title": "The Power of Single\u2010Cell Analysis for the Study of Liver Pathobiology",
-        "abstract": "Single cell transcriptomics has emerged as a powerful lens through which to study the molecular diversity of complex tissues such as the liver, during health and disease, both in animal models and in humans. The earliest gene expression methods measured bulk tissue RNA, but the results were often confusing because they derived from the combined transcriptomes of many different cell types in unknown proportions. To better delineate cell\u2010type\u2010specific expression, investigators developed cell isolation, purification, and sorting protocols, yet still, the RNA derived from ensembles of cells obscured recognition of cellular heterogeneity. Profiling transcriptomes at the single\u2010cell level has opened the door to analyses that were not possible in the past. In this review, we discuss the evolution of single cell transcriptomics and how it has been applied for the study of liver physiology and pathobiology to date."
-    }
-}

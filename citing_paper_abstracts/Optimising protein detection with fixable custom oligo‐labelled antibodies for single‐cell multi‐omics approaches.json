@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a5086889ebdfe56ff6f72f8a29cb39c5fa6ecc8c",
-        "title": "Optimising protein detection with fixable custom oligo\u2010labelled antibodies for single\u2010cell multi\u2010omics approaches",
-        "abstract": "Single\u2010cell RNA sequencing (scRNA\u2010seq) is a powerful method utilising transcriptomic data for detailed characterisation of heterogeneous cell populations. The use of oligonucleotide\u2010labelled antibodies for targeted proteomics addresses the shortcomings of the scRNA\u2010seq\u2010only based approach by improving detection of low expressing targets. However, optimisation of large antibody panels is challenging and depends on the availability of co\u2010functioning oligonucleotide\u2010labelled antibodies."
-    }
-}

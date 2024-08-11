@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9e11be8c7071f16f40b43515c57c867ed871434b",
-        "title": "Single-cell transcriptomics: a novel precision medicine technique in nephrology",
-        "abstract": "Due to the complex structure and function of the kidneys, the mechanism of kidney disease is unclear. In particular, transcriptomics approaches at the bulk level are unable to differentiate primary autonomous responses, which lead to disease development, from secondary cell non-autonomous responses. Single-cell analysis techniques can overcome the limitations inherent in the measurement of heterogeneous cell populations and clarify the central issues in kidney biology and disease pathogenesis. Single-cell sequencing helps in identifying disease-related biomarkers and pathways, stratifying patients, and deciding on appropriate treatment methods. Here we review a variety of single-cell analysis techniques and single-cell transcriptomics studies performed in the field of nephrology. Moreover, we discuss the future prospects of single-cell analysis-based precision medicine in nephrology."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "4015ccdede517bdb649c1f90670fe31e5f14b485",
-        "title": "In vivo Pooled Screening: A Scalable Tool to Study the Complexity of Aging and Age-Related Disease",
-        "abstract": "Biological aging, and the diseases of aging, occur in a complex in vivo environment, driven by multiple interacting processes. A convergence of recently developed technologies has enabled in vivo pooled screening: direct administration of a library of different perturbations to a living animal, with a subsequent readout that distinguishes the identity of each perturbation and its effect on individual cells within the animal. Such screens hold promise for efficiently applying functional genomics to aging processes in the full richness of the in vivo setting. In this review, we describe the technologies behind in vivo pooled screening, including a range of options for delivery, perturbation and readout methods, and outline their potential application to aging and age-related disease. We then suggest how in vivo pooled screening, together with emerging innovations in each of its technological underpinnings, could be extended to shed light on key open questions in aging biology, including the mechanisms and limits of epigenetic reprogramming and identifying cellular mediators of systemic signals in aging."
-    }
-}

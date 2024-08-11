@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "b87f8ef92a1477546b85910028101628a17aad80",
-        "title": "Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes",
-        "abstract": "Ovarian cancer is a deadly disease with few effective therapies. The most common form is high-grade serous ovarian cancer (HGSOC). Transcriptomic subtypes of HGSOC have shown promise in characterizing tumor heterogeneity and are associated with survival. Gene expression signatures for the subtypes suggest variation in stromal cell types in the tumor microenvironment (TME). Here, we characterize the TME composition of HGSOC on a population scale by performing deconvolution on bulk transcriptomic data. We use comprehensive cell type profiles from 164 HGSOC tumor samples from two independent reference datasets, in order to compare cell type proportions across and within bulk transcriptomic datasets, and assess their alignment to the subtypes proposed by The Cancer Genome Atlas. We also assess the relationship between tumor composition and clinical outcomes. Our results suggest that HGSOC transcriptomic subtypes are driven by TME composition, specifically fibroblast and immune cell content, and we propose a modified HGSOC subtype model informed by cell composition."
-    }
-}

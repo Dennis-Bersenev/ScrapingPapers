@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "e658def7e4cba3250c6c7a5004800b82fd1b60cc",
-        "title": "Characterizing control of memory CD8 T cell differentiation by BTB-ZF transcription factor Zbtb20",
-        "abstract": "Members of the BTB-ZF transcription factor family regulate the immune system. Our lab identified that family member Zbtb20 contributes to the differentiation, recall responses and metabolism of CD8 T cells. Here, we report a characterization of the transcriptional and epigenetic signatures controlled by Zbtb20 at single-cell resolution during the effector and memory phases of the CD8 T cell response. Without Zbtb20, transcriptional programs associated with memory CD8 T cell formation were upregulated throughout the CD8 T response. A signature of open chromatin was associated with genes controlling T cell activation, consistent with the known impact on differentiation. Additionally, memory CD8 T cells lacking Zbtb20 were characterized by open chromatin regions with overrepresentation of AP-1 transcription factor motifs and elevated RNA- and protein-level expression of the corresponding AP-1 components. Finally, we describe motifs and genomic annotations from the DNA targets of Zbtb20 in CD8 T cells identified by CUT&RUN. Together, these data establish the transcriptional and epigenetic networks contributing to the control of CD8 T cell responses by Zbtb20."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "e7b8fda72ae154fbc2ae5a993a853fad1ad4deeb",
-        "title": "The rise of single\u2010cell transcriptomics in yeast",
-        "abstract": "The field of single\u2010cell omics has transformed our understanding of biological processes and is constantly advancing both experimentally and computationally. One of the most significant developments is the ability to measure the transcriptome of individual cells by single\u2010cell RNA\u2010seq (scRNA\u2010seq), which was pioneered in higher eukaryotes. While yeast has served as a powerful model organism in which to test and develop transcriptomic technologies, the implementation of scRNA\u2010seq has been significantly delayed in this organism, mainly because of technical constraints associated with its intrinsic characteristics, namely the presence of a cell wall, a small cell size and little amounts of RNA. In this review, we examine the current technologies for scRNA\u2010seq in yeast and highlight their strengths and weaknesses. Additionally, we explore opportunities for developing novel technologies and the potential outcomes of implementing single\u2010cell transcriptomics and extension to other modalities. Undoubtedly, scRNA\u2010seq will be invaluable for both basic and applied yeast research, providing unique insights into fundamental biological processes."
-    }
-}

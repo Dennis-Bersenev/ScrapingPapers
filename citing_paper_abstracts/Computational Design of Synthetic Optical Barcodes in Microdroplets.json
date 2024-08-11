@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ddf68a2d4180c9e543c66108eb477c42cb32dff5",
-        "title": "Computational Design of Synthetic Optical Barcodes in Microdroplets",
-        "abstract": "Barcodes are useful for identifying objects across time, space, and information modalities. However, materializing and decoding optical and multimodal barcodes on microscopic objects remains difficult despite the increasing need for multiplexed cell analysis. Here, a computational design of randomly combinatorial is presented, yet decodable barcodes in microdroplets. The design is based on a novel Real2Sim2Real framework: it first collects experimental images of optically distinct microparticles, then simulates massive combinatorial images by randomly assembling the imaged particles to train a neural network\u2010based decoder. It is demonstrated that the decoder, even though trained via simulation, accurately identifies the randomly assembled particles in real hydrogel microdroplets. It also shows that the microdroplets with an additional DNA barcoding functionality are applicable to individually link independently measured microscopic images and transcriptome profiles of pooled single cells."
-    }
-}

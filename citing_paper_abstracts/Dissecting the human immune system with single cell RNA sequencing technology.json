@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "21e219c93afd763e8dd3210c84927d9835e4cc6a",
-        "title": "Dissecting the human immune system with single cell RNA sequencing technology",
-        "abstract": "Single\u2010cell RNA sequencing (scRNA\u2010seq) is a powerful new technology allowing the analysis of transcriptomes from individual cell and is ideally suited to dissect immune cell heterogeneity. ScRNA\u2010seq has already been applied to identify novel immune cell subsets, elaborate cellular differentiation trajectories, and elucidate immunopathogenic mechanisms. Here, we briefly discuss the recent progresses and challenges in the scRNA\u2010seq technology including the workflow, recent applications in immunology, and potential hurdles that need to be overcome. This review will highlight how single cell technology promotes our understanding of human immunology."
-    }
-}

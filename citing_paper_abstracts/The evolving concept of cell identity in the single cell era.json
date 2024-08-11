@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d8a2abb4e8a709be5d7a49a4c66265c44a147e2c",
-        "title": "The evolving concept of cell identity in the single cell era",
-        "abstract": "ABSTRACT Fueled by recent advances in single cell biology, we are moving away from qualitative and undersampled assessments of cell identity, toward building quantitative, high-resolution cell atlases. However, it remains challenging to precisely define cell identity, leading to renewed debate surrounding this concept. Here, I present three pillars that I propose are central to the notion of cell identity: phenotype, lineage and state. I explore emerging technologies that are enabling the systematic and unbiased quantification of these properties, and outline how these efforts will enable the construction of a high-resolution, dynamic landscape of cell identity, potentially revealing its underlying molecular regulation to provide new opportunities for understanding and manipulating cell fate. Summary: This Spotlight explores emerging technologies that are enabling the systematic and unbiased quantification of cell identity, and how these efforts will enable the construction of high-resolution, dynamic cell atlases."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "3defe73dacf01c212d155cefa9e412e3c647173e",
-        "title": "Single-Cell Manifold Preserving Feature Selection (SCMER)",
-        "abstract": "A key challenge in studying organisms and diseases is to detect rare molecular programs and rare cell populations (RCPs) that drive development, differentiation, and transformation. Molecular features such as genes and proteins defining RCPs are often unknown and difficult to detect from unenriched single-cell data, using conventional dimensionality reduction and clustering-based approaches. Here, we propose a novel unsupervised approach, named SCMER, which performs UMAP style dimensionality reduction via selecting a compact set of molecular features with definitive meanings. We applied SCMER in the context of hematopoiesis, lymphogenesis, tumorigenesis, and drug resistance and response. We found that SCMER can identify non-redundant features that sensitively delineate both common cell lineages and rare cellular states ignored by current approaches. SCMER can be widely used for discovering novel molecular features in a high dimensional dataset, designing targeted, cost-effective assays for clinical applications, and facilitating multi-modality integration."
-    }
-}

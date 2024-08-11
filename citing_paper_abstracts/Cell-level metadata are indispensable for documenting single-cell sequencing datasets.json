@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1295d88d45ac872122a838255e7228e8e6b2995f",
-        "title": "Cell-level metadata are indispensable for documenting single-cell sequencing datasets",
-        "abstract": "Single-cell RNA sequencing (scRNA-seq) provides an unprecedented view of cellular diversity of biological systems. However, across the thousands of publications and datasets generated using this technology, we estimate that only a minority (<25%) of studies provide cell-level metadata information containing identified cell types and related findings of the published dataset. Metadata omission hinders reproduction, exploration, validation, and knowledge transfer and is a common problem across journals, data repositories, and publication dates. We encourage investigators, reviewers, journals, and data repositories to improve their standards and ensure proper documentation of these valuable datasets."
-    }
-}

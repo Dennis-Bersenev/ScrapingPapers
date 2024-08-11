@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "154a3c1efd290d3b1af064403cb3c5dce906e3de",
-        "title": "Critical downstream analysis steps for single-cell RNA sequencing data",
-        "abstract": "Single-cell RNA sequencing (scRNA-seq) has enabled us to study biological questions at the single-cell level. Currently, many analysis tools are available to better utilize these relatively noisy data. In this review, we summarize the most widely used methods for critical downstream analysis steps (i.e. clustering, trajectory inference, cell-type annotation and integrating datasets). The advantages and limitations are comprehensively discussed, and we provide suggestions for choosing proper methods in different situations. We hope this paper will be useful for scRNA-seq data analysts and bioinformatics tool developers."
-    }
-}

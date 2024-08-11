@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "7851bac7a0496a15ecf87a40fd18b143bb4b547f",
-        "title": "Computational approaches for high\u2010throughput single\u2010cell data analysis",
-        "abstract": "During the past decade, the number of novel technologies to interrogate biological systems at the single\u2010cell level has skyrocketed. Numerous approaches for measuring the proteome, genome, transcriptome and epigenome at the single\u2010cell level have been pioneered, using a variety of technologies. All these methods have one thing in common: they generate large and high\u2010dimensional datasets that require advanced computational modelling tools to highlight and interpret interesting patterns in these data, potentially leading to novel biological insights and hypotheses. In this work, we provide an overview of the computational approaches used to interpret various types of single\u2010cell data in an automated and unbiased way."
-    }
-}

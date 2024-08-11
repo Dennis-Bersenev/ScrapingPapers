@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d3c3490c7a4cefcc35c2ae1558ba2a499f165aa8",
-        "title": "Computational approaches for characterizing the tumor immune microenvironment",
-        "abstract": "Recent advances in high\u2010throughput molecular profiling technologies and multiplexed imaging platforms have revolutionized our ability to characterize the tumor immune microenvironment. As a result, studies of tumor\u2010associated immune cells increasingly involve complex data sets that require sophisticated methods of computational analysis. In this review, we present an overview of key assays and related bioinformatics tools for analyzing the tumor\u2010associated immune system in bulk tissues and at the single\u2010cell level. In parallel, we describe how data science strategies and novel technologies have advanced tumor immunology and opened the door for new opportunities to exploit host immunity to improve cancer clinical outcomes."
-    }
-}

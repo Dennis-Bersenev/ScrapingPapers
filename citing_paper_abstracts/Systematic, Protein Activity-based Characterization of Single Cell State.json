@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "bd1a5198501f50c080943ceecaf983cbab5938b4",
-        "title": "Systematic, Protein Activity-based Characterization of Single Cell State",
-        "abstract": "While single-cell RNA sequencing provides a remarkable window on pathophysiologic tissue biology and heterogeneity, its high gene-dropout rate and low signal-to-noise ratio challenge quantitative analyses and mechanistic understanding. To address this issue, we developed PISCES, a platform for the network-based, single-cell analysis of mammalian tissue. PISCES accurately estimates the mechanistic contribution of regulatory and signaling proteins to cell state implementation and maintenance, based on the expression of their lineage-specific transcriptional targets, thus supporting discovery and visualization of Master Regulators of cell state and cell state transitions. Experimental validation assays, including by assessing concordance with antibody and CITE-Seq-based measurements, show significant improvement in the ability to identify rare subpopulations and to elucidate key lineage markers, compared to gene expression analysis. Systematic analysis of single cell profiles in the Human Protein Atlas (HPA) produced a comprehensive resource for human tissue studies, supporting fine-grain stratification of distinct cell states, molecular determinants, and surface markers."
-    }
-}

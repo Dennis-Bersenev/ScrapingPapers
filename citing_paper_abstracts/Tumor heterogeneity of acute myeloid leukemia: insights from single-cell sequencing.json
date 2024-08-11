@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "99097cc2ad29ea8c2c83303ddf334d24be07e41e",
-        "title": "Tumor heterogeneity of acute myeloid leukemia: insights from single-cell sequencing",
-        "abstract": "Abstract Individual tumors comprise genetically and epigenetically heterogeneous subclones, each of which is presumably associated with a distinct function, such as self-renewal or drug sensitivity. The dissection of such intratumoral heterogeneity is crucial to understand how tumors evolve during disease progression and under the selection of therapeutic intervention. As a paradigm of cancer intratumoral heterogeneity and clonal evolution, acute myeloid leukemia (AML) has been shown to possess complex clonal architecture based on karyotype studies, as well as deep sequencing of mixed cellular populations using next-generation sequencing (NGS) technologies. The recent development of single-cell sequencing (SCS) methods provides a powerful tool to allow analysis of genomes, transcriptomes, proteomes, and epigenomes at an individual cell level. The technologies applied in AML have broadened our understanding of AML heterogeneity and provided new insights for the development of novel therapeutic strategies. In this review, we summarize the progress in the research of AML heterogeneity using SCS technology and discuss the limitations and future direction regarding how SCS can contribute to AML prognosis and treatment."
-    }
-}

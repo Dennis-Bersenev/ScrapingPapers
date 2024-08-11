@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "6e12a2745a030c41a6909d9ab99ac5bbf098e5ed",
-        "title": "Multiparameter cell characterization using nanofluidic technology facilitates real-time phenotypic and genotypic elucidation of intratumor heterogeneity",
-        "abstract": "Genetic and functional complexity of bulk tumor has become evident through rapid advances in sequencing technologies. As a unique integrated approach to characterizing tumor heterogeneity, we demonstrate the multifaceted capabilities of a novel nanofluidic platform to enable single-cell phenotypic and genetic profiling of ovarian cancer patient-derived tumor cells. This approach has enabled increased resolution of tumor cell phenotypic and genetic heterogeneity, providing a better understanding of underlying biological drivers of the disease. A range of CA-125 expression levels is observed within cells from individuals, demonstrating clonal diversity consistent with other phenotypic data. Further, TP53 mutation analysis demonstrates a sub-population of cells exhibiting high mutation frequency that likely drives downstream growth kinetics and protein expression. Finally, genomic data is orthogonally used to address clonal heterogeneity across ovarian tumors when compared to bulk sequencing, illustrating the potential for single-cell sequencing data integrated with cellular functional and growth data toward future therapeutic intervention."
-    }
-}

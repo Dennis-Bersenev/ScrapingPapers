@@ -3,3 +3,5 @@ papers/
 __pycache__/
 papers_all/
 json_pages/
+relevant_articles/*
+data/*

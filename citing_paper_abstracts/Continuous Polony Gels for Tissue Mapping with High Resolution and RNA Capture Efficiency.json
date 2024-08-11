@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "faf442c1dba9d320f1b1f3be33e8634d907c29bc",
-        "title": "Continuous Polony Gels for Tissue Mapping with High Resolution and RNA Capture Efficiency",
-        "abstract": "Current technologies for acquiring spatial transcript information from tissue sections rely on either RNA probes or spatial barcodes. The former methods require a priori knowledge for probeset formulation; the latter have yet to achieve single cell resolution and/or transcript capture efficiencies approaching dissociative, single-cell methods. Here, we describe a novel spatial transcriptome assay called polony (or DNA cluster)-indexed library-sequencing (PIXEL-seq). It improves upon other spatial barcoding methods by employing \u201ccontinuous\u201d polony oligos arrayed across a customized gel surface. In terms of assay performance, PIXEL-seq attains \u2264 1 \u00b5m resolution and captures >1,000 unique molecular identifiers/10\u00d710 \u00b5m2. In other words, this global, naive platform achieves subcellular spatial transcriptome mapping while maintaining high transcript capture efficiencies."
-    }
-}

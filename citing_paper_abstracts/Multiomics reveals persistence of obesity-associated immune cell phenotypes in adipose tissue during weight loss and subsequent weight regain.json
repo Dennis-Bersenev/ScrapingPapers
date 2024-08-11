@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "284652df432642e7029d23def7c99ba0165b208f",
-        "title": "Multiomics reveals persistence of obesity-associated immune cell phenotypes in adipose tissue during weight loss and subsequent weight regain",
-        "abstract": "Most individuals do not maintain weight loss, and weight regain increases cardio-metabolic risk beyond that of obesity. Adipose inflammation directly contributes to insulin resistance; however, immune-related changes that occur with weight loss and weight regain are not well understood. Single cell RNA-sequencing was completed with CITE-sequencing and biological replicates to profile changes in murine immune subpopulations following obesity, weight loss, and weight cycling. Weight loss normalized glucose tolerance, however, type 2 immune cells did not repopulate adipose following weight loss. Many inflammatory populations persisted with weight loss and increased further following weight regain. Obesity drove T cell exhaustion and broad increases in antigen presentation, lipid handing, and inflammation that persisted with weight loss and weight cycling. This work provides critical groundwork for understanding the immunological causes of weight cycling-accelerated metabolic disease. Thus, we have created an open-access interactive portal for our processed data to improve accessibility for the research community."
-    }
-}

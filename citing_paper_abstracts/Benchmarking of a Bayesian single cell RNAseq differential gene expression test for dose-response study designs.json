@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "507f15da1cf488ce9dbae5d8513007a193ef3f6f",
-        "title": "Benchmarking of a Bayesian single cell RNAseq differential gene expression test for dose-response study designs",
-        "abstract": "The application of single-cell RNA sequencing (scRNAseq) for the evaluation of chemicals, drugs, and food contaminants presents the opportunity to consider cellular heterogeneity in pharmacological and toxicological responses. Current differential gene expression analysis (DGEA) methods focus primarily on two group comparisons, not multi-group dose-response study designs used in safety assessments. To benchmark DGEA methods for dose-response scRNAseq experiments, we proposed a multiplicity corrected Bayesian testing approach and compare it against 8 other methods including two frequentist fit-for-purpose tests using simulated and experimental data. Our Bayesian test method outperformed all other tests for a broad range of accuracy metrics including control of false positive error rates. Most notable, the fit-for-purpose and standard multiple group DGEA methods were superior to the two group scRNAseq methods for dose-response study designs. Collectively, our benchmarking of DGEA methods demonstrates the importance in considering study design when determining the most appropriate test methods."
-    }
-}

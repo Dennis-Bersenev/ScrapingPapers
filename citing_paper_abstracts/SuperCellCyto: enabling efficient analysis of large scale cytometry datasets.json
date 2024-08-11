@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5a99347a921a6c3f4e9b390ca5818cb383f52e28",
-        "title": "SuperCellCyto: enabling efficient analysis of large scale cytometry datasets",
-        "abstract": "Advancements in cytometry technologies have enabled quantification of up to 50 proteins across millions of cells at single cell resolution. Analysis of cytometry data routinely involves tasks such as data integration, clustering, and dimensionality reduction. While numerous tools exist, many require extensive run times when processing large cytometry data containing millions of cells. Existing solutions, such as random subsampling, are inadequate as they risk excluding rare cell subsets. To address this, we propose SuperCellCyto, an R package that builds on the SuperCell tool which groups highly similar cells into supercells. SuperCellCyto is available on GitHub (https://github.com/phipsonlab/SuperCellCyto)."
-    }
-}

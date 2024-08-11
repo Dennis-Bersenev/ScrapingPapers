@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "320b4b74ed4db2b5d5e36276a5ee71086564c89d",
-        "title": "Advances in bulk and single-cell multi-omics approaches for systems biology and precision medicine.",
-        "abstract": "Multi-omics allows the systematic understanding of the information flow across different omics layers, while single omics can mainly reflect one aspect of the biological system. The advancement of bulk and single-cell sequencing technologies and related computational methods for multi-omics largely facilitated the development of system biology and precision medicine. Single-cell approaches have the advantage of dissecting cellular dynamics and heterogeneity, whereas traditional bulk technologies are limited to individual/population-level investigation. In this review, we first summarize the technologies for producing bulk and single-cell multi-omics data. Then, we survey the computational approaches for integrative analysis of bulk and single-cell multimodal data, respectively. Moreover, the databases and data storage for multi-omics, as well as the tools for visualizing multimodal data are summarized. We also outline the integration between bulk and single-cell data, and discuss the applications of multi-omics in precision medicine. Finally, we present the challenges and perspectives for multi-omics development."
-    }
-}

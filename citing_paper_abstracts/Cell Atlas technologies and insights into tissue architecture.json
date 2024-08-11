@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "fe212ba698bdba0453f21b51be886fc73c22c2eb",
-        "title": "Cell Atlas technologies and insights into tissue architecture",
-        "abstract": "Since Robert Hooke first described the existence of \u2018cells\u2019 in 1665, scientists have sought to identify and further characterise these fundamental units of life. While our understanding of cell location, morphology and function has expanded greatly; our understanding of cell types and states at the molecular level, and how these function within tissue architecture, is still limited. A greater understanding of our cells could revolutionise basic biology and medicine. Atlasing initiatives like the Human Cell Atlas aim to identify all cell types at the molecular level, including their physical locations, and to make this reference data openly available to the scientific community. This is made possible by a recent technology revolution: both in single-cell molecular profiling, particularly single-cell RNA sequencing, and in spatially resolved methods for assessing gene and protein expression. Here, we review available and upcoming atlasing technologies, the biological insights gained to date and the promise of this field for the future."
-    }
-}

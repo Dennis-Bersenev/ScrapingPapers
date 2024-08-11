@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "97c1d9ca80bc035710dd3d03e7a90de3920a8572",
-        "title": "Multimodal and spatially resolved profiling identifies distinct patterns of T-cell infiltration in nodal B-cell lymphoma entities",
-        "abstract": "Summary T-cell-engaging immunotherapies have improved the treatment of nodal B-cell lymphoma, but responses vary highly. Future improvements of such therapies require better understanding of the variety of lymphoma-infiltrating T-cells. We employed single-cell RNA and T-cell receptor sequencing alongside quantification of surface proteins, flow cytometry and multiplexed immunofluorescence on 101 lymph nodes from healthy controls, and patients with diffuse large B-cell, mantle cell, follicular, or marginal zone lymphoma. This multimodal resource revealed entity-specific quantitative and spatial aberrations of the T-cell microenvironment. Clonal PD1+ TCF7\u2212 but not PD1+ TCF7+ cytotoxic T-cells converged into terminally exhausted T-cells, the proportions of which were variable across entities and linked to inferior prognosis. In follicular and marginal zone lymphoma, we observed expansion of follicular helper and IKZF3+ regulatory T-cells, which were clonally related and inversely associated with tumor grading. Overall, we portray lymphoma-infiltrating T-cells with unprecedented comprehensiveness and decipher both beneficial and adverse dimensions of T-cell response."
-    }
-}

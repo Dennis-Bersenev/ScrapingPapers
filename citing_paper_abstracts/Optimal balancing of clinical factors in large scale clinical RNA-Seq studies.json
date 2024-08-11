@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "c0e3182aa46751462383dc45ba293f93e0a809db",
-        "title": "Optimal balancing of clinical factors in large scale clinical RNA-Seq studies",
-        "abstract": "Omics technologies are ubiquitous in biomedical research. However, improper sample selection is an often-overlooked complication with large omics studies, resulting in confounding effects that can disrupt the internal validity of a study and lead to false conclusions. Here, we present a method called BalanceIT, which uses a genetic algorithm to identify an optimal set of samples with balanced clinical factors for large-scale omics experiments. We apply our approach to two large RNA-Seq studies in autism (1) to find a post-hoc balanced sample set among an imbalanced study, and (2) to design an optimal study that allows for efficient batch correction. Our approach leads to near-perfect estimates of differential gene expression, superior performance of pathway-level enrichment analysis, and consistent network dysregulation patterns of autism symptom severity. These results provide empirical support for the importance of balanced experimental design, and BalanceIT will be invaluable for large-scale study design and batch effect correction."
-    }
-}

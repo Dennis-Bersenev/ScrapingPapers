@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "925847f156d2d9e8e3798d0295dd7a351dbdfc13",
-        "title": "Defining Cell Identity with Single\u2010Cell Omics",
-        "abstract": "Cells are a fundamental unit of life, and the ability to study the phenotypes and behaviors of individual cells is crucial to understanding the workings of complex biological systems. Cell phenotypes (epigenomic, transcriptomic, proteomic, and metabolomic) exhibit dramatic heterogeneity between and within the different cell types and states underlying cellular functional diversity. Cell genotypes can also display heterogeneity throughout an organism, in the form of somatic genetic variation\u2014most notably in the emergence and evolution of tumors. Recent technical advances in single\u2010cell isolation and the development of omics approaches sensitive enough to reveal these aspects of cell identity have enabled a revolution in the study of multicellular systems. In this review, we discuss the technologies available to resolve the genomes, epigenomes, transcriptomes, proteomes, and metabolomes of single cells from a wide variety of living systems."
-    }
-}

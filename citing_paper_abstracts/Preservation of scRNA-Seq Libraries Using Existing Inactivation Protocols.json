@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "aa7927a48f400a75850ac017348a2f56c30a379a",
-        "title": "Preservation of scRNA-Seq Libraries Using Existing Inactivation Protocols",
-        "abstract": "Single-cell RNA sequencing has soared in popularity in recent years. The ability to deeply profile the states of individual cells during the course of disease or infection has helped to expand our knowledge of coordinated responses. However, significant challenges arise when performing this analysis in high containment settings such as biosafety level 3 (BSL-3), BSL-3+ and BSL-4. Working in containment is necessary for many important pathogens, such as Ebola virus, Marburg virus, Lassa virus, Nipah and Hendra viruses. Since standard operating procedures (SOPs) for inactivation are extensive and may compromise sample integrity, we tested whether the removal of single-cell sequencing libraries from containment laboratories using existing inactivation protocols for nucleic acid extraction (Trizol, RLT buffer, or AVL buffer) was feasible. We have demonstrated that the inactivation does not affect sample quality and can work with existing methods for inactivation."
-    }
-}

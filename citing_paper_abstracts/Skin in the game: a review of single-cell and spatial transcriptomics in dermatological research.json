@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "1618d2ad5a2dd0ea10bb34600f1e40cfde4fd0fc",
-        "title": "Skin in the game: a review of single-cell and spatial transcriptomics in dermatological research",
-        "abstract": "Abstract Single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics (ST) are two emerging research technologies that uniquely characterize gene expression microenvironments on a cellular or subcellular level. The skin, a clinically accessible tissue composed of diverse, essential cell populations, serves as an ideal target for these high-resolution investigative approaches. Using these tools, researchers are assembling a compendium of data and discoveries in healthy skin as well as a range of dermatologic pathophysiologies, including atopic dermatitis, psoriasis, and cutaneous malignancies. The ongoing advancement of single-cell approaches, coupled with anticipated decreases in cost with increased adoption, will reshape dermatologic research, profoundly influencing disease characterization, prognosis, and ultimately clinical practice."
-    }
-}

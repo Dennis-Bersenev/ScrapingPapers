@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "aa78f599e593c2045a84f301086240a643cf2481",
-        "title": "Isolation of Adipose Tissue Nuclei for Single-Cell Genomic Applications.",
-        "abstract": "Brown and beige fat are specialized adipose tissues that dissipate energy for thermogenesis by UCP1 (Uncoupling Protein-1)-dependent and independent pathways. Until recently, thermogenic adipocytes were considered a homogeneous population. However, recent studies have indicated that there are multiple subtypes or subpopulations that are distinct in developmental origin, substrate use, and transcriptome. Despite advances in single-cell genomics, unbiased decomposition of adipose tissues into cellular subtypes has been challenging because of the fragile nature of lipid-filled adipocytes. The protocol presented was developed to circumvent these obstacles by effective isolation of single nuclei from adipose tissue for downstream applications, including RNA sequencing. Cellular heterogeneity can then be analyzed by RNA sequencing and bioinformatic analyses."
-    }
-}

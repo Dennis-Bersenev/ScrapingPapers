@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9ad5a662f4bd8df08c3dd778071456125d7fe025",
-        "title": "Looking at the Developing Lung in Single-cell Resolution.",
-        "abstract": "Lung development is a complicated and delicate process, facilitated by spatially and temporarily coordinated crosstalk of up to 40 cell types. Developmental origin and heterogeneity of lung cell lineages in context of lung development have been a focus of research efforts for decades. Bulk RNA and protein measurements, RNA and protein labelling, and lineage tracing techniques have been traditionally employed. However, the complex and heterogeneous nature of lung tissue presents a particular challenge when identifying subtle changes in gene expression in individual cell types. Rapidly developing single-cell RNA sequencing (scRNA-seq) techniques allow for unbiased and robust assessment of complex cellular dynamics during biological processes in unprecedented ways. Discovered a decade ago, scRNA-seq has been applied in respiratory research to understand lung cellular composition and to identify novel cell types. Still, very few studies to date have addressed the single-cell transcriptome in healthy or aberrantly developing lung. In this mini-review, we discuss principal discoveries with scRNA-seq in the field of prenatal and postnatal lung development. In addition, we examine challenges and expectations, and propose future steps associated with the use of scRNA-seq to study developmental lung diseases."
-    }
-}

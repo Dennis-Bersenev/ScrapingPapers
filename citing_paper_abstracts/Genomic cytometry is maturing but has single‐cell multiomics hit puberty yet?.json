@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "e6dd692190e8c197c8033352e40fad9163f563ce",
-        "title": "Genomic cytometry is maturing but has single\u2010cell multiomics hit puberty yet?",
-        "abstract": "Since the inception of high throughput single-cell RNASeq approaches in 2015 [1, 2], the field of Genomic Cytometry has been maturing at a rapid pace. As part of this maturation, Genomic Cytometry is no longer restricted to RNA analysis but can be used to allow deep interrogation of RNA [3], DNA [4, 5], protein [6, 7], and epigenetic states [8]. Moreover, the ability to combine these modalities onto a single cell is ushering in a new era of single-cell multiomics [9\u201311]. The recent paper from Corselli et al. [12] combined a targeted scRNAseq approach with oligo AbSeq to simultaneously follow T-cells during in vitro stimulation. This allowed the authors to track a panel of 399 immune-related transcripts and a panel of 38 cell surface proteins over the course of a 14-day stimulation period. Importantly, results from the multiomic comparison were compared with traditional fluorescence flow cytometry. This helps understand how a multiomics approach compares to traditional gold standard methods. The comparison here would suggest that while genomic cytometry is maturing, it is still in its infancy and requires careful attention to see it mature into a robust reliable method with results identical to the current gold standard."
-    }
-}

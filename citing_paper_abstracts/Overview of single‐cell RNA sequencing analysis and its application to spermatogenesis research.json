@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "01d142bfda9fc5ee662cc21b198796ccf2a2bb3a",
-        "title": "Overview of single\u2010cell RNA sequencing analysis and its application to spermatogenesis research",
-        "abstract": "Single\u2010cell transcriptomics allows parallel analysis of multiple cell types in tissues. Because testes comprise somatic cells and germ cells at various stages of spermatogenesis, single\u2010cell RNA sequencing is a powerful tool for investigating the complex process of spermatogenesis. However, single\u2010cell RNA sequencing analysis needs extensive knowledge of experimental technologies and bioinformatics, making it difficult for many, particularly experimental biologists and clinicians, to use it."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "30b4de96343875bec587c20efeb7c90dacc3f2ee",
-        "title": "Towards High-Throughput Single-Cell Proteomics Using Droplet Microfluidics",
-        "abstract": "Single-cell proteomics is emerging as an effective method to characterize cell populations. To accommodate alternative protein labeling and quantification technologies, it may be beneficial to incorporate cell encapsulation and droplet coalescence in a standard workflow. In this work, a microfluidic device was designed and tested towards the goal of high-throughput single-cell analysis. The device incorporated a cell-encapsulated droplet generator, an on-chip DNA-barcode droplet separator, and a droplet merging module. The microfluidic droplets that can contain cells are merged with the barcode-containing droplets. A merging efficiency of 68% was achieved."
-    }
-}

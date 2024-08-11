@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d926399dea8ced87050eadc70d2cfbd4ae83b204",
-        "title": "Combined multidimensional single-cell protein and RNA profiling dissects the cellular and functional heterogeneity of thymic epithelial cells",
-        "abstract": "The network of thymic stromal cells provides essential niches with unique molecular cues controlling T-cell development and selection. Recent single-cell RNA-sequencing studies uncovered a large transcriptional heterogeneity among thymic epithelial cells (TEC) demonstrating a previously unappreciated complexity. However, there are only very few cell markers that allow a comparable phenotypic identification of TEC. Here we deconvoluted by massively parallel flow cytometry and machine learning known and novel TEC phenotypes into novel subpopulations and related these by CITEseq to the corresponding TEC subtypes defined by the cells\u2019 individual RNA profiles. This approach phenotypically identified perinatal cTEC, physically located these cells within the cortical stromal scaffold, displayed their dynamic change during the life course and revealed their exceptional efficiency in positively selecting immature thymocytes. Collectively, we have identified novel markers that allow for an unprecedented dissection of the thymus stromal complexity, the cells physical isolation and assignment of specific functions to individual TEC subpopulations."
-    }
-}

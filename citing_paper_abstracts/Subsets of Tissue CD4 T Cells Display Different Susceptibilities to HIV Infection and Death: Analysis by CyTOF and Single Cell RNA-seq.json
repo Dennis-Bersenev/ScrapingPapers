@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "573f61274871f84697f00e7f8fbbfc6f7bf8864d",
-        "title": "Subsets of Tissue CD4 T Cells Display Different Susceptibilities to HIV Infection and Death: Analysis by CyTOF and Single Cell RNA-seq",
-        "abstract": "CD4 T lymphocytes belong to diverse cellular subsets whose sensitivity or resistance to HIV-associated killing remains to be defined. Working with lymphoid cells from human tonsils, we characterized the HIV-associated depletion of various CD4 T cell subsets using mass cytometry and single-cell RNA-seq. CD4 T cell subsets preferentially killed by HIV are phenotypically distinct from those resistant to HIV-associated cell death, in a manner not fully accounted for by their susceptibility to productive infection. Preferentially-killed subsets express CXCR5 and CXCR4 while preferentially-infected subsets exhibit an activated and exhausted effector memory cell phenotype. Single-cell RNA-seq analysis reveals that the subsets of preferentially-killed cells express genes favoring abortive infection and pyroptosis. These studies emphasize a complex interplay between HIV and distinct tissue-based CD4 T cell subsets, and the important contribution of abortive infection and inflammatory programmed cell death to the overall depletion of CD4 T cells that accompanies untreated HIV infection."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "b4ebb13660377a989671cb175e2fca995ac951fe",
-        "title": "New insights into hematopoietic differentiation landscapes from single-cell RNA sequencing.",
-        "abstract": "Single-cell transcriptomics has recently emerged as a powerful tool to analyze cellular heterogeneity, discover new cell types, and infer putative differentiation routes. The technique has been rapidly embraced by the hematopoiesis research community, and like other technologies before, single-cell molecular profiling is widely expected to make important contributions to our understanding of the hematopoietic hierarchy. Much of this new interpretation relies on inference of the transcriptomic landscape as a representation of existing cellular states and associated transitions among them. Here we review how this model allows, under certain assumptions, charting of time-resolved differentiation trajectories with unparalleled resolution and how the landscape of multipotent cells may be rather devoid of discrete structures, challenging our preconceptions about stem and progenitor cell types and their organization. Finally, we highlight how promising technological advances may convert static differentiation landscapes into a dynamic cell flux model and thus provide a more holistic understanding of normal hematopoiesis and blood disorders."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "73e65c6cb5b560ce40423f99d7e5f4d0dbca5af2",
-        "title": "Spatial Transcriptomic Technologies",
-        "abstract": "Spatial transcriptomic technologies enable measurement of expression levels of genes systematically throughout tissue space, deepening our understanding of cellular organizations and interactions within tissues as well as illuminating biological insights in neuroscience, developmental biology and a range of diseases, including cancer. A variety of spatial technologies have been developed and/or commercialized, differing in spatial resolution, sensitivity, multiplexing capability, throughput and coverage. In this paper, we review key enabling spatial transcriptomic technologies and their applications as well as the perspective of the techniques and new emerging technologies that are developed to address current limitations of spatial methodologies. In addition, we describe how spatial transcriptomics data can be integrated with other omics modalities, complementing other methods in deciphering cellar interactions and phenotypes within tissues as well as providing novel insight into tissue organization."
-    }
-}

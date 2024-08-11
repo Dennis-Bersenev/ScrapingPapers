@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ab764c5c5f524af1e3f6ba252045a78a2876aa57",
-        "title": "Multi-omic analyses in immune cell development with lessons learned from T cell development",
-        "abstract": "Traditionally, flow cytometry has been the preferred method to characterize immune cells at the single-cell level. Flow cytometry is used in immunology mostly to measure the expression of identifying markers on the cell surface, but\u2014with good antibodies\u2014can also be used to assess the expression of intracellular proteins. The advent of single-cell RNA-sequencing has paved the road to study immune development at an unprecedented resolution. Single-cell RNA-sequencing studies have not only allowed us to efficiently chart the make-up of heterogeneous tissues, including their most rare cell populations, it also increasingly contributes to our understanding how different omics modalities interplay at a single cell resolution. Particularly for investigating the immune system, this means that these single-cell techniques can be integrated to combine and correlate RNA and protein data at the single-cell level. While RNA data usually reveals a large heterogeneity of a given population identified solely by a combination of surface protein markers, the integration of different omics modalities at a single cell resolution is expected to greatly contribute to our understanding of the immune system."
-    }
-}

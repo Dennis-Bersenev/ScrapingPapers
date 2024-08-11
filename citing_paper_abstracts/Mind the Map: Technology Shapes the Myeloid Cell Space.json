@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "0c74597a8fadcc6f10237d360a530096318a3351",
-        "title": "Mind the Map: Technology Shapes the Myeloid Cell Space",
-        "abstract": "The myeloid cell system shows very high plasticity, which is crucial to quickly adapt to changes during an immune response. From the beginning, this high plasticity has made cell type classification within the myeloid cell system difficult. Not surprising, naming schemes have been frequently changed. Recent advancements in multidimensional technologies, including mass cytometry and single-cell RNA sequencing, are challenging our current understanding of cell types, cell subsets, and functional states of cells. Despite the power of these technologies to create new reference maps for the myeloid cell system, it is essential to put these new results into context with previous knowledge that was established over decades. Here we report on earlier attempts of cell type classification in the myeloid cell system, discuss current approaches and their pros and cons, and propose future strategies for cell type classification within the myeloid cell system that can be easily extended to other cell types."
-    }
-}

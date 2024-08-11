@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "a2f4e636c59805915d3273e7feceff13f15b097b",
-        "title": "Single-cell sequencing, spatial transcriptome ad periodontitis: Rethink pathogenesis and classification.",
-        "abstract": "OBJECTIVE\nThis narrative review illuminates on the application of single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics (ST) in periodontitis and highlights the probability of relating cell population and gene signatures to the pathogenesis of the disease for a better diagnosis.\n\n\nMETHODS\nAn electronic search of the literature in the PubMed database for the keywords, \"single cell sequencing\" OR \"spatial transcriptomics\" and \"periodontitis\" OR \"gingiva\" OR \"oral mucosa\" yielded 486 research articles and reviews. After filtering duplicates and careful curation, 22 papers conducted in humans were retained.\n\n\nRESULTS\nThe molecular mechanisms underlying periodontitis are complex and involve the interaction of multiple cells and various gene expressions. Most residing cells in periodontal tissues participate in maintaining homeostasis and health, while in addition to infiltrating immune cells contribute to the fight against the bacterial insult.\n\n\nCONCLUSION\nscRNA-seq and ST have provided new insights into the cellular and molecular changes associated with periodontitis for a better diagnosis and clinical outcome. New functions of cells and genes are revealed with these techniques; however, no cells or gene signatures are attributed to periodontitis so far."
-    }
-}

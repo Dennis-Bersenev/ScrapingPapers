@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "155a2e40d6475a4f05d3c54d2dd79db393440068",
-        "title": "Experimental and computational technologies to dissect the kidney at the single-cell level.",
-        "abstract": "The field of single-cell technologies, in particular single-cell genomics with transcriptomics and epigenomics, and most recently single-cell proteomics, is rapidly growing and holds promise to advance our understanding of organ homoeostasis and disease, and facilitate the identification of novel therapeutic targets and biomarkers. This review offers an introduction to these technologies. In addition, as the size and complexity of the data require sophisticated computational methods for analysis and interpretation, we will also provide an overview of these methods and summarize the single-cell literature specifically pertaining to the kidney."
-    }
-}

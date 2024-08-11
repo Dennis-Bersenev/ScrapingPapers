@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "5660bd87dcc6e95e6b38fbe656de5087292bf35e",
-        "title": "Single cell analysis reveals immune cell\u2013adipocyte crosstalk regulating the transcription of thermogenic adipocytes",
-        "abstract": "Immune cells are vital constituents of the adipose microenvironment that influence both local and systemic lipid metabolism. Mice lacking IL10 have enhanced thermogenesis, but the roles of specific cell types in the metabolic response to IL10 remain to be defined. We demonstrate here that selective loss of IL10 receptor \u03b1 in adipocytes recapitulates the beneficial effects of global IL10 deletion, and that local crosstalk between IL10-producing immune cells and adipocytes is a determinant of thermogenesis and systemic energy balance. Single Nuclei Adipocyte RNA-sequencing (SNAP-seq) of subcutaneous adipose tissue defined a metabolically-active mature adipocyte subtype characterized by robust expression of genes involved in thermogenesis whose transcriptome was selectively responsive to IL10R\u03b1 deletion. Furthermore, single-cell transcriptomic analysis of adipose stromal populations identified lymphocytes as a key source of IL10 production in response to thermogenic stimuli. These findings implicate adaptive immune cell-adipocyte communication in the maintenance of adipose subtype identity and function."
-    }
-}

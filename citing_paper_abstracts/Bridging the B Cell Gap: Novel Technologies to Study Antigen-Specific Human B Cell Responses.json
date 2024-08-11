@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "002706db676789b5131e1e99048db9ce89dfa741",
-        "title": "Bridging the B Cell Gap: Novel Technologies to Study Antigen-Specific Human B Cell Responses",
-        "abstract": "The generation of high affinity antibodies is a crucial aspect of immunity induced by vaccination or infection. Investigation into the B cells that produce these antibodies grants key insights into the effectiveness of novel immunogens to induce a lasting protective response against endemic or pandemic pathogens, such as influenza viruses, human immunodeficiency virus, or severe acute respiratory syndrome coronavirus-2. However, humoral immunity has largely been studied at the serological level, limiting our knowledge on the specificity and function of B cells recruited to respond to pathogens. In this review, we cover a number of recent innovations in the field that have increased our ability to connect B cell function to the B cell repertoire and antigen specificity. Moreover, we will highlight recent advances in the development of both ex vivo and in vivo models to study human B cell responses. Together, the technologies highlighted in this review can be used to help design and validate new vaccine designs and platforms."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "392888bcc5d2e3d6f4a704d2adfefcae34d5e4f8",
-        "title": "Computational detection of doublets in single-cell RNA sequencing",
-        "abstract": "Questo lavoro si occupa di uno dei problemi nati con il sequenziamento single cell, il problema delle doublets. Esso e rappresentato dall'aggregazione o cattura insieme di due cellule durante l'analisi. Le doublets sono fattori di \"confusione\" \u009dche possono portare a falsi risultati nell'analisi. Questa tesi studia due metodi computazionali, DoubletFinder e Doubletdecon, che classificano tali cellule."
-    }
-}

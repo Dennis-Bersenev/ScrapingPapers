@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "cf422ba886b3a9e64b3c787431a7ac1b038f67f0",
-        "title": "Analytical Workflows for Single\u2010Cell Multiomic Data Using the BD Rhapsody Platform",
-        "abstract": "The conversion of raw sequencing reads to biologically relevant data in high\u2010throughput single\u2010cell RNA sequencing experiments is a complex and involved process. Drawing meaning from thousands of individual cells to provide biological insight requires ensuring not only that the data are of the highest quality but also that the signal can be separated from noise. In this article, we describe a detailed analytical workflow, including six pipelines, that allows high\u2010quality data analysis in single\u2010cell multiomics. \u00a9 2024 The Authors. Current Protocols published by Wiley Periodicals LLC."
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "9d3370e28c6060833b62711f0b1a977559feace7",
-        "title": "Integrative bulk and single-cell profiling of pre-manufacture T-cell populations reveals factors mediating long-term persistence of CAR T-cell therapy.",
-        "abstract": "The adoptive transfer of Chimeric Antigen Receptor (CAR) T-cells represents a breakthrough in clinical oncology, yet both between- and within-patient differences in autologously-derived T cells are a major contributor to therapy failure. In order to interrogate the molecular determinants of clinical CAR T-cell persistence, we extensively characterized the pre manufacture T-cells of 71 patients with B-cell malignancies on trial to receive anti-CD19 CAR T-cell therapy. We performed RNA-Seq on sorted T-cell subsets from all 71 patients, followed by paired CITE-Seq and single-cell ATAC-Seq on T-cells from 6 of these patients. We found that chronic interferon signaling regulated by IRF7 was associated with poor CAR T-cell persistence across T-cell subsets, and that the TCF7 regulon not only associates with the favorable naive T-cell state, but is maintained in effector T-cells among patients with long term CAR T-cell persistence. These findings provide key insights into the underlying molecular determinants of clinical CAR T-cell function."
-    }
-}

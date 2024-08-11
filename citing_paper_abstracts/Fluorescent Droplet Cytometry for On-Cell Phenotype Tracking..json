@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "465bf6c4b06951f74fede358542b39b34c9ba7f4",
-        "title": "Fluorescent Droplet Cytometry for On-Cell Phenotype Tracking.",
-        "abstract": "Profiling the heterogeneous phenotypes of live cancer cells is a key capability that requires single-cell analysis. However, acquiring information at the single cell level for live cancer cells is challenging due to low abundance of cells available for study. Here, we report single-cell analysis enabled by fluorescent-droplet cytometry (FDC), an approach that uses a biomarker-specific enzymatic fluorescent assay carried out using a droplet microfluidic platform. FDC utilizes DNA-functionalized antibodies in droplets to achieve specific on-cell target detection and enables the single-cell resolution char-acterization and profiling of live cancer cells based on their surface phenotype expressions. Using this approach, we achieve live-cell phenotype profiling of single and multi-surface markers acquired with small (< 40 cells) collections of cells."
-    }
-}

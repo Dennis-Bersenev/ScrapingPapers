@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "8a99fea4f63727f78af57197a1e0dd5425dbe0ec",
-        "title": "Selection of antibody-binding covalent aptamers",
-        "abstract": "Aptamers are oligonucleotides with antibody-like binding function, selected from large combinatorial libraries. In this study, we modified a DNA aptamer library with N-hydroxysuccinimide esters, enabling covalent reactivity with cognate proteins. We selected for the ability to bind to mouse monoclonal antibodies, resulting in the isolation of two distinct covalent binding motifs. The covalent aptamers are specific for the Fc region of mouse monoclonal IgG1 and are cross-reactive with mouse IgG2a and other IgGs. Investigation into the covalent reactivity of the aptamers revealed a dependence on micromolar concentrations of Cu2+ ions which can be explained by residual catalyst remaining after modification of the aptamer library. The aptamers were successfully used as adapters in the formation of antibody-oligonucleotide conjugates (AOCs) for use in detection of HIV protein p24 and super-resolution imaging of actin. This work introduces a new method for the site-specific modification of native monoclonal antibodies and may be useful in applications requiring AOCs or other antibody conjugates."
-    }
-}

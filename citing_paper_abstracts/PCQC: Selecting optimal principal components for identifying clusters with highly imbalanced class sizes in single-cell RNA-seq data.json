@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "2e3059236c1797aa272730c1249ecf910083ebaf",
-        "title": "PCQC: Selecting optimal principal components for identifying clusters with highly imbalanced class sizes in single-cell RNA-seq data",
-        "abstract": "Summary Prior to identifying clusters in single cell gene expression experiments, selecting the top principal components is a critical step for filtering out noise in the data set. Identifying these top principal components typically focuses on the total variance explained, and principal components that explain small clusters from rare populations will not necessarily capture a large percentage of variance in the data. We present a computationally efficient alternative for identifying the optimal principal components based on the tails of the distribution of variance explained for each observation. We then evaluate the efficacy of our approach in three different single cell RNA-sequencing data sets and find that our method matches, or outperforms, other selection criteria that are typically employed in the literature. Availability and implementation pcqc is written in Python and available at github.com/RoussosLab/pcqc"
-    }
-}

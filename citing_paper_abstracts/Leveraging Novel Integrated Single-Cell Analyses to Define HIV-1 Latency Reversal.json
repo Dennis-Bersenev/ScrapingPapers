@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "d1aaa584a8d2ea32d5a3bf3f4420accf7e4e232e",
-        "title": "Leveraging Novel Integrated Single-Cell Analyses to Define HIV-1 Latency Reversal",
-        "abstract": "While suppressive antiretroviral therapy can effectively limit HIV-1 replication and evolution, it leaves behind a residual pool of integrated viral genomes that persist in a state of reversible nonproductive infection, referred to as the HIV-1 reservoir. HIV-1 infection models were established to investigate HIV-1 latency and its reversal; recent work began to probe the dynamics of HIV-1 latency reversal at single-cell resolution. Signals that establish HIV-1 latency and govern its reactivation are complex and may not be completely resolved at the cellular and regulatory levels by the aggregated measurements of bulk cellular-sequencing methods. High-throughput single-cell technologies that characterize and quantify changes to the epigenome, transcriptome, and proteome continue to rapidly evolve. Combinations of single-cell techniques, in conjunction with novel computational approaches to analyze these data, were developed and provide an opportunity to improve the resolution of the heterogeneity that may exist in HIV-1 reactivation. In this review, we summarize the published single-cell HIV-1 transcriptomic work and explore how cutting-edge advances in single-cell techniques and integrative data-analysis tools may be leveraged to define the mechanisms that control the reversal of HIV-1 latency."
-    }
-}

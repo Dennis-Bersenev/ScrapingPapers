@@ -1,7 +1,0 @@
-{
-    "citingPaper": {
-        "paperId": "ffe7cf06c25fa23f822a7ec22cb2708b47ed6529",
-        "title": "A review of single-cell transcriptomics and epigenomics studies in maternal and child health.",
-        "abstract": "Single-cell sequencing technologies enhance our understanding of cellular dynamics throughout pregnancy. We outlined the workflow of single-cell sequencing techniques and reviewed single-cell studies in maternal and child health. We conducted a literature review of single cell studies on maternal and child health using PubMed. We summarized the findings from 16 single-cell atlases of the human and mammalian placenta across gestational stages and 31 single-cell studies on maternal exposures and complications including infection, obesity, diet, gestational diabetes, pre-eclampsia, environmental exposure and preterm birth. Single-cell studies provides insights on novel cell types in placenta and cell type-specific marks associated with maternal exposures and complications."
-    }
-}
