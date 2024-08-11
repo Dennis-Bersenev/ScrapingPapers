@@ -3,7 +3,7 @@ Downloads all accessible papers (openaccess papers) as PDFs.
 """
 
 from key import SS_KEY as SS_API_KEY
-from key import proxies
+# from key import proxies
 from urllib.request import Request, urlopen
 
 import os
@@ -21,13 +21,6 @@ api_key = SS_API_KEY
 
 # Define headers with API key
 headers = {'x-api-key': api_key}
-
-# Define the directory name
-out_dir = 'papers_all_part2'
-
-# Create the directory if it doesn't exist
-if not os.path.exists(out_dir):
-    os.makedirs(out_dir)
 
 spoof_agents = [
     'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
@@ -76,7 +69,7 @@ def download_file(url, filename):
         
         response.raise_for_status()  # Check if the request was successful
         
-        filepath = os.path.join(out_dir, filename)
+        filepath = filename
 
         with open(filepath, 'wb') as file:
             file.write(response.content)
@@ -102,7 +95,11 @@ def strip_special_characters(input_string):
     return stripped_string
 
 
-def get_paper_text(query_params, url):
+
+def get_paper(title: str, url):
+    query_params = {'query': title, }
+    
+    
     # Send the API request
     search_response = requests.get(url, params=query_params, headers=headers)
     
@@ -127,6 +124,17 @@ def get_paper_text(query_params, url):
     return pdf_url
 
 
-def query_semantic_scholar(query_params, url):
-    # TODO: a generic version
-    return
+def query_semantic_scholar(query_params, url, outpath):
+        
+    response = requests.get(url, params=query_params, headers=headers)
+    
+    if response.status_code == 200:
+        json_data = json.dumps(response.json()['data'][0], indent=4)
+        
+        # Write the JSON string to a file
+        with open(outpath, 'w') as file:
+            file.write(json_data)
+        print(json_data)
+    
+    else:
+        return None        
